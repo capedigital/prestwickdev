@@ -1,0 +1,87 @@
+/* EYES ON THE PRIZE CSS*/
+
+ 
+html {
+    scroll-behavior: smooth;
+}
+
+/* MEDIA QUERIES */
+
+/* MOBILE FIRST */
+
+#content {
+   background: linear-gradient(140deg,#EC4A58 30%, #ffdb6d  ); /* Standard syntax */
+    margin-top: -15px;
+}
+
+.ph-mustard,
+.ph-anchorage a {
+    color: #ffdb6d;
+}
+
+.ph-anchorage a {
+    text-decoration: underline;
+}
+
+.ph-roundborder {
+    border: 3px solid #FFDE67;
+    border-radius: 8px;
+
+}
+
+
+.ph-eotplanding-giveaway, .ph-eotplanding-classactivities, .ph-eotplanding-librarypacksgrade {
+    background-color: #ffdb6d;
+    padding: 60px 30px 60px 30px;
+    margin: 30px 0 0 0;
+    color: #000000;
+}
+
+.ph-eotplanding-special, .ph-eotplanding-librarypacksclass {
+    background-color: #EC4A58;
+    padding: 0px 50px 20px 50px;
+    margin: 30px 0 0 0;
+    color: #FFF;
+}
+
+
+.ph-h1.ph-xl {
+    font-size: 3em !important;
+    line-height: 1.5em !important;
+}
+
+.ph-separator {
+    margin-bottom: 20px !important;
+}
+
+.ph-gridblock {
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.ph-button-outline {
+    background: none !important;
+    border: 1px solid #ffffff !important;
+    color: #ffffff !important;
+}
+
+.ph-button-outline:hover {
+    background: #454545 !important;
+    color: #ffffff !important;
+}
+
+
+@media only screen and (min-width: 480px) {}
+
+/* TABLETS */
+@media only screen and (min-width: 768px) {}
+
+/* DESKTOPS */
+@media only screen and (min-width: 1024px) {}
+
+@media only screen and (min-width: 1130px) {}
+
+/*END MEDIA QUERIES*/

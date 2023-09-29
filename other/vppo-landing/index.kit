@@ -1,0 +1,83 @@
+
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+        <style>
+        body {
+            font-family: Open Sans, Helvetica Neue, sans-serif;
+            letter-spacing: -.03em;
+            margin: 0;
+        }
+
+        .row {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            width: 100%;
+            height: 100%
+        }
+
+        .column {
+            display: flex;
+            flex-direction: column;
+            flex-basis: 100%;
+            flex: 1;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .leftfill img {
+        	min-width: 320px;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            vertical-align: top;
+        }
+
+        img.landing-logo {
+            width: 100%;
+        }
+
+        .block {
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem;
+        }
+
+        h1 { font-size: 2rem; }
+		p { font-size: 1.2rem; line-height: 1.5rem;  margin-bottom: 1rem; }
+
+        @media screen and (max-width:768px) {
+            .column {
+                width: 100%;
+            }
+            .leftfill {
+            	display: none;
+            }
+        }
+        </style>
+
+    
+    <section class="landing-intro">
+        <div class="row">
+            <div class="column leftfill">
+                <img src="https://www.prestwickhouse.com/Image Library/Emails/2020/prestwickdigital/landing-leftcol.jpg" alt="PrestwickDigital.com | Vocabulary Power Plus Online" title="PrestwickDigital.com | Vocabulary Power Plus Online">
+            </div>
+            <div class="column">
+                <div class="block">
+                    <div>
+                    	<img class="landing-logo" src="https://www.prestwickhouse.com/Image Library/Emails/2020/prestwickdigital/landing-logo.png" alt="PrestwickDigital.com | Vocabulary Power Plus Online" title="PrestwickDigital.com | Vocabulary Power Plus Online">
+                        <h1>Login to Vocabulary Power Plus Online</h1>
+                        <p>Strengthen your vocabulary skills in just minutes a week.
+                        </p>
+                        <p>Login above or contact us to get started! </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+

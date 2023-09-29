@@ -1,0 +1,192 @@
+<!-- @import ../header.kit -->
+<script>
+    $(document).ready(function() {
+        $('#form1').submit(function(e) {
+            e.preventDefault();
+        });   
+        
+        var input = document.getElementById("keywords-header");
+        input.addEventListener("keyup", function(event) {
+            if (event.keyCode === 13) {
+                event.preventDefault();
+                return searchFwd()
+                }
+        });
+        
+    });
+</script>
+<div class="ph-welcome">
+    <section class="ph-header-flat ph-invert" style="border-left: 20px solid #0e7a51; background-position: right; padding-bottom: 0px;">
+        <div class="row">
+            <div class="column lg-13">
+                <div class="h-pushLg">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="/">Home</a></li>
+                        <li class="breadcrumb-item active">Getting Started</li>
+                    </ol>
+                    <div class="h-textLeft">
+                        <h1 class="ph-h1">Welcome!</h1>
+                        <p>Thank you for choosing Prestwick House for your English and Language Arts needs. Below, discover all that Prestwick House offers!</p>
+                        <div class="search h-pushLgTop h-pushLgBottom">
+                            <div class="ph-searchbox">
+                                
+                                    <label for="search-input">Search:</label>
+                                    <input aria-label="Search" id="keywords-header" class="txtHeaderKeyword" name="" placeholder="Search by Title, Author, or ISBN..." speech="" type="search" value="franklin" onsubmit="return searchFwd();">
+                                    <svg viewBox="0 0 24 24" onclick="javascript:return searchFwd();" id="svgSearch">
+                                        <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z">
+                                            <path d="M0 0h24v24H0z" fill="none">
+                                            </path>
+                                        </path>
+                                    </svg>
+                               
+
+                            </div>
+                        </div>
+                        <div class="ph-cta">
+                            <ol>
+                                <li><a href="https://www.prestwickhouse.com/catalogue" alt="Digital Catalogue" title="Digital Catalogue">► Digital Catalogue</a></li>
+                                <li><a href="https://www.prestwickhouse.com/more-resources/free-library" alt="The English Teacher's Free Library" title="The English Teacher's Free Library">► Free Library</a></li>
+                                <li><a href="https://www.prestwickhouse.com/blog" alt="Prestwick House Blog" title="Prestwick House Blog">► Blog</a></li>
+                                <li><a href="https://www.prestwickhouse.com/other/contact-us" alt="Contact Prestwick House" title="Contact Prestwick House">► Contact Us</a></li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="column lg-10"></div>
+        </div>
+    </section>
+    <section class="ph-text-fullwidth">
+        <div class="row">
+            <div class="column lg-24 h-pushXLgTop">
+                <a <href="https://www.prestwickhouse.com/literature/literature-guides/instant-short-story-packs"><img src="https://www.prestwickhouse.com/Image Library/img/ads/issp-welcome-ad.png" alt="Instant Short Story Packs | Prestwick House, Inc" title="Instant Short Story Packs | Prestwick House, Inc"></a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="column lg-24 h-pushTop h-textCenter">
+                <div class="ph-separator">
+                    <div class="ph-line">
+                        <!-- ANCHOR -->
+                        <div class="ph-anchor" id="anchor4-6"></div>
+                        <p class="ph-h1">Product Categories</p>
+                    </div>
+                    <p class="ph-h4 h-pushTop" style="font-weight: normal !important;">Ready to start planning your next lesson, or looking for a fresh approach to tired literature? Here you can browse over 300 exciting titles, find new reading programs, sample various Prestwick House writing strategies, and much more!</p>
+                </div>
+            </div>
+            <div class="column lg-12">
+                <div class="row">
+                    <div class="column lg-8">
+                        <a href="https://www.prestwickhouse.com/vocabulary" alt="Vocabulary" title="Vocabulary"><img src="https://www.prestwickhouse.com/image%20library/img/landing/ph-landinghero-vocabulary.png" alt="Vocabulary"></a>
+                    </div>
+                    <div class="column lg-16">
+                        <p class="ph-h3">Vocabulary</p>
+                        <p class="">Find the vocabulary program that’s right for your class</p>
+                        <a href="https://www.prestwickhouse.com/vocabulary" class="button ph-button ph-button-sm">View More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="column lg-12">
+                <div class="row">
+                    <div class="column lg-8">
+                        <a href="https://www.prestwickhouse.com/literature" alt="Literature" title="Literature"><img src="https://www.prestwickhouse.com/image%20library/img/landing/ph-landinghero-literature.png" alt="Literature"></a>
+                    </div>
+                    <div class="column lg-16">
+                        <p class="ph-h3">Literature</p>
+                        <p class="">Browse over 1,500 discount paperbacks and lit guides</p>
+                        <a href="https://www.prestwickhouse.com/literature" class="button ph-button ph-button-sm">View More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="column lg-12 h-pushXLgTop">
+                <div class="row">
+                    <div class="column lg-8">
+                        <a href="https://www.prestwickhouse.com/grammar-writing" alt="Grammar & Writing" title="Grammar & Writing"><img src="https://www.prestwickhouse.com/image%20library/img/landing/ph-landinghero-grammarwriting.png" alt="Grammar & Writing"></a>
+                    </div>
+                    <div class="column lg-16">
+                        <p class="ph-h3">Grammar & Writing</p>
+                        <p class="">Help your students become powerful writers</p>
+                        <a href="https://www.prestwickhouse.com/grammar-writing" class="button ph-button ph-button-sm">View More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="column lg-12 h-pushXLgTop">
+                <div class="row">
+                    <div class="column lg-8">
+                        <a href="https://www.prestwickhouse.com/reading" alt="Reading" title="Reading"><img src="https://www.prestwickhouse.com/image%20library/img/landing/ph-landinghero-reading.png" alt="Reading"></a>
+                    </div>
+                    <div class="column lg-16">
+                        <p class="ph-h3">Reading</p>
+                        <p class="">Teach rigorous literature and nonfiction with ease</p>
+                        <a href="https://www.prestwickhouse.com/reading" class="button ph-button ph-button-sm">View More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="ph-listblock-three h-pushXLgTop">
+        <div class="row">
+            <div class="column lg-24 h-pushTop h-textCenter">
+                <div class="ph-separator">
+                    <div class="ph-line">
+                        <p class="ph-h1 h-textCenter">Getting Started</p>
+                    </div>
+                    <p class="ph-h4 h-pushTop" style="font-weight: normal !important;">We’re always looking for great ways to help out English teachers. Here are some useful links to get you started:</p>
+                </div>
+            </div>
+        </div>
+        <div class="row h-pushXLgTop">
+            <div class="column xsm-24 sm-12 med-8 ph-mobile-center">
+                <ol>
+                    <li class="header" style="letter-spacing: 1px;">My Resource Library</li>
+                    <li>
+                        <p>Instant access to all of your Prestwick House downloadables.</p>
+                    </li>
+                    <li><a href="https://www.prestwickhouse.com/my-account/my-resource-library" class="button ph-button ph-button-sm">Check it out</a></li>
+                </ol>
+            </div>
+            <div class="column xsm-24 sm-12 med-8 ph-mobile-center">
+                <ol>
+                    <li class="header" style="letter-spacing: 1px;">The English Teacher's Free Library</li>
+                    <li>
+                        <p>Nowhere else will you find colorful posters, thought-provoking lesson plans, fun crossword puzzles, and more, all free!</p>
+                    </li>
+                    <li><a href="https://www.prestwickhouse.com/free-library" class="button ph-button ph-button-sm">Browse the library</a></li>
+                </ol>
+            </div>
+            <div class="column xsm-24 sm-12 med-8 ph-mobile-center">
+                <ol>
+                    <li class="header" style="letter-spacing: 1px;">Discover New Paperbacks</li>
+                    <li>
+                        <p>Find the latest editions to our huge list of paperbacks, and you might end up teaching your new favorite book!</p>
+                    </li>
+                    <li><a href="https://www.prestwickhouse.com/paperbacks" class="button ph-button ph-button-sm">See what's new</a></li>
+                </ol>
+            </div>
+            <div class="column xsm-24 sm-12 med-8 ph-mobile-center">
+                <ol>
+                    <li class="header" style="letter-spacing: 1px;">Frequently Asked Questions</li>
+                    <li>
+                        <p>You might have questions — we have the answers!</p>
+                    </li>
+                    <li><a href="https://www.prestwickhouse.com/faqs" class="button ph-button ph-button-sm">Search the FAQs</a></li>
+                </ol>
+            </div>
+            <div class="column xsm-24 sm-12 med-8 ph-mobile-center">
+                <ol>
+                    <li class="header" style="letter-spacing: 1px;">Chat with us!</li>
+                    <li>
+                        <p>Have a question we didn’t answer? Get in touch with us during our normal business hours, or leave us a message.</p>
+                    </li>
+                    <li><a href="javascript:$zopim.livechat.window.show()" class="button ph-button ph-button-sm">Start chatting</a></li>
+                </ol>
+            </div>
+        </div>
+    </section>
+    <!-- ANCHOR -->
+    <section class="ph-backtotop">
+        <div class="row">
+            <div class="column h-textCenter"><a href="#backToTop"><img class="ph-bttbutt" alt="Back to Top" width="75" height="75" /></a></div>
+        </div>
+    </section>
+</div>
+<!-- @import ../footer.kit -->

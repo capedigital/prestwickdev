@@ -1,0 +1,119 @@
+/*LANDING PAGE FOR 2021 TEACHER APPRECIATION MONTH*/
+html { scroll-behavior: smooth; }
+.equal { display: flex; display: -webkit-flex; }
+div#content { background-color: #eeeeee !important; }
+div#content div.callout { background-color: transparent !important; }
+a[href],
+input[type='submit'],
+input[type='image'],
+label[for],
+select,
+button,
+.pointer { cursor: pointer; }
+.italic,
+a.italic { font-style: italic !important; }
+.bold { font-weight: bold !important; }
+.open-sans { font-family: 'Open Sans', Arial, sans-serif !important; }
+
+/*stop drop shadows outside main container
+.tam-landing {
+   overflow: hidden;
+}
+*/
+
+/*no gutters hack*/
+.row.no-gutters { margin-right: 0; margin-left: 0; }
+.row.no-gutters>[class^="col-"],
+.row.no-gutters>[class*=" col-"] { padding-right: 0; padding-left: 0; }
+.shadowed { box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.10); }
+
+/* HERO */
+.tam-landing .hero {    
+		/*background-image: url('https://www.prestwickhouse.com/Image Library/2020 ELA Resource Planner/ela-resplan-hero.jpg');
+	    background-size: cover;
+	    padding: 100px;
+	    padding-top: 25px;
+	    padding-bottom: 75px;
+	    margin-bottom: 20px;*/
+		padding: 40px 0px 0px 0px; }
+.tam-landing .hero h1 { color: #000; font-size: 36px; }
+.tam-landing .hero p { margin: 0 auto; margin-top: 8px; margin-bottom: 15px; width: 500px; font-family: 17px/24px 'Open Sans'; font-weight: 300 !important; }
+.tam-landing .hero a { font: 14px/16px 'Open Sans'; font-weight: 700 !important; }
+/* .tam-landing .hero img { box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.10); margin-bottom: 50px; } */
+.tam-landing .anchorage a { color: #A3B24D !important; font: 22px/32px 'Open Sans', Arial, sans-serif !important; }
+.tam-landing #giveaways h3:after { content: ""; display: block; height: 1px; background: #b4b4b4; margin-top: 0px; }
+.tam-landing .giveaway-title:nth-child(n+2):before { content: ""; display: block; height: 1px; background: #b4b4b4; width: 10%; margin: 30px auto; }
+.tam-landing #giveaways h3 { padding: 0px 0px 20px 0px; font: 24px/42px 'Open Sans', sans-serif !important; font-weight: 700 !important; color: #3c3c3c; letter-spacing: -0.02em; }
+.tam-landing #giveaways ul { list-style: disc; }
+.tam-landing #giveaways ul li { padding: 0px 0px 20px 0px; font: 16px/28px 'Open Sans', sans-serif !important; letter-spacing: -0.02em; }
+.tam-landing .bar-block { margin: 50px 0px 50px 0px; padding: 50px 0px 50px 0px; color: #FFFFFF; background-color: #FFFFFF; }
+.tam-landing .bar-block h2 { padding: 0px 0px 20px 0px; font: 40px/42px 'Open Sans', sans-serif !important; font-weight: 700 !important; color: #A3B24D; letter-spacing: -0.02em; }
+.tam-landing .bar-block p { padding: 0px 20px 20px 0px !important; color: #7B7B7B; font: 20px/32px 'Open Sans', sans-serif !important; font-weight: 400 !important; }
+.btn-sm { background-color: #A3B24D; color: #FFFFFF; font: 1.25rem/0.5rem 'Open Sans', sans-serif !important; font-weight: 700 !important; padding: 1.25rem 1.5rem !important; border-radius: .3rem !important; text-transform: uppercase; border: none; transition: background 0.2s ease-in-out; }
+.btn-sm:hover { background-color: #c2da3c; transition: background 0.2s ease-in-out; }
+.btn-md { background-color: #A3B24D !important; color: #FFFFFF !important; font: 1rem/0.5rem 'Open Sans', sans-serif !important; font-weight: 700 !important; padding: 1.25rem 2rem !important; border-radius: .3rem !important; text-transform: uppercase; border: none; transition: background 0.2s ease-in-out; }
+.btn-md:hover { color: #FFFFFF !important; background-color: #c2da3c !important; transition: background 0.2s ease-in-out; }
+.btn-lg { background-color: #A3B24D; color: #FFFFFF; font: 1.8rem/1.5rem 'Open Sans', sans-serif !important; font-weight: 700 !important; padding: 1.5rem 2.5rem !important; border-radius: .3rem !important; text-transform: uppercase; border: none; transition: background 0.2s ease-in-out; }
+.btn-lg:hover { background-color: #c2da3c; transition: background 0.2s ease-in-out; }
+.card-block .dropdown-menu li a { margin-bottom: 0; font-family: 'Open Sans', sans-serif !important; color: #f72882; font-size: 16px; line-height: 26px; font-weight: 700; padding: 10px 20px; }
+.form-builder .right-side { box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.10) !important; }
+.form-footer input { background-color: #A3B24D !important; color: #FFFFFF !important; font: 1.25rem/0.5rem 'Open Sans', sans-serif !important; font-weight: 700 !important; padding: 1.25rem 2.5rem !important; border-radius: .3rem !important; text-transform: uppercase !important; border: none !important; transition: background 0.2s ease-in-out !important; box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.10) !important; }
+.form-footer input:hover { background-color: #f72882 !important; transition: background 0.2s ease-in-out !important; }
+
+/* ITEMS */
+.tam-landing .download-blocks { margin-bottom: 40px; margin-top: 40px; }
+.tam-landing .headliner { padding-top: 20px; }
+.tam-landing .headliner h2,
+.tam-landing .headliner h2 a { padding-bottom: 0px; color: #7B7B7B; font: 42px/42px 'Open Sans', sans-serif !important; font-weight: 400 !important; letter-spacing: -0.02em; }
+.tam-landing .headliner p { font: 30px/42px 'Open Sans', Arial, sans-serif !important; font-weight: 300 !important; color: #7B7B7B !important; padding: 10px 50px 0px 50px !important; letter-spacing: -0.02em !important; }
+.tam-landing .download-blocks h2.fl-item { font-size: 21px; font-size: 25.2px; color: #808080; }
+.tam-landing .download-blocks h2.fl-item a { font-size: 21px; font-size: 25.2px; color: #808080; }
+.tam-landing h2 a:hover { color: #0d7480; }
+.tam-landing article.card { border-radius: 0px; border: none; width: 280px; box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.10); }
+.card { background: #fff; border-radius: 2px; display: inline-block; position: relative;    /*box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);*/ transition: all 0.3s cubic-bezier(.25, .8, .25, 1); }
+.card-img { overflow: hidden; height: 158px; position: relative; }
+.card-img img { display: block; width: 100%; height: auto; position: absolute; top: 0; }
+.card:hover { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24); }
+.card-img-overlay { padding: 0px; height: 0px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24); z-index: 3; }
+.card-copy { height: 180px; }
+.card-copy ul { margin-top: 10px; list-style: none; margin-left: 0px; }
+.card-copy ul li { line-height: 1.3em; }
+.card-copy-short { height: 105px; }
+a.card-cta { color: #4CBAFF; }
+.cta-container { height: 400px; display: table; padding-left: 25px; padding-right: 25px; }
+.cta-container h3 { display: table-cell; vertical-align: middle; text-align: center; }
+article.cta-card { background: #eeeff4; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24); transition: all 0.3s cubic-bezier(.25, .8, .25, 1); }
+#vocabulary article.cta-card { background-image: url('https://www.prestwickhouse.com/Image Library/2020 ELA Resource Planner/2020_ELA_Planner_Vocabulary_CTA.jpg'); background-color: #524F7D; background-size: cover; background-position: center; }
+#writing-grammar article.cta-card { background-image: url('https://www.prestwickhouse.com/Image Library/2020 ELA Resource Planner/2020_ELA_Planner_Wrtng_Grmmr_CTA.jpg'); background-color: #524F7D; background-size: cover; background-position: center; }
+#reading article.cta-card { background-image: url('https://www.prestwickhouse.com/Image Library/2020 ELA Resource Planner/2020_ELA_Planner_Reading_CTA.jpg'); background-color: #524F7D; background-size: cover; background-position: center; }
+span.link-span { position: absolute; width: 100%; height: 100%; top: 0; left: 0; z-index: 1; }
+.tam-landing .card-block { background: #FFFFFF; height: 270px; padding: 1.8rem; }
+.tam-landing .card-block-short { background: #FFFFFF; height: 185px; padding: 1.8rem; }
+.tam-landing h3.card-title { color: #A3B24D; }
+.tam-landing h3.card-title a { color: #A3B24D; font-weight: 700; font-size: 20px; line-height: 28px; text-shadow: none; }
+.tam-landing a.fl-cta { color: #fff; font-family: 'Open Sans'; font-weight: 700; font-size: 21px; line-height: 25.2px; }
+.tam-landing p.card-text { color: #7b7b7b; font: 16px/24px 'Open Sans' !important; font-weight: 300 !important; }
+.tam-landing .resources-block { padding: 50px 18px 0px 18px; }
+.tam-landing .resources-block .card-text { padding: 45px; }
+.tam-landing .resources-block .card-text h2 { font: 26px/32px 'Open Sans', sans-serif; color: #7b7b7b; font-weight: 400; text-shadow: none; text-decoration: none; padding-bottom: 15px !important; }
+.tam-landing .resources-block .card-text p { font: 16px/24px 'Open Sans', sans-serif; color: #7b7b7b; font-weight: 300; text-shadow: none; text-decoration: none; margin-bottom: 20px; }
+.tam-landing .resource-thumb { overflow: hidden; position: relative; background: #000; width: 100%; padding-bottom: 100%; }
+.tam-landing .resource-thumb img { position: absolute; width: 300px; min-width: 100%; min-height: 100%; }
+.tam-landing .resource-thumb a { height: 100%; width: 100%; display: block; }
+.resourcelist-col { padding: 16px; padding-left: 24px; padding-top: 0; margin-left: 24px; border-left: 1px solid #333; }
+.resourcelist-col ul { list-style: none; padding: 12px 0px 0px 12px; padding-left: 0; margin-left: 0; }
+.resourcelist-col ul li { margin-bottom: 20px; }
+.resourcelist-col ul p { margin-bottom: 5px; }
+.resourcelist-col h3 { font: 26px/32px 'Open Sans', sans-serif; color: #585858; font-weight: 700; text-shadow: none; text-decoration: none; padding-bottom: 10px !important; }
+.resourcelist-col .dl-cta p { margin-bottom: 20px; }
+.resourcelist-col li a { font: 14px/16px 'Open Sans', Arial, sans-serif; color: #089ff0 !important; text-decoration-color: #EA215A !important; text-decoration-thickness: .15em !important; text-underline-offset: 2px !important; }
+.resourcelist-col li a:hover { font: 14px/16px 'Open Sans', Arial, sans-serif; color: #005580 !important; text-decoration: underline !important; }
+div#content div.callout h1 { font: 38px/44px 'Open Sans', Arial, sans-serif; font-weight: 700; color: #585858 !important; }
+.page-content a { font: 16px/26px 'Open Sans', Arial, sans-serif; color: #089ff0 !important; text-decoration-color: #EA215A !important; text-decoration-thickness: .15em !important; text-underline-offset: 2px !important; }
+.page-content a:hover { font: 16px/26px 'Open Sans', Arial, sans-serif; color: #005580 !important; text-decoration: underline; }
+.page-content p { font: 16px/26px 'Open Sans', Arial, sans-serif; }
+.page-content h2 { font: 18px/24px 'Open Sans', Arial, sans-serif !important; font-weight: 700 !important; color: #585858 !important; padding: 20px 0px 20px 0px !important; }
+.lede { font: 22px/30px 'Open Sans', Arial, sans-serif !important; font-weight: 400 !important; color: #585858 !important; padding: 20px 0px 20px 0px !important; }
+.lede a { font: 22px/30px 'Open Sans', Arial, sans-serif !important; font-weight: 400 !important; }
+#alldl-nav .btn { background-color: #524f7d !important; color: #FFFFFF !important; font: 1.25rem/0.5rem 'Open Sans', sans-serif !important; font-weight: 700 !important; padding: 1.25rem 2rem !important; text-transform: uppercase; border-color: #cecece; transition: background 0.2s ease-in-out; }
+#alldl-nav .btn:hover { color: #FFFFFF !important; background-color: #A3B24D !important; transition: background 0.2s ease-in-out; }

@@ -1,0 +1,1 @@
+var date=new Date,year=date.getFullYear(),month=date.getMonth(),day=date.getDate();function SetDivContent(){2022==year&&12==month?day>=3&&day<29?$("#first").css("display","block"):11==day||12==day?$("#second").css("display","block"):day>12&&$("#third").css("display","block"):2021==year&&month>=12&&day>=20&&$("#dateHid").css("display","block")}

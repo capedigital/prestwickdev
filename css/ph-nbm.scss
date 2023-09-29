@@ -1,0 +1,100 @@
+/* 2021 RESPONSIVE CUSTOM CSS*/
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* MEDIA QUERIES */
+
+/* MOBILE FIRST */
+
+#content {
+    background-color: #421359 !important;
+    margin-top: -15px;
+}
+
+.ph-mustard,
+.ph-anchorage a {
+    color: #FFDE67;
+}
+
+.ph-anchorage a {
+    text-decoration: underline;
+}
+
+.ph-roundborder {
+    border: 3px solid #FFDE67;
+    border-radius: 8px;
+
+}
+
+
+.ph-nbmlanding-giveaway, .ph-nbmlanding-classactivities, .ph-nbmlanding-librarypacksgrade {
+    background-image: url('https://www.prestwickhouse.com/Image Library/img/landing/national-book-month/entertowin-bg.jpg');
+    background-position: top center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #D1154D;
+    padding: 100px 30px 60px 30px;
+    margin: 30px 0 0 0;
+}
+
+.ph-nbmlanding-paperbacks, .ph-nbmlanding-librarypacksclass {
+    background-image: url('https://www.prestwickhouse.com/Image Library/img/landing/national-book-month/paperbacks-bg.jpg');
+    background-position: 0px -60px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #421359;
+    padding: 100px 30px 60px 30px;
+    margin: 30px 0 0 0;
+}
+
+
+.ph-h1.ph-xl {
+    font-size: 3em !important;
+    line-height: 1.5em !important;
+}
+
+.ph-separator {
+    margin-bottom: 20px !important;
+}
+
+.ph-gridblock {
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+a.ph-button {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.ph-button-outline {
+    background: none !important;
+    border: 1px solid #ffffff !important;
+    color: #ffffff !important;
+}
+
+.ph-button-outline:hover {
+    background: #454545 !important;
+    color: #ffffff !important;
+}
+
+
+@media only screen and (min-width: 480px) {}
+
+/* TABLETS */
+@media only screen and (min-width: 768px) {}
+
+/* DESKTOPS */
+@media only screen and (min-width: 1024px) {}
+
+@media only screen and (min-width: 1130px) {}
+
+/*END MEDIA QUERIES*/

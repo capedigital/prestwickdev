@@ -1,0 +1,58 @@
+/*NEW LANDING PAGE FOR 2021 Discovering Literature Magazine*/
+html { scroll-behavior: smooth; }
+.equal { display: flex; display: -webkit-flex; }
+div#content { background-color: #ECECEC; }
+div#content div.callout { background-color: transparent !important; }
+a[href], input[type='submit'], input[type='image'], label[for], select, button, .pointer { cursor: pointer; }
+.italic, a.italic { font-style: italic !important; }
+.bold { font-weight: bold !important; }
+.open-sans { font-family: 'Open Sans', Arial, sans-serif !important; }
+.open-sans-condensed { font-family: 'Open Sans Condensed', Arial, sans-serif !important; }
+.operetta { font-family: 'operetta-12', Times, sans-serif !important; }
+
+/*operetta condensed font import*/
+@import url("https://use.typekit.net/nog8ska.css");
+
+/*stop drop shadows outside main container
+.disclit-maga {
+   overflow: hidden;
+}
+*/
+
+/*no gutters hack*/
+.row.no-gutters { margin-right: 0; margin-left: 0; }
+.row.no-gutters>[class^="col-"], .row.no-gutters>[class*=" col-"] { padding-right: 0; padding-left: 0; }
+.shadowed { box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.10); }
+
+/* HERO */
+.disclit-maga .hero {  /*background-image: url('https://www.prestwickhouse.com/Image Library/2020 ELA Resource Planner/ela-resplan-hero.jpg');
+      background-size: cover;
+      padding: 100px;
+      padding-top: 25px;
+      padding-bottom: 75px;
+      margin-bottom: 20px;*/
+padding: 40px 0px 0px 0px; }
+
+.disclit-maga .nav-products-content { background: #ECECEC;}
+.disclit-maga .hero h1 { color: #000; font-size: 36px; }
+.disclit-maga .hero p { margin: 0 auto; margin-top: 8px; margin-bottom: 15px; width: 500px; font-family: 17px/24px 'Open Sans'; font-weight: 300 !important; }
+.disclit-maga .hero a { font: 14px/16px 'Open Sans'; font-weight: 700 !important; }
+.disclit-maga .hero img { box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.10); }
+.disclit-maga .bar-block { padding: 50px 0px 50px 0px; color: #FFFFFF; background-color: #524F7D; }
+.disclit-maga .bar-block h2 { padding: 0px 0px 20px 0px; font: 48px/52px 'operetta-12', serif !important; font-weight: 700 !important; color: #FFFFFF; }
+.disclit-maga .bar-block p { padding: 0px 70px 20px 70px !important; color: #FFFFFF; font: 30px/34px 'operetta-12', serif !important; font-weight: 300 !important; font-style: italic !important; }
+.btn-sm { background-color: #F40000; color: #FFFFFF; font: 1.25rem/0.5rem 'Open Sans', serif !important; font-weight: 700 !important; padding: 1.25rem 1.5rem !important; border-radius: .3rem !important; text-transform: uppercase; border: none; transition: background 0.2s ease-in-out; }
+.btn-sm:hover { background-color: #287cd4; transition: background 0.2s ease-in-out; }
+.btn-md { background-color: #F40000 !important; color: #FFFFFF !important; font: 1.25rem/0.5rem 'Open Sans', serif !important; font-weight: 700 !important; padding: 1.5rem 2rem !important; border-radius: .3rem !important; border: none; transition: background 0.2s ease-in-out; }
+.btn-md:hover { color: #FFFFFF !important; background-color: #287cd4 !important; transition: background 0.2s ease-in-out; }
+.btn-lg { background-color: #F40000; color: #FFFFFF; font: 2rem/1.5rem 'Open Sans', serif !important; font-weight: 700 !important; padding: 1.5rem 2.5rem !important; border-radius: .3rem !important; text-transform: uppercase; border: none; transition: background 0.2s ease-in-out; }
+.btn-lg:hover { background-color: #287cd4; transition: background 0.2s ease-in-out; }
+
+/* ITEMS */
+.disclit-maga .download-blocks { margin-bottom: 0px; padding-top: 40px; }
+.disclit-maga .headliner h2, .disclit-maga .headliner h2 a { padding-bottom: 50px; color: #000000; font: 48px/52px 'operetta-12', serif !important; font-weight: 700 !important; }
+.disclit-maga .headliner h3, .disclit-maga .headliner h3 a { padding-bottom: 10px; color: #000000; font: 38px/48px 'operetta-12', serif !important; font-weight: 700 !important; }
+.disclit-maga .headliner p { font: 22px/32px 'Open Sans', Times, sans-serif !important; letter-spacing: 0em; font-weight: 400 !important; color: #222222 !important; padding: 20px 0px 0px 0px !important; }
+.disclit-maga .download-blocks h2.fl-item { font-size: 21px; font-size: 25.2px; color: #808080; }
+.disclit-maga .download-blocks h2.fl-item a { font-size: 21px; font-size: 25.2px; color: #808080; }
+.disclit-maga h2 a:hover { color: #0d7480; }

@@ -1,0 +1,160 @@
+<!-- @import ../header.kit -->
+<style type="text/css">
+/* Remove default bullets */
+ul,
+#phTreeUL {
+    list-style-type: none;
+}
+
+/* Remove margins and padding from the parent ul */
+#phTreeUL {
+    margin: 0;
+    padding: 0;
+}
+
+#phTreeUL li {
+    margin: 10px 0px 10px 20px;
+}
+
+/* Style the caret/arrow */
+.ph-treecaret {
+    cursor: pointer;
+    user-select: none;
+    /* Prevent text selection */
+}
+
+/* Create the caret/arrow with a unicode, and style it */
+.ph-treecaret::before {
+    content: "\25B6";
+    color: black;
+    display: inline-block;
+    margin-right: 6px;
+}
+
+/* Rotate the caret/arrow icon when clicked on (using JavaScript) */
+.ph-treecaret-down::before {
+    transform: rotate(90deg);
+}
+
+/* Hide the nested list */
+.ph-treenested {
+    display: none;
+}
+
+.ph-treenested li {
+    margin: 10px 0px 10px 20px
+}
+
+/* Show the nested list when the user clicks on the caret/arrow (with JavaScript) */
+.ph-treeactive {
+    display: block;
+}
+
+.ph-complete {
+    color: #59bb00; 
+    font-weight: bold;
+}
+.ph-needswork {
+    color: #ff1800; 
+    font-weight: bold;
+}
+
+</style>  
+<div id="ph-tree">
+    <section>
+        <div class="row">
+            <div class="column lg-24">
+                <ul id="phTreeUL">
+                    <li><span class="ph-treecaret ph-needswork">Reading</span> - <a href="/reading">/reading</a>
+                        <ul class="">
+                            <li><span class="ph-treecaret ph-complete">AP Language and Composition</span> - <a href="/reading/ap-language-and-composition/">/reading/ap-language-and-composition/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/reading/ap-language-and-composition/sample-request">/reading/ap-language-and-composition/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/reading/ap-language-and-composition/sample-download">/reading/ap-language-and-composition/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-complete">Pre-AP Readings and Exercises</span> - <a href="/reading/pre-ap-readings-and-exercises/">/reading/pre-ap-readings-and-exercises/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/reading/pre-ap-readings-and-exercises/sample-request">/reading/pre-ap-readings-and-exercises/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/reading/pre-ap-readings-and-exercises/sample-download">/reading/pre-ap-readings-and-exercises/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-complete">Preparation for State Reading Assessments</span> - <a href="/reading/preparation-for-state-reading-assessments/">/reading/preparation-for-state-reading-assessments/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/reading/preparation-for-state-reading-assessments/sample-request">/reading/preparation-for-state-reading-assessments/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/reading/preparation-for-state-reading-assessments/sample-download">/reading/preparation-for-state-reading-assessments/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-complete">Reading and Analyzing Nonfiction</span> - <a href="/reading/reading-analyzing-nonfiction/">/reading/reading-analyzing-nonfiction/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/reading/reading-analyzing-nonfiction/sample-request">/reading/reading-analyzing-nonfiction/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/reading/reading-analyzing-nonfiction/sample-download">/reading/reading-analyzing-nonfiction/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-complete">Reading Informational Texts</span> - <a href="/reading/reading-informational-texts/">/reading/reading-informational-texts/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/reading/reading-informational-texts/sample-request">/reading/reading-informational-texts/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/reading/reading-informational-texts/sample-download">/reading/reading-informational-texts/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-complete">Reading Literature</span> - <a href="/reading/reading-literature/">/reading/reading-literature/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/reading/reading-literature/sample-request">/reading/reading-literature/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/reading/reading-literature/sample-download">/reading/reading-literature/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-complete">SAT Power Prep</span> - <a href="/reading/sat-power-prep/">/reading/sat-power-prep/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/reading/sat-power-prep/sample-request">/reading/sat-power-prep/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/reading/sat-power-prep/sample-download">/reading/sat-power-prep/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-complete">Techniques of Propaganda and Persuasion</span> - <a href="/reading/techniques-of-propaganda-and-persuasion/">/reading/techniques-of-propaganda-and-persuasion/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/reading/techniques-of-propaganda-and-persuasion/sample-request">/reading/techniques-of-propaganda-and-persuasion/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/reading/techniques-of-propaganda-and-persuasion/sample-download">/reading/techniques-of-propaganda-and-persuasion/sample-download</a></li>
+                                </ul>
+                            </li>
+
+                            <li><span class="ph-treecaret ph-needswork">Reading by Grade Level</span> - <a href=""></a>
+                                <ul class="ph-treeactive">
+                                    <li><span class="ph-needswork">Teaching 4th Grade Reading</span> - <a href="/reading/teaching-4th-grade-reading">/reading/teaching-4th-grade-reading</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 5th Grade Reading</span> - <a href="/reading/teaching-5th-grade-reading">/reading/teaching-5th-grade-reading</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 6th Grade Reading</span> - <a href="/reading/teaching-6th-grade-reading">/reading/teaching-6th-grade-reading</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 7th Grade Reading</span> - <a href="/reading/teaching-7th-grade-reading">/reading/teaching-7th-grade-reading</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 8th Grade Reading</span> - <a href="/reading/teaching-8th-grade-reading">/reading/teaching-8th-grade-reading</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 9th Grade Reading</span> - <a href="/reading/teaching-9th-grade-reading">/reading/teaching-9th-grade-reading</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 10th Grade Reading</span> - <a href="/reading/teaching-10th-grade-reading">/reading/teaching-10th-grade-reading</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 11th Grade Reading</span> - <a href="/reading/teaching-11th-grade-reading">/reading/teaching-11th-grade-reading</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 12th Grade Reading</span> - <a href="/reading/teaching-12th-grade-reading">/reading/teaching-12th-grade-reading</a>
+                                    </li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+</div>
+<script type="text/javascript">
+var toggler = document.getElementsByClassName("ph-treecaret");
+var i;
+
+for (i = 0; i < toggler.length; i++) {
+    toggler[i].addEventListener("click", function() {
+        this.parentElement.querySelector(".ph-treenested").classList.toggle("ph-treeactive");
+        this.classList.toggle("ph-treecaret-down");
+    });
+}
+</script>
+<!-- @import ../footer.kit

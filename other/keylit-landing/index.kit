@@ -1,0 +1,111 @@
+
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+    body {
+        font-family: Open Sans, Helvetica Neue, sans-serif;
+        letter-spacing: -.03em;
+        margin: 0;
+    }
+
+    a.external[target="_blank"]::after {
+      content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+      margin: 0px 3px 0px 5px;
+      color: #FCB04A;
+    }
+    
+    a {
+        text-decoration: none;
+        outline: 0;
+        max-width: 100%;
+        max-width: none;
+        color: #FCB04A;
+    }
+    
+    a:hover, a:focus, a:visited {
+        outline: 0;
+        text-decoration: underline;
+    }
+    
+    .row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+        height: 100%
+    }
+
+    .column {
+        display: flex;
+        flex-direction: column;
+        flex-basis: 100%;
+        flex: 1;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+    }
+
+    .leftfill img {
+        min-width: 320px;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        vertical-align: top;
+    }
+
+    img.landing-logo {
+        width: 60%;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    .block {
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 1rem;
+        text-align: center;
+        height: 100%;
+        
+    }
+
+    h1 { font-size: 2rem; }
+    p { font-size: 1.2rem; line-height: 1.5rem;  margin-bottom: 1rem; }
+
+    @media screen and (max-width:768px) {
+        .column {
+            width: 100%;
+        }
+        .leftfill {
+            display: none;
+        }
+        img.landing-logo {
+            width: 90%;
+            margin: 0 auto;
+            display: flex;
+        }
+    }
+    </style>
+
+
+<section class="landing-intro">
+    <div class="row">
+        <div class="column leftfill">
+            <img src="https://api.agilixbuzz.com/Resz/~0.HzM5Vqhf0BcErchK.A.jBnqUpIvJ8cm6CbboLTUwAGUODvqHI4OzqnSYREpsYs/176555550/Assets/keylit-login-leftcol.jpg" alt="PrestwickDigital.com | KeyLit - Literature Unlocked" title="PrestwickDigital.com | KeyLit - Literature Unlocked">
+        </div>
+        <div class="column">
+            <div class="block">
+                <div>
+                    <img class="landing-logo" src="https://api.agilixbuzz.com/Resz/~0.HzM5Vqhf0BcErchK.A.jBnqUpIvJ8cm6CbboLTUwAGUODvqHI4OzqnSYREpsYs/176555550/Assets/keylit-login-logo.png" alt="PrestwickDigital.com | KeyLit - Literature Unlocked" title="PrestwickDigital.com | KeyLit - Literature Unlocked">
+                    <h1><span style="font-weight: 300;">Login to</span> Key<span style="color: #FCB04A; font-weight: 300;">Lit</span><sup style="font-size: 1.2rem; font-weight: 300; ">™</sup></h1>
+                    <p style="margin: 0px 40px 0px 40px; line-height: 1.5em;">This fully digital, interactive program is designed to improve students’ critical reading skills while helping them connect to and appreciate great works of literature.
+                    </p>
+                    <p>Login above to get started! </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

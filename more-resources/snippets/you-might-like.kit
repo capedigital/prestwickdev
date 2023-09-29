@@ -1,0 +1,84 @@
+<!-- @import ../../header.kit -->
+
+<section class="ph-text-fullwidth">
+	<div class="row">
+		<div class="column lg-24 h-pushLgTop h-pushLgBottom h-textCenter">
+			<div class="ph-separator">
+				<div class="ph-line">
+					<p class="ph-h2 h-textCenter">You Might Like:</p>
+				</div>
+			</div>
+		</div>
+		
+		<div id="mightLike" class="mightLike"></div>
+		
+	</div>
+</section>
+
+
+<script>
+	var relatedProd = [
+		{
+			Title: "Frankenstein",
+			Edition: "Paperback Edition",
+			Image: "https://www.prestwickhouse.com/ProductImages//0012a1e6-49a2-494a-b660-9e085a922397/images/200054.jpg",
+			Link: "https://www.prestwickhouse.com/book/id-200054/frankenstein",
+			Description: "",
+		},
+		{
+			Title: "Frankenstein",
+			Edition: "Downloadable Teaching Unit",
+			Image: "https://www.prestwickhouse.com/ProductImages//39fcae04-0587-45a0-a40a-a961bb8b2d65/images/200561.jpg",
+			Link: "https://www.prestwickhouse.com/pdf/id-200561/frankenstein_-_downloadable_teaching_unit",
+			Description: "",
+		},
+		{
+			Title: "Frankenstein",
+			Edition: "Downloadable Complete Teacher's Kit",
+			Image: "https://www.prestwickhouse.com/ProductImages//f9d9b4ea-f6f5-4e1e-8fc5-f2396669547c/images/310338.jpg",
+			Link: "https://www.prestwickhouse.com/pdf/id-310338/frankenstein_-_downloadable_complete_teachers_kit",
+			Description: "",
+		},
+		{
+			Title: "Frankenstein",
+			Edition: "Downloadable APTU",
+			Image: "https://www.prestwickhouse.com/ProductImages//bfeac5b8-5301-41cc-b980-7c5807c68a47/images/203036.jpg",
+			Link: "https://www.prestwickhouse.com/pdf/id-203036/frankenstein_-_downloadable_ap_teaching_unit",
+			Description: "",
+		}
+	];
+
+
+	// loop through the data
+	relatedProd.forEach((datarecord, idx) => {
+		let markup = createSeries(datarecord, idx);
+		let container = document.createElement("div");
+		let mightLike = document.querySelector("#mightLike");
+		mightLike.classList.add("row");
+		container.classList.add("column", "sm-12", "lg-6");
+	    container.innerHTML = markup;
+		mightLike.appendChild(container);
+		//document.body.appendChild(container);
+	});
+
+
+	function createSeries(datarecord, idx) {
+		return `
+		<article class="ph-card ph-card-lessonplans ph-card-relateditems">
+			<div class="ph-card-img">
+				<a href="${datarecord.Link}">
+					<img class="lazy" data-src="${datarecord.Image}" alt="${datarecord.Title}" title="${datarecord.Title}" width="210" />
+				</a>
+			</div>
+			<div class="ph-card-block">
+				<div class="ph-card-copy">
+					<p class="ph-card-pretitle">${datarecord.Title}</p>
+					<a class="ph-card-title" href="${datarecord.Link}">${datarecord.Edition}</a>
+					<p class="ph-card-text">${datarecord.Description}</p>
+				</div>
+				<a href="${datarecord.Link}" class="button ph-button-sm ph-button-outline">Shop Now</a>
+			</div>
+		</article>
+		`;
+	}
+</script>

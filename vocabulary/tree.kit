@@ -1,0 +1,154 @@
+<!-- @import ../header.kit -->
+<style type="text/css">
+/* Remove default bullets */
+ul,
+#phTreeUL {
+    list-style-type: none;
+}
+
+/* Remove margins and padding from the parent ul */
+#phTreeUL {
+    margin: 0;
+    padding: 0;
+}
+
+#phTreeUL li {
+    margin: 10px 0px 10px 20px;
+}
+
+/* Style the caret/arrow */
+.ph-treecaret {
+    cursor: pointer;
+    user-select: none;
+    /* Prevent text selection */
+}
+
+/* Create the caret/arrow with a unicode, and style it */
+.ph-treecaret::before {
+    content: "\25B6";
+    color: black;
+    display: inline-block;
+    margin-right: 6px;
+}
+
+/* Rotate the caret/arrow icon when clicked on (using JavaScript) */
+.ph-treecaret-down::before {
+    transform: rotate(90deg);
+}
+
+/* Hide the nested list */
+.ph-treenested {
+    display: none;
+}
+
+.ph-treenested li {
+    margin: 10px 0px 10px 20px
+}
+
+/* Show the nested list when the user clicks on the caret/arrow (with JavaScript) */
+.ph-treeactive {
+    display: block;
+}
+
+.ph-complete {
+    color: #59bb00; 
+    font-weight: bold;
+}
+.ph-needswork {
+    color: #ff1800; 
+    font-weight: bold;
+}
+
+</style>  
+<div id="ph-tree">
+    <section>
+        <div class="row">
+            <div class="column lg-24">
+                <ul id="phTreeUL">
+                    <li><span class="ph-treecaret ph-complete">Vocabulary</span> - <a href="/vocabulary">/vocabulary</a>
+                        <ul class="">
+                            <li><span class="ph-treecaret ph-complete">Growing Your Vocabulary</span> - <a href="/vocabulary/growing-your-vocabulary/">/vocabulary/growing-your-vocabulary/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/vocabulary/growing-your-vocabulary/sample-request">/vocabulary/growing-your-vocabulary/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/vocabulary/growing-your-vocabulary/sample-download">/vocabulary/growing-your-vocabulary/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-complete">Standards Based Vocabulary</span> - <a href="/vocabulary/standards-based-vocabulary/">/vocabulary/standards-based-vocabulary/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/vocabulary/standards-based-vocabulary/sample-request">/vocabulary/standards-based-vocabulary/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/vocabulary/standards-based-vocabulary/sample-download">/vocabulary/standards-based-vocabulary/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-complete">Vocabulary for the College Bound</span> - <a href="/vocabulary/vocabulary-for-the-college-bound/">/vocabulary/vocabulary-for-the-college-bound/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/vocabulary/vocabulary-for-the-college-bound/sample-request">/vocabulary/vocabulary-for-the-college-bound/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/vocabulary/vocabulary-for-the-college-bound/sample-download">/vocabulary/vocabulary-for-the-college-bound/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-complete">Vocabulary from Latin and Greek Roots</span> - <a href="/vocabulary/vocabulary-from-latin-and-greek-roots/">/vocabulary/vocabulary-from-latin-and-greek-roots/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/vocabulary/vocabulary-from-latin-and-greek-roots/sample-request">/vocabulary/vocabulary-from-latin-and-greek-roots/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/vocabulary/vocabulary-from-latin-and-greek-roots/sample-download">/vocabulary/vocabulary-from-latin-and-greek-roots/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-complete">Vocabulary in Context</span> - <a href="/vocabulary/vocabulary-in-context/">/vocabulary/vocabulary-in-context/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/vocabulary/vocabulary-in-context/sample-request">/vocabulary/vocabulary-in-context/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/vocabulary/vocabulary-in-context/sample-download">/vocabulary/vocabulary-in-context/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-complete">Vocabulary Power Plus</span> - <a href="/vocabulary/vocabulary-power-plus/">/vocabulary/vocabulary-power-plus/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/vocabulary/vocabulary-power-plus/sample-request">/vocabulary/vocabulary-power-plus/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/vocabulary/vocabulary-power-plus/sample-download">/vocabulary/vocabulary-power-plus/sample-download</a></li>
+                                </ul>
+                            </li>
+                            <li><span class="ph-treecaret ph-needswork">Vocabulary Power Plus Online</span> - <a href="/vocabulary/vocabulary-power-plus-online/">/vocabulary/vocabulary-power-plus-online/</a>
+                                <ul class="">
+                                    <li class="ph-needswork">Sample Request - <a href="/vocabulary/vocabulary-power-plus-online/sample-request">/vocabulary/vocabulary-power-plus-online/sample-request</a></li>
+                                    <li class="ph-needswork">Sample Download - <a href="/vocabulary/vocabulary-power-plus-online/sample-download">/vocabulary/vocabulary-power-plus-online/sample-download</a></li>
+                                </ul>
+                            </li>
+
+                            <li><span class="ph-treecaret ph-needswork">Vocabulary by Grade Level</span> - <a href=""></a>
+                                <ul class="ph-treeactive">
+                                    <li><span class="ph-needswork">Teaching 4th Grade Vocabulary</span> - <a href="/vocabulary/teaching-4th-grade-vocabulary">/vocabulary/teaching-4th-grade-vocabulary</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 5th Grade Vocabulary</span> - <a href="/vocabulary/teaching-5th-grade-vocabulary">/vocabulary/teaching-5th-grade-vocabulary</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 6th Grade Vocabulary</span> - <a href="/vocabulary/teaching-6th-grade-vocabulary">/vocabulary/teaching-6th-grade-vocabulary</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 7th Grade Vocabulary</span> - <a href="/vocabulary/teaching-7th-grade-vocabulary">/vocabulary/teaching-7th-grade-vocabulary</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 8th Grade Vocabulary</span> - <a href="/vocabulary/teaching-8th-grade-vocabulary">/vocabulary/teaching-8th-grade-vocabulary</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 9th Grade Vocabulary</span> - <a href="/vocabulary/teaching-9th-grade-vocabulary">/vocabulary/teaching-9th-grade-vocabulary</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 10th Grade Vocabulary</span> - <a href="/vocabulary/teaching-10th-grade-vocabulary">/vocabulary/teaching-10th-grade-vocabulary</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 11th Grade Vocabulary</span> - <a href="/vocabulary/teaching-11th-grade-vocabulary">/vocabulary/teaching-11th-grade-vocabulary</a>
+                                    </li>
+                                    <li><span class="ph-needswork">Teaching 12th Grade Vocabulary</span> - <a href="/vocabulary/teaching-12th-grade-vocabulary">/vocabulary/teaching-12th-grade-vocabulary</a>
+                                    </li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+</div>
+<script type="text/javascript">
+var toggler = document.getElementsByClassName("ph-treecaret");
+var i;
+
+for (i = 0; i < toggler.length; i++) {
+    toggler[i].addEventListener("click", function() {
+        this.parentElement.querySelector(".ph-treenested").classList.toggle("ph-treeactive");
+        this.classList.toggle("ph-treecaret-down");
+    });
+}
+</script>
+<!-- @import ../footer.kit

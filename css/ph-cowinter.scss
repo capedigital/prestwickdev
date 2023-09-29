@@ -1,0 +1,71 @@
+/* Time to Chill Landing Page SCSS*/
+$winter-day-color: #bf105e;
+$winter-night-color: darken(#551d81, 10%);
+$day-duration: 24s;
+$snowflakes: 100;
+
+%snowflake {
+   display: block;
+   color: #fff;
+   position: absolute;
+   top: -1em;
+   
+   &:before {
+      display: block;
+      content: '●';
+   }
+}
+
+@mixin snowflake($nth) {
+   snowflake {
+      @extend %snowflake;
+      &:nth-of-type(#{$nth}) {
+         font-size: 1px + random(35);
+         left: 100vw * random();
+         will-change: transform, top;
+         $delay: 1s + 4 * random();
+         $fall-duration: 4s + 4 * random();
+         $shake-duration: 6s + 4 * random();
+         animation: snowflake-fall $fall-duration linear $delay infinite normal,
+            snowflake-shake $shake-duration ease-in-out $delay infinite alternate,
+            snowflake-wind-w $fall-duration linear $delay infinite normal;			
+      }
+   }	
+}
+
+@keyframes snowflake-fall {
+   0% {top: -1em}
+   100% {top: 150vh}
+}
+
+@keyframes snowflake-shake {
+   0% {transform: translateX(0)}
+   33% {transform: translateX(-10vh)}
+   100% {transform: translateX(10vh)}
+}
+
+@keyframes snowflake-wind-w {
+   0% {transform: translateX(0)}
+   100% {transform: translateX(20vw)}
+}
+
+@keyframes day-and-night {
+   0% {background-color: $winter-day-color}
+   100% {background-color: $winter-night-color}
+}
+
+
+#content {
+   background-color: $winter-day-color;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   will-change: background-color;
+   animation: day-and-night $day-duration ease-in-out 1s infinite alternate;
+}
+
+snowflakes {
+   @for $i from 1 through $snowflakes {
+      @include snowflake($i);
+   }	
+}

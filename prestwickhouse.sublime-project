@@ -1,0 +1,14 @@
+{
+    "folders":
+    [
+        {
+            "path": "/Users/jdemott/Library/Group Containers/G69SCX94XU.duck/Library/Application Support/duck/Volumes.noindex/E2 iDrive S3/gigawatt/DOCUMENTS/Sites/prestwick.dev"
+        }
+    ],
+    "settings": {
+        "sublime-view-in-browser": {
+            "baseUrl": "http://localhost:5757",
+            "basePath": "/Users/jdemott/Library/Group Containers/G69SCX94XU.duck/Library/Application Support/duck/Volumes.noindex/E2 iDrive S3/gigawatt/DOCUMENTS/Sites/prestwick.dev"
+        }
+    }
+}

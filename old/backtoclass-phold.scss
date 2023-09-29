@@ -1,0 +1,64 @@
+/* BACK TO CLASS LANDING CSS*/
+@use 'sass:color';
+@use "sass:map";
+
+// Back to Class landing colors
+$ph-btclanding-bg: (
+    "hero": #FFDF72,
+    "giveaway": #FF7855,
+    "sale": #A7D5F2,
+    "ebook": #FCF397,
+    "freesources": #CBE58B
+);
+$ph-btclanding-txt: (
+    "hero": #545FAD,
+    "giveaway": #FFFFFF,
+    "sale": #545FAD,
+    "ebook": #545FAD,
+    "freesources": #545FAD
+);
+
+@import url("https://use.typekit.net/ouk5ojr.css");
+
+
+// Class
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ph-btclanding-hero { margin-top: -70px;  }
+#btcnav { height: 325px; position: sticky; margin-bottom: -75px; z-index: 999;}
+#btcnav:after { content: ''; background-image: url('https://www.prestwickhouse.com/Image Library/img/landing/backtoclass/top-tear.png'); height: 75px; display: block; }
+.ph-sticky { position: -webkit-sticky; position: sticky; top: 0; right: 0; }
+.js-headerFixed--down .headerMain {  top: -100px !important; }
+.ph-fineprint p { font-family: p22-mackinac-pro; font-weight: normal !important; font-size: 12px !important; letter-spacing: -0.02rem !important; color: map.get($ph-btclanding-txt, "hero"); }
+
+
+section.ph-btclanding-header { background-color: #46509E;
+  .ph-h1 { font-family: p22-mackinac-pro; font-weight: 500 !important; font-size: 3.5rem !important; line-height: 4rem !important; letter-spacing: -0.08rem !important; color: #FFFFFF; }
+  .ph-h2 { font-family: p22-mackinac-pro; font-weight: bold !important; font-size: 2rem !important; line-height: 3rem !important; letter-spacing: -0.06rem !important; color: #FFFFFF; }
+  .ph-h3 { font-family: p22-mackinac-pro; font-weight: bold !important; font-size: 20px !important; line-height: 2rem !important; letter-spacing: -0.05rem !important; color: #FFFFFF; }
+  .ph-h4 { font-family: p22-mackinac-pro; font-weight: bold !important; font-size: 17px !important; letter-spacing: -0.02rem !important; color: #FFFFFF; }
+}
+
+.button { background-color: map.get($ph-btclanding-txt, "hero"); }
+
+@each $phbtcsection, $color in $ph-btclanding-bg {
+    section.ph-btclanding-#{$phbtcsection} { background-color: $color;
+    }
+    section.ph-btclanding-#{$phbtcsection}:after {
+        content: ''; display: block; height: 75px; background-image: url('/Image Library/img/landing/backtoclass/#{$phbtcsection}-tear.png'); background-repeat: no-repeat;
+    }
+  }
+
+@each $phbtcsection, $color in $ph-btclanding-txt {
+    section.ph-btclanding-#{$phbtcsection} {
+  .ph-h1 { font-family: p22-mackinac-pro; font-weight: 500 !important; font-size: 3.5rem !important; line-height: 4rem !important; letter-spacing: -0.08rem !important; color: $color; }
+  .ph-h2 { font-family: p22-mackinac-pro; font-weight: bold !important; font-size: 1.5rem !important; line-height: 2.5rem !important; letter-spacing: -0.06rem !important; color: $color; }
+  .ph-h3 { font-family: p22-mackinac-pro; font-weight: bold !important; font-size: 20px !important; line-height: 2rem !important; letter-spacing: -0.05rem !important; color: $color; }
+  .ph-h4 { font-family: p22-mackinac-pro; font-weight: bold !important; font-size: 17px !important; letter-spacing: -0.02rem !important; color: $color; }
+}
+}
+
+section.ph-btclanding-freesources:after { background-color: map.get($ph-btclanding-txt, "hero"); padding-bottom: 100px; margin-bottom: 30px; }
