@@ -26,7 +26,7 @@
       "oF" : 0
     },
     "\/blog\/detail.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -34,7 +34,7 @@
       "oF" : 0
     },
     "\/blog\/footer.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
@@ -42,7 +42,7 @@
       "oF" : 0
     },
     "\/blog\/header.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
@@ -58,7 +58,7 @@
       "oF" : 0
     },
     "\/blog\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -74,7 +74,7 @@
       "oF" : 0
     },
     "\/blog\/teaching-guide-ads.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -82,7 +82,7 @@
       "oF" : 0
     },
     "\/classroom-posters.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -106,7 +106,7 @@
       "oF" : 0
     },
     "\/contests\/2023-july-poster-giveaway.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -122,7 +122,7 @@
       "oF" : 0
     },
     "\/contests\/2023-spring-into-stories-literature-giveaway.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -138,7 +138,7 @@
       "oF" : 0
     },
     "\/contests\/back-to-school-2022.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -154,7 +154,7 @@
       "oF" : 0
     },
     "\/contests\/back-to-school-2023 (Aug 11, 2023 at 2-34-17 PM).kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -170,7 +170,7 @@
       "oF" : 0
     },
     "\/contests\/back-to-school-2023-thank-you.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -186,7 +186,7 @@
       "oF" : 0
     },
     "\/contests\/back-to-school-2023.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -202,7 +202,7 @@
       "oF" : 0
     },
     "\/contests\/chill-out-winter-break-giveaway.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -218,7 +218,7 @@
       "oF" : 0
     },
     "\/contests\/eyes-on-the-prize.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -234,7 +234,7 @@
       "oF" : 0
     },
     "\/contests\/july-poster-thank-you.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -250,7 +250,7 @@
       "oF" : 0
     },
     "\/contests\/national-book-month-2022.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -266,7 +266,7 @@
       "oF" : 0
     },
     "\/contests\/new-years-sweepstakes.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -282,7 +282,7 @@
       "oF" : 0
     },
     "\/contests\/spring-into-stories-literature-giveaway.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -298,7 +298,7 @@
       "oF" : 0
     },
     "\/contests\/tam23-thank-you.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -314,7 +314,7 @@
       "oF" : 0
     },
     "\/contests\/teacher-appreciation-month-2023.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -330,7 +330,7 @@
       "oF" : 0
     },
     "\/contests\/teacher-appreciation-month.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -338,10 +338,10 @@
       "oF" : 0
     },
     "\/css\/mackinac.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -350,10 +350,10 @@
       "pg" : 0
     },
     "\/css\/main-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -362,10 +362,10 @@
       "pg" : 0
     },
     "\/css\/main.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -374,10 +374,10 @@
       "pg" : 0
     },
     "\/css\/ph-btclanding-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -388,7 +388,7 @@
     "\/css\/ph-btclanding.scss" : {
       "aP" : 0,
       "bl" : 0,
-      "co" : 0,
+      "co" : 1,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -396,15 +396,15 @@
       "oA" : 0,
       "oAP" : "\/css\/ph-btclanding.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
     "\/css\/ph-bts-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -415,7 +415,7 @@
     "\/css\/ph-bts.sass" : {
       "aP" : 0,
       "bl" : 0,
-      "co" : 0,
+      "co" : 1,
       "dP" : 10,
       "ec" : 1,
       "ft" : 2,
@@ -423,14 +423,14 @@
       "oA" : 0,
       "oAP" : "\/css\/ph-bts.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
     "\/css\/ph-bts.scss" : {
       "aP" : 0,
       "bl" : 0,
-      "co" : 0,
+      "co" : 1,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -438,15 +438,15 @@
       "oA" : 0,
       "oAP" : "\/css\/ph-bts.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
     "\/css\/ph-cowinter-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -457,7 +457,7 @@
     "\/css\/ph-cowinter.scss" : {
       "aP" : 0,
       "bl" : 0,
-      "co" : 0,
+      "co" : 1,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -465,15 +465,15 @@
       "oA" : 0,
       "oAP" : "\/css\/ph-cowinter.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
     "\/css\/ph-eotp-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -484,7 +484,7 @@
     "\/css\/ph-eotp.scss" : {
       "aP" : 0,
       "bl" : 0,
-      "co" : 0,
+      "co" : 1,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -492,15 +492,15 @@
       "oA" : 0,
       "oAP" : "\/css\/ph-eotp.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
     "\/css\/ph-global-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -517,10 +517,10 @@
       "oF" : 0
     },
     "\/css\/ph-global.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -531,7 +531,7 @@
     "\/css\/ph-global.scss" : {
       "aP" : 0,
       "bl" : 0,
-      "co" : 0,
+      "co" : 1,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -539,15 +539,15 @@
       "oA" : 0,
       "oAP" : "\/css\/ph-global.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
     "\/css\/ph-nbm-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -558,7 +558,7 @@
     "\/css\/ph-nbm.scss" : {
       "aP" : 0,
       "bl" : 0,
-      "co" : 0,
+      "co" : 1,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -566,14 +566,14 @@
       "oA" : 0,
       "oAP" : "\/css\/ph-nbm.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
     "\/css\/variables.scss" : {
       "aP" : 0,
       "bl" : 0,
-      "co" : 0,
+      "co" : 1,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -581,7 +581,7 @@
       "oA" : 1,
       "oAP" : "\/css\/variables.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -602,7 +602,7 @@
       "oF" : 0
     },
     "\/footer.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
@@ -618,7 +618,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/3-simple-truths\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -634,7 +634,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/3-simple-truths\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -650,7 +650,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/3-simple-truths\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -666,7 +666,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/college-and-career-readiness-writing\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -682,7 +682,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/college-and-career-readiness-writing\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -698,7 +698,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/college-and-career-readiness-writing\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -714,7 +714,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/grammar-for-writing\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -730,7 +730,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/grammar-for-writing\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -746,7 +746,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/grammar-for-writing\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -762,7 +762,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/grammardog-guides\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -778,7 +778,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -794,7 +794,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/maximum-impact\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -810,7 +810,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/maximum-impact\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -826,7 +826,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/maximum-impact\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -842,7 +842,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/rhetoric-logic-argumentation\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -858,7 +858,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/rhetoric-logic-argumentation\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -874,7 +874,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/rhetoric-logic-argumentation\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -890,7 +890,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/rhetorical-devices\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -906,7 +906,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/rhetorical-devices\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -922,7 +922,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/rhetorical-devices\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -938,7 +938,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/teaching-7th-grade-grammar-and-writing.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -954,7 +954,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/teaching-8th-grade-grammar-and-writing.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -970,7 +970,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/teaching-9th-grade-grammar-and-writing.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -986,7 +986,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/teaching-10th-grade-grammar-and-writing.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -1002,7 +1002,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/teaching-11th-grade-grammar-and-writing.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -1018,7 +1018,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/teaching-12th-grade-grammar-and-writing.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -1034,7 +1034,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/ten-days-to-a-plus-grammar\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -1050,7 +1050,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/ten-days-to-a-plus-grammar\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -1066,7 +1066,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/ten-days-to-a-plus-grammar\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -1082,7 +1082,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/tree.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -1098,7 +1098,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/writing-an-a-plus-research-paper\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -1114,7 +1114,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/writing-an-a-plus-research-paper\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -1130,7 +1130,7 @@
       "oF" : 0
     },
     "\/grammar-writing\/writing-an-a-plus-research-paper\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -1138,7 +1138,7 @@
       "oF" : 0
     },
     "\/header.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
@@ -16325,7 +16325,7 @@
       "oF" : 0
     },
     "\/index old.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16341,7 +16341,7 @@
       "oF" : 0
     },
     "\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16456,7 +16456,7 @@
       "oF" : 0
     },
     "\/literature\/classroom-library-packs\/classroom-library-packs-grade-4.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16472,7 +16472,7 @@
       "oF" : 0
     },
     "\/literature\/classroom-library-packs\/classroom-library-packs-grade-5.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16488,7 +16488,7 @@
       "oF" : 0
     },
     "\/literature\/classroom-library-packs\/classroom-library-packs-grade-6.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16504,7 +16504,7 @@
       "oF" : 0
     },
     "\/literature\/classroom-library-packs\/classroom-library-packs-grade-7.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16520,7 +16520,7 @@
       "oF" : 0
     },
     "\/literature\/classroom-library-packs\/classroom-library-packs-grade-8.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16536,7 +16536,7 @@
       "oF" : 0
     },
     "\/literature\/classroom-library-packs\/classroom-library-packs-grade-9.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16552,7 +16552,7 @@
       "oF" : 0
     },
     "\/literature\/classroom-library-packs\/classroom-library-packs-grade-10.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16568,7 +16568,7 @@
       "oF" : 0
     },
     "\/literature\/classroom-library-packs\/classroom-library-packs-grade-11.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16584,7 +16584,7 @@
       "oF" : 0
     },
     "\/literature\/classroom-library-packs\/classroom-library-packs-grade-12.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16600,7 +16600,7 @@
       "oF" : 0
     },
     "\/literature\/classroom-library-packs\/index-orig.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16616,7 +16616,7 @@
       "oF" : 0
     },
     "\/literature\/classroom-library-packs\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16632,7 +16632,7 @@
       "oF" : 0
     },
     "\/literature\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16648,7 +16648,7 @@
       "oF" : 0
     },
     "\/literature\/keylit\/faq.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16664,7 +16664,7 @@
       "oF" : 0
     },
     "\/literature\/keylit\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16680,7 +16680,7 @@
       "oF" : 0
     },
     "\/literature\/keylit\/trial-request.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16696,7 +16696,7 @@
       "oF" : 0
     },
     "\/literature\/literary-touchstone-classics\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16712,7 +16712,7 @@
       "oF" : 0
     },
     "\/literature\/literary-touchstone-classics\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16728,7 +16728,7 @@
       "oF" : 0
     },
     "\/literature\/literary-touchstone-classics\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16744,7 +16744,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/activity-packs\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16760,7 +16760,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/activity-packs\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16776,7 +16776,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/ap-literature-teaching-units\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16792,7 +16792,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/ap-literature-teaching-units\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16808,7 +16808,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/complete-teachers-kits\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16824,7 +16824,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/complete-teachers-kits\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16840,7 +16840,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16856,7 +16856,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/instant-short-story-packs\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16872,7 +16872,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/instant-short-story-packs\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16888,7 +16888,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/levels-of-understanding\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16904,7 +16904,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/levels-of-understanding\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16920,7 +16920,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/literature-teaching-units\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16936,7 +16936,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/literature-teaching-units\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16952,7 +16952,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/multiple-critical-perspectives\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16968,7 +16968,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/multiple-critical-perspectives\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -16984,7 +16984,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/response-journals\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17000,7 +17000,7 @@
       "oF" : 0
     },
     "\/literature\/literature-guides\/response-journals\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17016,7 +17016,7 @@
       "oF" : 0
     },
     "\/literature\/paperbacks\/discovering-literature\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17032,7 +17032,7 @@
       "oF" : 0
     },
     "\/literature\/paperbacks\/discovering-literature\/signup\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17048,7 +17048,7 @@
       "oF" : 0
     },
     "\/literature\/paperbacks\/diverse-books\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17064,7 +17064,7 @@
       "oF" : 0
     },
     "\/literature\/paperbacks\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17080,7 +17080,7 @@
       "oF" : 0
     },
     "\/literature\/paperbacks\/nonfiction\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17096,7 +17096,7 @@
       "oF" : 0
     },
     "\/literature\/paperbacks\/themed-classroom-library-packs\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17112,7 +17112,7 @@
       "oF" : 0
     },
     "\/literature\/safeguard\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17128,7 +17128,7 @@
       "oF" : 0
     },
     "\/literature\/side-by-sides\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17144,7 +17144,7 @@
       "oF" : 0
     },
     "\/literature\/side-by-sides\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17160,7 +17160,7 @@
       "oF" : 0
     },
     "\/literature\/side-by-sides\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17176,7 +17176,7 @@
       "oF" : 0
     },
     "\/literature\/tree.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17192,7 +17192,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/1984-free-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17208,7 +17208,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/a-christmas-carol-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17224,7 +17224,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/a-dolls-house-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17240,7 +17240,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/a-long-way-gone-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17256,7 +17256,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/a-midsummer-nights-dream-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17272,7 +17272,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/a-raisin-in-the-sun-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17288,7 +17288,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/a-separate-peace-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17304,7 +17304,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/a-tale-of-two-cities-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17320,7 +17320,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/absolutely-true-diary-of-a-part-time-indian-crossword.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17336,7 +17336,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/adventures-of-huckleberry-finn-crossword.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17352,7 +17352,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/animal-farm-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17368,7 +17368,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/antigone-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17384,7 +17384,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/beowulf-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17400,7 +17400,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/brave-new-world-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17416,7 +17416,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/death-of-a-salesman-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17432,7 +17432,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/divergent-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17448,7 +17448,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/dr-jekyll-mr-hyde-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17464,7 +17464,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/edith-hamiltons-mythology-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17480,7 +17480,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/fahrenheit-451-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17496,7 +17496,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/frankenstein-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17512,7 +17512,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/freak-the-mighty-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17528,7 +17528,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/great-expectations-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17544,7 +17544,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/hamlet-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17560,7 +17560,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/heart-of-darkness-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17576,7 +17576,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/i-am-malala-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17592,7 +17592,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/in-cold-blood-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17608,7 +17608,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17624,7 +17624,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/into-the-wild-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17640,7 +17640,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/invisible-man-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17656,7 +17656,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/julius-caesar-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17672,7 +17672,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/life-of-pi-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17688,7 +17688,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/lord-of-the-flies-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17704,7 +17704,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/macbeth-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17720,7 +17720,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/me-before-you-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17736,7 +17736,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/narrative-of-the-life-of-frederick-douglass-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17752,7 +17752,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/night-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17768,7 +17768,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/oedipus-rex-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17784,7 +17784,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/of-mice-and-men-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17800,7 +17800,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/othello-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17816,7 +17816,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/our-town-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17832,7 +17832,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/pygmalion-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17848,7 +17848,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/romeo-and-juliet-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17864,7 +17864,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/speak-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17880,7 +17880,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-adventures-of-tom-sawyer-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17896,7 +17896,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-alchemist-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17912,7 +17912,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-awakening-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17928,7 +17928,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-best-of-poe-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17944,7 +17944,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-book-thief-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17960,7 +17960,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-catcher-in-the-rye-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17976,7 +17976,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-crucible-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -17992,7 +17992,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-giver-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18008,7 +18008,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-glass-castle-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18024,7 +18024,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-great-gatsby-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18040,7 +18040,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-hate-u-give-free-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18056,7 +18056,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-help-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18072,7 +18072,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-house-on-mango-street-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18088,7 +18088,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-importance-of-being-earnest-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18104,7 +18104,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-joy-luck-club-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18120,7 +18120,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-kite-runner-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18136,7 +18136,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-metamorphosis-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18152,7 +18152,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-odyssey-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18168,7 +18168,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-orphan-train-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18184,7 +18184,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-outsiders-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18200,7 +18200,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-scarlet-letter-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18216,7 +18216,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/the-things-they-carried-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18232,7 +18232,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/their-eyes-were-watching-god-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18248,7 +18248,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/things-fall-apart-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18264,7 +18264,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/to-kill-a-mockingbird-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18280,7 +18280,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/tuesdays-with-morrie-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18296,7 +18296,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/twelve-angry-men-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18312,7 +18312,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/crossword-puzzles\/wonderstruck-crossword-puzzle.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18328,7 +18328,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/ebooks\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18344,7 +18344,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/ebooks\/teaching-literature-guidebook-ebook.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18352,7 +18352,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/fl-menu.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18368,7 +18368,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/how-to-teach-guides\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18384,7 +18384,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/how-to-teach-guides\/the-great-gatsby-how-to-teach.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18400,7 +18400,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/index-optin.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18416,7 +18416,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18432,7 +18432,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/lesson-plans\/free-english-language-arts-diagnostic-assessment.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18448,7 +18448,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/lesson-plans\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18464,7 +18464,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/lesson-plans\/of-mice-and-men-free-character-map.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18480,7 +18480,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/lesson-plans\/the-poetry-of-bob-dylan-lesson-plan.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18496,7 +18496,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/other-resources\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18512,7 +18512,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/other-resources\/vocabulary-power-plus-online-overview-webinar.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18528,7 +18528,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/31-days-of-classic-literary-horror-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18544,7 +18544,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/african-american-timeline-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18560,7 +18560,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/annabel-lee-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18576,7 +18576,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/artist-poem-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18592,7 +18592,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-albert-camus-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18608,7 +18608,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-alice-walker-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18624,7 +18624,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-bronte-sisters-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18640,7 +18640,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-edgar-allan-poe-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18656,7 +18656,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-elie-wiesel-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18672,7 +18672,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-ernest-hemingway-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18688,7 +18688,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-frederick-douglass-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18704,7 +18704,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-harper-lee-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18720,7 +18720,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-hg-wells-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18736,7 +18736,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-john-steinbeck-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18752,7 +18752,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-mary-shelley-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18768,7 +18768,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-octavia-butler-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18784,7 +18784,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-ralph-ellison-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18800,7 +18800,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-ralph-waldo-emerson-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18816,7 +18816,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-thoreau-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18832,7 +18832,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-toni-morrison-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18848,7 +18848,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-web-du-bois-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18864,7 +18864,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-willa-cather-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18880,7 +18880,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-william-golding-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18896,7 +18896,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/authorspeak-zora-neale-hurston-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18912,7 +18912,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/because-i-could-not-stop-death-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18928,7 +18928,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/cask-of-amontillado-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18944,7 +18944,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/christmas-carol-ghosts-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18960,7 +18960,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/close-encounters-with-vocabulary-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18976,7 +18976,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/common-prefixes-and-suffixes-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -18992,7 +18992,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/dark-side-dracula-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19008,7 +19008,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/dark-side-jekyll-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19024,7 +19024,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/dark-side-raven-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19040,7 +19040,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/discovering-poetry-walt-whitman-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19056,7 +19056,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/dover-beach-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19072,7 +19072,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/echoes-charlotte-bronte-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19088,7 +19088,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/echoes-frederick-douglass-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19104,7 +19104,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/echoes-from-literature-ernest-hemingway-free-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19120,7 +19120,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/echoes-from-literature-mary-shelley-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19136,7 +19136,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/echoes-gatsby-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19152,7 +19152,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/echoes-hg-wells-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19168,7 +19168,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/echoes-plague-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19184,7 +19184,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/echoes-sojourner-truth-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19200,7 +19200,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/echoes-wilde-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19216,7 +19216,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/fearless-women-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19232,7 +19232,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/feminist-theory-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19248,7 +19248,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/ffl-metamorphosis-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19264,7 +19264,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/fire-ice-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19280,7 +19280,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/fog-sandburg-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19296,7 +19296,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/gatsby-promo-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19312,7 +19312,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/honoring-edgar-allen-poe-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19328,7 +19328,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/in-the-desert-crane-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19344,7 +19344,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19360,7 +19360,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/lamb-poem-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19376,7 +19376,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/language-politicians-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19392,7 +19392,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/laws-justice-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19408,7 +19408,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/mcp-gatsby-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19424,7 +19424,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/mcp-lord-of-flies-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19440,7 +19440,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/oread-hd-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19456,7 +19456,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/poster-template.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19472,7 +19472,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/power-trip-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19488,7 +19488,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/raven-poe-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19504,7 +19504,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/road-not-taken-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19520,7 +19520,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/shakespeare-sonnet-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19536,7 +19536,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/shakespeare-star-wars-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19552,7 +19552,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/should-wide-world-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19568,7 +19568,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/sound-off-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19584,7 +19584,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/spring-offensive-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19600,7 +19600,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/tam-2020-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19616,7 +19616,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/tell-tale-heart-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19632,7 +19632,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/top-10-greek-roots-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19648,7 +19648,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/top-10-latin-roots-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19664,7 +19664,7 @@
       "oF" : 0
     },
     "\/more-resources\/free-library\/posters\/tyger-poem-poster.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19680,7 +19680,7 @@
       "oF" : 0
     },
     "\/more-resources\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19696,7 +19696,7 @@
       "oF" : 0
     },
     "\/more-resources\/quizlet\/growing-your-vocabulary.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19712,7 +19712,7 @@
       "oF" : 0
     },
     "\/more-resources\/quizlet\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19728,7 +19728,7 @@
       "oF" : 0
     },
     "\/more-resources\/quizlet\/vocabulary-from-latin-and-greek-roots.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19744,7 +19744,7 @@
       "oF" : 0
     },
     "\/more-resources\/quizlet\/vocabulary-power-plus-classic.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19760,7 +19760,7 @@
       "oF" : 0
     },
     "\/more-resources\/quizlet\/vocabulary-power-plus.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19776,7 +19776,7 @@
       "oF" : 0
     },
     "\/more-resources\/remote-learning.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19792,7 +19792,7 @@
       "oF" : 0
     },
     "\/more-resources\/snippets\/you-might-like.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19814,7 +19814,7 @@
       "oF" : 0
     },
     "\/old\/2020-ELA-Resource-Planner.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19822,10 +19822,10 @@
       "oF" : 0
     },
     "\/old\/2020-homestretch-giveaway-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -19834,10 +19834,10 @@
       "pg" : 0
     },
     "\/old\/2020-homestretch-giveaway.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -19854,7 +19854,7 @@
       "oF" : 0
     },
     "\/old\/2020-homestretch-giveaway.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19862,10 +19862,10 @@
       "oF" : 0
     },
     "\/old\/2020-rtl-landing-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -19874,10 +19874,10 @@
       "pg" : 0
     },
     "\/old\/2020-rtl-landing.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -19886,10 +19886,10 @@
       "pg" : 0
     },
     "\/old\/2021-disclit-maga-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -19898,10 +19898,10 @@
       "pg" : 0
     },
     "\/old\/2021-disclit-maga.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -19918,7 +19918,7 @@
       "oF" : 0
     },
     "\/old\/2021-disclit-maga.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19942,7 +19942,7 @@
       "oF" : 0
     },
     "\/old\/back-to-class.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19950,10 +19950,10 @@
       "oF" : 0
     },
     "\/old\/backtoclass-phold-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -19964,7 +19964,7 @@
     "\/old\/backtoclass-phold.scss" : {
       "aP" : 0,
       "bl" : 0,
-      "co" : 0,
+      "co" : 1,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -19972,7 +19972,7 @@
       "oA" : 0,
       "oAP" : "\/old\/backtoclass-phold.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 2,
       "pg" : 0,
       "sct" : 0
     },
@@ -19985,7 +19985,7 @@
       "oF" : 0
     },
     "\/old\/complete-teachers-kits-list.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -19993,7 +19993,7 @@
       "oF" : 0
     },
     "\/old\/footer.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
@@ -20001,10 +20001,10 @@
       "oF" : 0
     },
     "\/old\/gatsby-new-years-party-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -20013,10 +20013,10 @@
       "pg" : 0
     },
     "\/old\/gatsby-new-years-party.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -20033,7 +20033,7 @@
       "oF" : 0
     },
     "\/old\/gatsby-new-years-party.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20041,7 +20041,7 @@
       "oF" : 0
     },
     "\/old\/header.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
@@ -20057,7 +20057,7 @@
       "oF" : 0
     },
     "\/old\/holiday-book-gift-guide-post.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20086,7 +20086,7 @@
       "oF" : 0
     },
     "\/old\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20102,7 +20102,7 @@
       "oF" : 0
     },
     "\/old\/ltu.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20110,10 +20110,10 @@
       "oF" : 0
     },
     "\/old\/post-darkmode-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -20122,10 +20122,10 @@
       "pg" : 0
     },
     "\/old\/post-darkmode.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -20134,10 +20134,10 @@
       "pg" : 0
     },
     "\/old\/post-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -20146,10 +20146,10 @@
       "pg" : 0
     },
     "\/old\/post.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -20166,7 +20166,7 @@
       "oF" : 0
     },
     "\/old\/special-sales-alt.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20174,10 +20174,10 @@
       "oF" : 0
     },
     "\/old\/special-sales-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -20186,10 +20186,10 @@
       "pg" : 0
     },
     "\/old\/special-sales.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -20206,7 +20206,7 @@
       "oF" : 0
     },
     "\/old\/special-sales.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20214,10 +20214,10 @@
       "oF" : 0
     },
     "\/old\/tam2021-landing-min.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -20226,10 +20226,10 @@
       "pg" : 0
     },
     "\/old\/tam2021-landing.css" : {
-      "aP" : 1,
+      "aP" : 0,
       "bl" : 0,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -20246,7 +20246,7 @@
       "oF" : 0
     },
     "\/old\/tam2021.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20262,7 +20262,7 @@
       "oF" : 0
     },
     "\/other\/404.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20278,7 +20278,7 @@
       "oF" : 0
     },
     "\/other\/back-to-class\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20294,7 +20294,7 @@
       "oF" : 0
     },
     "\/other\/classroom-posters.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20310,7 +20310,7 @@
       "oF" : 0
     },
     "\/other\/common-core-state-standards-english-language-arts-alignment-guide\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20326,7 +20326,7 @@
       "oF" : 0
     },
     "\/other\/contact-us.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20342,7 +20342,7 @@
       "oF" : 0
     },
     "\/other\/detail\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20358,7 +20358,7 @@
       "oF" : 0
     },
     "\/other\/digital-catalogue\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20374,7 +20374,7 @@
       "oF" : 0
     },
     "\/other\/digital-catalogue\/request-a-catalogue.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20390,7 +20390,7 @@
       "oF" : 0
     },
     "\/other\/florida-best.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20406,7 +20406,7 @@
       "oF" : 0
     },
     "\/other\/footnotes-signup.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20422,7 +20422,7 @@
       "oF" : 0
     },
     "\/other\/free-trial-accounts.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20438,7 +20438,7 @@
       "oF" : 0
     },
     "\/other\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20454,7 +20454,7 @@
       "oF" : 0
     },
     "\/other\/keylit-landing\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20470,7 +20470,7 @@
       "oF" : 0
     },
     "\/other\/national-book-month\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20486,7 +20486,7 @@
       "oF" : 0
     },
     "\/other\/noresults.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20502,7 +20502,7 @@
       "oF" : 0
     },
     "\/other\/responsive-urls\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20518,7 +20518,7 @@
       "oF" : 0
     },
     "\/other\/sales\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20534,7 +20534,7 @@
       "oF" : 0
     },
     "\/other\/site-map.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20550,7 +20550,7 @@
       "oF" : 0
     },
     "\/other\/social-updates.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20566,7 +20566,7 @@
       "oF" : 0
     },
     "\/other\/special-sales.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20582,7 +20582,7 @@
       "oF" : 0
     },
     "\/other\/turn-the-page-giveaway.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20598,7 +20598,7 @@
       "oF" : 0
     },
     "\/other\/vocabkelleylinks.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20614,7 +20614,7 @@
       "oF" : 0
     },
     "\/other\/vppo-landing\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20630,7 +20630,7 @@
       "oF" : 0
     },
     "\/other\/welcome.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20646,7 +20646,7 @@
       "oF" : 0
     },
     "\/other\/winter-break-giveaway.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20694,7 +20694,7 @@
       "oF" : 0
     },
     "\/reading\/ap-language-and-composition\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20710,7 +20710,7 @@
       "oF" : 0
     },
     "\/reading\/ap-language-and-composition\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20726,7 +20726,7 @@
       "oF" : 0
     },
     "\/reading\/ap-language-and-composition\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20742,7 +20742,7 @@
       "oF" : 0
     },
     "\/reading\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20758,7 +20758,7 @@
       "oF" : 0
     },
     "\/reading\/pre-ap-readings-and-exercises\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20774,7 +20774,7 @@
       "oF" : 0
     },
     "\/reading\/pre-ap-readings-and-exercises\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20790,7 +20790,7 @@
       "oF" : 0
     },
     "\/reading\/pre-ap-readings-and-exercises\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20806,7 +20806,7 @@
       "oF" : 0
     },
     "\/reading\/preparation-for-state-reading-assessments\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20822,7 +20822,7 @@
       "oF" : 0
     },
     "\/reading\/preparation-for-state-reading-assessments\/sample-download\/auto.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20838,7 +20838,7 @@
       "oF" : 0
     },
     "\/reading\/preparation-for-state-reading-assessments\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20854,7 +20854,7 @@
       "oF" : 0
     },
     "\/reading\/preparation-for-state-reading-assessments\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20870,7 +20870,7 @@
       "oF" : 0
     },
     "\/reading\/reading-analyzing-nonfiction\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20886,7 +20886,7 @@
       "oF" : 0
     },
     "\/reading\/reading-analyzing-nonfiction\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20902,7 +20902,7 @@
       "oF" : 0
     },
     "\/reading\/reading-analyzing-nonfiction\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20918,7 +20918,7 @@
       "oF" : 0
     },
     "\/reading\/reading-informational-texts\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20934,7 +20934,7 @@
       "oF" : 0
     },
     "\/reading\/reading-informational-texts\/sample-download\/auto.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20950,7 +20950,7 @@
       "oF" : 0
     },
     "\/reading\/reading-informational-texts\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20966,7 +20966,7 @@
       "oF" : 0
     },
     "\/reading\/reading-informational-texts\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20982,7 +20982,7 @@
       "oF" : 0
     },
     "\/reading\/reading-literature\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -20998,7 +20998,7 @@
       "oF" : 0
     },
     "\/reading\/reading-literature\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21014,7 +21014,7 @@
       "oF" : 0
     },
     "\/reading\/reading-literature\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21030,7 +21030,7 @@
       "oF" : 0
     },
     "\/reading\/sat-power-prep\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21046,7 +21046,7 @@
       "oF" : 0
     },
     "\/reading\/sat-power-prep\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21062,7 +21062,7 @@
       "oF" : 0
     },
     "\/reading\/sat-power-prep\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21078,7 +21078,7 @@
       "oF" : 0
     },
     "\/reading\/teaching-4th-grade-reading.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21094,7 +21094,7 @@
       "oF" : 0
     },
     "\/reading\/teaching-5th-grade-reading.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21110,7 +21110,7 @@
       "oF" : 0
     },
     "\/reading\/teaching-6th-grade-reading.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21126,7 +21126,7 @@
       "oF" : 0
     },
     "\/reading\/teaching-7th-grade-reading.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21142,7 +21142,7 @@
       "oF" : 0
     },
     "\/reading\/teaching-8th-grade-reading.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21158,7 +21158,7 @@
       "oF" : 0
     },
     "\/reading\/teaching-9th-grade-reading.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21174,7 +21174,7 @@
       "oF" : 0
     },
     "\/reading\/teaching-10th-grade-reading.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21190,7 +21190,7 @@
       "oF" : 0
     },
     "\/reading\/teaching-11th-grade-reading.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21206,7 +21206,7 @@
       "oF" : 0
     },
     "\/reading\/teaching-12th-grade-reading.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21222,7 +21222,7 @@
       "oF" : 0
     },
     "\/reading\/techniques-of-propaganda-and-persuasion\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21238,7 +21238,7 @@
       "oF" : 0
     },
     "\/reading\/techniques-of-propaganda-and-persuasion\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21254,7 +21254,7 @@
       "oF" : 0
     },
     "\/reading\/techniques-of-propaganda-and-persuasion\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21270,7 +21270,7 @@
       "oF" : 0
     },
     "\/reading\/tree.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21286,7 +21286,7 @@
       "oF" : 0
     },
     "\/vocabulary\/growing-your-vocabulary\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21302,7 +21302,7 @@
       "oF" : 0
     },
     "\/vocabulary\/growing-your-vocabulary\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21318,7 +21318,7 @@
       "oF" : 0
     },
     "\/vocabulary\/growing-your-vocabulary\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21334,7 +21334,7 @@
       "oF" : 0
     },
     "\/vocabulary\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21350,7 +21350,7 @@
       "oF" : 0
     },
     "\/vocabulary\/standards-based-vocabulary\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21366,7 +21366,7 @@
       "oF" : 0
     },
     "\/vocabulary\/standards-based-vocabulary\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21382,7 +21382,7 @@
       "oF" : 0
     },
     "\/vocabulary\/standards-based-vocabulary\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21398,7 +21398,7 @@
       "oF" : 0
     },
     "\/vocabulary\/teaching-4th-grade-vocabulary.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21414,7 +21414,7 @@
       "oF" : 0
     },
     "\/vocabulary\/teaching-5th-grade-vocabulary.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21430,7 +21430,7 @@
       "oF" : 0
     },
     "\/vocabulary\/teaching-6th-grade-vocabulary.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21446,7 +21446,7 @@
       "oF" : 0
     },
     "\/vocabulary\/teaching-7th-grade-vocabulary.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21462,7 +21462,7 @@
       "oF" : 0
     },
     "\/vocabulary\/teaching-8th-grade-vocabulary.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21478,7 +21478,7 @@
       "oF" : 0
     },
     "\/vocabulary\/teaching-9th-grade-vocabulary.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21494,7 +21494,7 @@
       "oF" : 0
     },
     "\/vocabulary\/teaching-10th-grade-vocabulary.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21510,7 +21510,7 @@
       "oF" : 0
     },
     "\/vocabulary\/teaching-11th-grade-vocabulary.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21526,7 +21526,7 @@
       "oF" : 0
     },
     "\/vocabulary\/teaching-12th-grade-vocabulary.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21542,7 +21542,7 @@
       "oF" : 0
     },
     "\/vocabulary\/tree.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21558,7 +21558,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-for-the-college-bound\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21574,7 +21574,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-for-the-college-bound\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21590,7 +21590,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-for-the-college-bound\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21606,7 +21606,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-from-latin-and-greek-roots\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21622,7 +21622,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-from-latin-and-greek-roots\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21638,7 +21638,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-from-latin-and-greek-roots\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21654,7 +21654,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-in-context\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21670,7 +21670,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-in-context\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21686,7 +21686,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-in-context\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21702,7 +21702,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-power-plus-online\/faq.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21718,7 +21718,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-power-plus-online\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21734,7 +21734,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-power-plus-online\/interested.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21750,7 +21750,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-power-plus-online\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21766,7 +21766,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-power-plus-online\/trial-account.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21782,7 +21782,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-power-plus-online\/trial-request.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21798,7 +21798,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-power-plus\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21814,7 +21814,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-power-plus\/sample-download\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -21830,7 +21830,7 @@
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-power-plus\/sample-request\/index.kit" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
@@ -23135,9 +23135,9 @@
       "autoOutputPathReplace2" : "",
       "autoOutputPathStyle" : 0,
       "combineImports" : 0,
-      "cssoStyle" : 0,
+      "cssoStyle" : 1,
       "purgeCSSStyle" : 0,
-      "shouldRunAutoprefixer" : 1,
+      "shouldRunAutoprefixer" : 0,
       "shouldRunBless" : 0,
       "sourceMapStyle" : 0
     },
@@ -23210,7 +23210,7 @@
       "autoOutputPathReplace2" : "html",
       "autoOutputPathStyle" : 0,
       "htmlMinifierStyle" : 0,
-      "shouldRunCacheBuster" : 0
+      "shouldRunCacheBuster" : 1
     },
     "languageDefaultsLESS" : {
       "allowInsecureImports" : 0,
@@ -23295,10 +23295,10 @@
       "autoOutputPathReplace2" : "css",
       "autoOutputPathStyle" : 0,
       "compilerType" : 0,
-      "cssoStyle" : 0,
+      "cssoStyle" : 1,
       "decimalPrecision" : 10,
       "emitCharset" : 1,
-      "outputStyle" : 0,
+      "outputStyle" : 2,
       "purgeCSSStyle" : 0,
       "shouldRunAutoprefixer" : 0,
       "shouldRunBless" : 0,
