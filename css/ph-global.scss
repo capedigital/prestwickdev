@@ -3,10 +3,10 @@
 @import './variables.scss';
 
 @font-face {
-    font-family: fontello;
-    font-weight: normal;
-    font-style: normal;
-    src: url("https://www.prestwick.dev/fonts/fontello.woff") format("woff");
+  font-family: "fontello";
+  src: local("fontello"), local("fontello"),
+    url("https://www.prestwick.dev/fonts/fontello.woff") format("woff");
+  font-weight: bold;
 }
 
 html { scroll-behavior: smooth; }
