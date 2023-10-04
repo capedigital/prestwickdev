@@ -110,6 +110,13 @@ span.cartItem-price, .cartItem-price div, .cartItem-price b, .cartItem-price str
 
 /*END MEDIA QUERIES*/
 
+.navMain>ul>li>ul {
+    background-color: #000 !important;
+    background: #000 !important;
+}
+
+.navMain>ul>li>ul a { color: #FFFFFF; }
+
 .ph-equal { display: flex; display: -webkit-flex; }
 .row.display-flex { display: flex; }
 .row.display-flex>[class*='column'] { display: flex; }
