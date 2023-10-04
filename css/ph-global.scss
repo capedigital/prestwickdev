@@ -2,12 +2,6 @@
 @use 'sass:color';
 @import './variables.scss';
 
-@font-face {
-  font-family: 'fontello';
-  src:  url('https://www.prestwick.dev/fonts/fontello.woff2') format('woff2'),
-        url('https://www.prestwick.dev/fonts/fontello.woff') format('woff');
-}
-
 html { scroll-behavior: smooth; }
 
 img {  max-width: 100%; height: auto; }
