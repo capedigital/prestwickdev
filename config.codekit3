@@ -16925,38 +16925,6 @@
       "oAP" : "\/literature\/literature-guides\/activity-packs\/sample-download\/index.html",
       "oF" : 0
     },
-    "\/literature\/literature-guides\/ap-literature-teaching-units\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/ap-literature-teaching-units\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/ap-literature-teaching-units\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/ap-literature-teaching-units\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/ap-literature-teaching-units\/sample-download\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/ap-literature-teaching-units\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/ap-literature-teaching-units\/sample-download\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/ap-literature-teaching-units\/sample-download\/index.html",
-      "oF" : 0
-    },
     "\/literature\/literature-guides\/complete-teachers-kits\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -21225,6 +21193,38 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/reading\/tree.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/ap-literature-teaching-units\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/ap-literature-teaching-units\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/ap-literature-teaching-units\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/ap-literature-teaching-units\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/ap-literature-teaching-units\/sample-download\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/ap-literature-teaching-units\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/ap-literature-teaching-units\/sample-download\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/ap-literature-teaching-units\/sample-download\/index.html",
       "oF" : 0
     },
     "\/teaching-guides\/index.html" : {
