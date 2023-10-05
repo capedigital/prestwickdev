@@ -786,7 +786,7 @@
       "pg" : 0
     },
     "\/css\/ph-btclanding.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "co" : 1,
       "dP" : 10,
@@ -813,7 +813,7 @@
       "pg" : 0
     },
     "\/css\/ph-bts.sass" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "co" : 1,
       "dP" : 10,
@@ -828,7 +828,7 @@
       "sct" : 0
     },
     "\/css\/ph-bts.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "co" : 1,
       "dP" : 10,
@@ -855,7 +855,7 @@
       "pg" : 0
     },
     "\/css\/ph-cowinter.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "co" : 1,
       "dP" : 10,
@@ -882,7 +882,7 @@
       "pg" : 0
     },
     "\/css\/ph-eotp.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "co" : 1,
       "dP" : 10,
@@ -909,7 +909,7 @@
       "pg" : 0
     },
     "\/css\/ph-global.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "co" : 1,
       "dP" : 10,
@@ -936,7 +936,7 @@
       "pg" : 0
     },
     "\/css\/ph-nbm.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "co" : 1,
       "dP" : 10,
@@ -951,7 +951,7 @@
       "sct" : 0
     },
     "\/css\/variables.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "co" : 1,
       "dP" : 10,
@@ -17069,38 +17069,6 @@
       "oAP" : "\/literature\/literature-guides\/levels-of-understanding\/sample-download\/index.html",
       "oF" : 0
     },
-    "\/literature\/literature-guides\/literature-teaching-units\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/literature-teaching-units\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/literature-teaching-units\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/literature-teaching-units\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/literature-teaching-units\/sample-download\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/literature-teaching-units\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/literature-teaching-units\/sample-download\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/literature-teaching-units\/sample-download\/index.html",
-      "oF" : 0
-    },
     "\/literature\/literature-guides\/multiple-critical-perspectives\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -19960,7 +19928,7 @@
       "pg" : 0
     },
     "\/old\/backtoclass-phold.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "co" : 1,
       "dP" : 10,
@@ -21275,6 +21243,38 @@
       "oAP" : "\/reading\/tree.html",
       "oF" : 0
     },
+    "\/teaching-guides\/literature-teaching-units\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/literature-teaching-units\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/literature-teaching-units\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/literature-teaching-units\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/literature-teaching-units\/sample-download\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/literature-teaching-units\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/literature-teaching-units\/sample-download\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/literature-teaching-units\/sample-download\/index.html",
+      "oF" : 0
+    },
     "\/vocabulary\/growing-your-vocabulary\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -22146,7 +22146,7 @@
     "buildFolderName" : "build",
     "cleanBuild" : 1,
     "cssoForceMediaMerge" : 0,
-    "cssoRestructure" : 1,
+    "cssoRestructure" : 0,
     "environmentVariableEntries" : [
       "NODE_ENV:::production"
     ],
@@ -23298,7 +23298,7 @@
       "emitCharset" : 1,
       "outputStyle" : 2,
       "purgeCSSStyle" : 0,
-      "shouldRunAutoprefixer" : 0,
+      "shouldRunAutoprefixer" : 1,
       "shouldRunBless" : 0,
       "sourceMapStyle" : 0
     },
