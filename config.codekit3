@@ -337,6 +337,22 @@
       "oAP" : "\/books\/literary-touchstone-classics\/sample-request\/index.html",
       "oF" : 0
     },
+    "\/books\/safeguard-hardback-books\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/safeguard-hardback-books\/index.html",
+      "oF" : 0
+    },
+    "\/books\/safeguard-hardback-books\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/safeguard-hardback-books\/index.html",
+      "oF" : 0
+    },
     "\/books\/school-discounts\/discovering-literature\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -17147,22 +17163,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/literature\/literature-guides\/response-journals\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/safeguard\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/safeguard\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/safeguard\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/safeguard\/index.html",
       "oF" : 0
     },
     "\/literature\/tree.html" : {
