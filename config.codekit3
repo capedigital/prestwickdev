@@ -97,6 +97,54 @@
       "oAP" : "\/books\/index.html",
       "oF" : 0
     },
+    "\/books\/literary-touchstone-classics\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/literary-touchstone-classics\/index.html",
+      "oF" : 0
+    },
+    "\/books\/literary-touchstone-classics\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/literary-touchstone-classics\/index.html",
+      "oF" : 0
+    },
+    "\/books\/literary-touchstone-classics\/sample-download\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/literary-touchstone-classics\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/books\/literary-touchstone-classics\/sample-download\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/literary-touchstone-classics\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/books\/literary-touchstone-classics\/sample-request\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/literary-touchstone-classics\/sample-request\/index.html",
+      "oF" : 0
+    },
+    "\/books\/literary-touchstone-classics\/sample-request\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/literary-touchstone-classics\/sample-request\/index.html",
+      "oF" : 0
+    },
     "\/books\/school-discounts\/discovering-literature\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -159,54 +207,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/books\/school-discounts\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/literary-touchstone-classics\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/literary-touchstone-classics\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/literary-touchstone-classics\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/literary-touchstone-classics\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/literary-touchstone-classics\/sample-download\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/literary-touchstone-classics\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/literary-touchstone-classics\/sample-download\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/literary-touchstone-classics\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/literary-touchstone-classics\/sample-request\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/literary-touchstone-classics\/sample-request\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/literary-touchstone-classics\/sample-request\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/literary-touchstone-classics\/sample-request\/index.html",
       "oF" : 0
     },
     "\/books\/school-discounts\/nonfiction\/index.html" : {
