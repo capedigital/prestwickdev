@@ -337,6 +337,38 @@
       "oAP" : "\/books\/literary-touchstone-classics\/sample-request\/index.html",
       "oF" : 0
     },
+    "\/books\/new-and-trending\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/new-and-trending\/index.html",
+      "oF" : 0
+    },
+    "\/books\/new-and-trending\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/new-and-trending\/index.html",
+      "oF" : 0
+    },
+    "\/books\/new-and-trending\/signup\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/new-and-trending\/signup\/index.html",
+      "oF" : 0
+    },
+    "\/books\/new-and-trending\/signup\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/new-and-trending\/signup\/index.html",
+      "oF" : 0
+    },
     "\/books\/safeguard-hardback-books\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -351,38 +383,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/books\/safeguard-hardback-books\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/discovering-literature\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/discovering-literature\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/discovering-literature\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/discovering-literature\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/discovering-literature\/signup\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/discovering-literature\/signup\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/discovering-literature\/signup\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/discovering-literature\/signup\/index.html",
       "oF" : 0
     },
     "\/books\/school-discounts\/diverse-books\/index.html" : {
