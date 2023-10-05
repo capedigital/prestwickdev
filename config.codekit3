@@ -257,6 +257,22 @@
       "oAP" : "\/books\/classroom-library-packs\/index.html",
       "oF" : 0
     },
+    "\/books\/classroom-library-packs\/themed-classroom-library-packs\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/classroom-library-packs\/themed-classroom-library-packs\/index.html",
+      "oF" : 0
+    },
+    "\/books\/classroom-library-packs\/themed-classroom-library-packs\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/classroom-library-packs\/themed-classroom-library-packs\/index.html",
+      "oF" : 0
+    },
     "\/books\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -399,22 +415,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/books\/school-discounts\/nonfiction\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/themed-classroom-library-packs\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/themed-classroom-library-packs\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/themed-classroom-library-packs\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/themed-classroom-library-packs\/index.html",
       "oF" : 0
     },
     "\/books\/side-by-sides\/index.html" : {
