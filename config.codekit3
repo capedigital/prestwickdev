@@ -16989,22 +16989,6 @@
       "oAP" : "\/literature\/literature-guides\/complete-teachers-kits\/sample-download\/index.html",
       "oF" : 0
     },
-    "\/literature\/literature-guides\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/index.html",
-      "oF" : 0
-    },
     "\/literature\/literature-guides\/instant-short-story-packs\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -21241,6 +21225,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/reading\/tree.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/index.html",
       "oF" : 0
     },
     "\/teaching-guides\/literature-teaching-units\/index.html" : {
