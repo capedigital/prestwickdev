@@ -81,6 +81,22 @@
       "oAP" : "\/blog\/teaching-guide-ads.html",
       "oF" : 0
     },
+    "\/books\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/index.html",
+      "oF" : 0
+    },
+    "\/books\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/index.html",
+      "oF" : 0
+    },
     "\/classroom-posters.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -16639,22 +16655,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/literature\/classroom-library-packs\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/index.html",
       "oF" : 0
     },
     "\/literature\/keylit\/faq.html" : {
