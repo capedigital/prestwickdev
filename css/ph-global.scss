@@ -918,6 +918,7 @@ body.special-sales div#content { background-color: #EFEFEF; }
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
   box-shadow: 0 8px 12px 0 rgba(0, 0, 0, .2);
+  min-width: 205px !important;
 }
 
 .navMain>ul>li>ul a {
