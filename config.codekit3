@@ -241,6 +241,54 @@
       "oAP" : "\/books\/school-discounts\/themed-classroom-library-packs\/index.html",
       "oF" : 0
     },
+    "\/books\/side-by-sides\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/side-by-sides\/index.html",
+      "oF" : 0
+    },
+    "\/books\/side-by-sides\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/side-by-sides\/index.html",
+      "oF" : 0
+    },
+    "\/books\/side-by-sides\/sample-download\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/side-by-sides\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/books\/side-by-sides\/sample-download\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/side-by-sides\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/books\/side-by-sides\/sample-request\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/side-by-sides\/sample-request\/index.html",
+      "oF" : 0
+    },
+    "\/books\/side-by-sides\/sample-request\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/side-by-sides\/sample-request\/index.html",
+      "oF" : 0
+    },
     "\/classroom-posters.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -17115,54 +17163,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/literature\/safeguard\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/side-by-sides\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/side-by-sides\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/side-by-sides\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/side-by-sides\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/side-by-sides\/sample-download\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/side-by-sides\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/side-by-sides\/sample-download\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/side-by-sides\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/side-by-sides\/sample-request\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/side-by-sides\/sample-request\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/side-by-sides\/sample-request\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/side-by-sides\/sample-request\/index.html",
       "oF" : 0
     },
     "\/literature\/tree.html" : {
