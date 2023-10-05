@@ -273,6 +273,22 @@
       "oAP" : "\/books\/classroom-library-packs\/themed-classroom-library-packs\/index.html",
       "oF" : 0
     },
+    "\/books\/diverse-books\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/diverse-books\/index.html",
+      "oF" : 0
+    },
+    "\/books\/diverse-books\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/diverse-books\/index.html",
+      "oF" : 0
+    },
     "\/books\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -369,6 +385,22 @@
       "oAP" : "\/books\/new-and-trending\/signup\/index.html",
       "oF" : 0
     },
+    "\/books\/nonfiction\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/nonfiction\/index.html",
+      "oF" : 0
+    },
+    "\/books\/nonfiction\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/nonfiction\/index.html",
+      "oF" : 0
+    },
     "\/books\/safeguard-hardback-books\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -385,22 +417,6 @@
       "oAP" : "\/books\/safeguard-hardback-books\/index.html",
       "oF" : 0
     },
-    "\/books\/school-discounts\/diverse-books\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/diverse-books\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/diverse-books\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/diverse-books\/index.html",
-      "oF" : 0
-    },
     "\/books\/school-discounts\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -415,22 +431,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/books\/school-discounts\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/nonfiction\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/nonfiction\/index.html",
-      "oF" : 0
-    },
-    "\/books\/school-discounts\/nonfiction\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/school-discounts\/nonfiction\/index.html",
       "oF" : 0
     },
     "\/books\/side-by-sides\/index.html" : {
