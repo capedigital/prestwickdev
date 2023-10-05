@@ -97,6 +97,150 @@
       "oAP" : "\/books\/index.html",
       "oF" : 0
     },
+    "\/books\/school-discounts\/discovering-literature\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/discovering-literature\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/discovering-literature\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/discovering-literature\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/discovering-literature\/signup\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/discovering-literature\/signup\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/discovering-literature\/signup\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/discovering-literature\/signup\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/diverse-books\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/diverse-books\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/diverse-books\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/diverse-books\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/literary-touchstone-classics\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/literary-touchstone-classics\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/literary-touchstone-classics\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/literary-touchstone-classics\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/literary-touchstone-classics\/sample-download\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/literary-touchstone-classics\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/literary-touchstone-classics\/sample-download\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/literary-touchstone-classics\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/literary-touchstone-classics\/sample-request\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/literary-touchstone-classics\/sample-request\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/literary-touchstone-classics\/sample-request\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/literary-touchstone-classics\/sample-request\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/nonfiction\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/nonfiction\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/nonfiction\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/nonfiction\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/themed-classroom-library-packs\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/themed-classroom-library-packs\/index.html",
+      "oF" : 0
+    },
+    "\/books\/school-discounts\/themed-classroom-library-packs\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/school-discounts\/themed-classroom-library-packs\/index.html",
+      "oF" : 0
+    },
     "\/classroom-posters.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -410,7 +554,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/css\/ph-btclanding.css",
+      "oAP" : "\/css\/ph-btclanding-min.css",
       "oF" : 0,
       "oS" : 2,
       "pg" : 0,
@@ -437,7 +581,7 @@
       "ft" : 2,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/css\/ph-bts.css",
+      "oAP" : "\/css\/ph-bts-min.css",
       "oF" : 0,
       "oS" : 2,
       "pg" : 0,
@@ -452,7 +596,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/css\/ph-bts.css",
+      "oAP" : "\/css\/ph-bts-min.css",
       "oF" : 0,
       "oS" : 2,
       "pg" : 0,
@@ -479,7 +623,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/css\/ph-cowinter.css",
+      "oAP" : "\/css\/ph-cowinter-min.css",
       "oF" : 0,
       "oS" : 2,
       "pg" : 0,
@@ -506,7 +650,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/css\/ph-eotp.css",
+      "oAP" : "\/css\/ph-eotp-min.css",
       "oF" : 0,
       "oS" : 2,
       "pg" : 0,
@@ -524,26 +668,6 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/css\/ph-global-min.css.map" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/css\/ph-global-min.css.map",
-      "oF" : 0
-    },
-    "\/css\/ph-global.css" : {
-      "aP" : 0,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 1,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/css\/ph-global-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
     "\/css\/ph-global.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -553,7 +677,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/css\/ph-global.css",
+      "oAP" : "\/css\/ph-global-min.css",
       "oF" : 0,
       "oS" : 2,
       "pg" : 0,
@@ -580,7 +704,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/css\/ph-nbm.css",
+      "oAP" : "\/css\/ph-nbm-min.css",
       "oF" : 0,
       "oS" : 2,
       "pg" : 0,
@@ -595,7 +719,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/variables.css",
+      "oAP" : "\/css\/variables-min.css",
       "oF" : 0,
       "oS" : 2,
       "pg" : 0,
@@ -16705,54 +16829,6 @@
       "oAP" : "\/literature\/keylit\/trial-request.html",
       "oF" : 0
     },
-    "\/literature\/literary-touchstone-classics\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literary-touchstone-classics\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literary-touchstone-classics\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literary-touchstone-classics\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literary-touchstone-classics\/sample-download\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literary-touchstone-classics\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literary-touchstone-classics\/sample-download\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literary-touchstone-classics\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literary-touchstone-classics\/sample-request\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literary-touchstone-classics\/sample-request\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literary-touchstone-classics\/sample-request\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literary-touchstone-classics\/sample-request\/index.html",
-      "oF" : 0
-    },
     "\/literature\/literature-guides\/activity-packs\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -17023,102 +17099,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/literature\/literature-guides\/response-journals\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/paperbacks\/discovering-literature\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/paperbacks\/discovering-literature\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/paperbacks\/discovering-literature\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/paperbacks\/discovering-literature\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/paperbacks\/discovering-literature\/signup\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/paperbacks\/discovering-literature\/signup\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/paperbacks\/discovering-literature\/signup\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/paperbacks\/discovering-literature\/signup\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/paperbacks\/diverse-books\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/paperbacks\/diverse-books\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/paperbacks\/diverse-books\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/paperbacks\/diverse-books\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/paperbacks\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/paperbacks\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/paperbacks\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/paperbacks\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/paperbacks\/nonfiction\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/paperbacks\/nonfiction\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/paperbacks\/nonfiction\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/paperbacks\/nonfiction\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/paperbacks\/themed-classroom-library-packs\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/paperbacks\/themed-classroom-library-packs\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/paperbacks\/themed-classroom-library-packs\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/paperbacks\/themed-classroom-library-packs\/index.html",
       "oF" : 0
     },
     "\/literature\/safeguard\/index.html" : {
@@ -19988,7 +19968,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/old\/backtoclass-phold.css",
+      "oAP" : "\/old\/backtoclass-phold-min.css",
       "oF" : 0,
       "oS" : 2,
       "pg" : 0,
@@ -23307,7 +23287,7 @@
     },
     "languageDefaultsSASS" : {
       "autoOutputAction" : 0,
-      "autoOutputPathFilenamePattern" : "*.css",
+      "autoOutputPathFilenamePattern" : "*-min.css",
       "autoOutputPathRelativePath" : "..\/css",
       "autoOutputPathReplace1" : "sass",
       "autoOutputPathReplace2" : "css",
