@@ -200,215 +200,270 @@
                     <div id="ctl01_fwGenericContent1">
                         <div id="ctl01_fwGenericContent1_ctl00">
 
-<!-- <link media="ALL" rel="stylesheet" type="text/css" href="/css/ph-bts-min.css" /> -->
-<style type="text/css">html{scroll-behavior:smooth}:target:before{content:"";display:block;height:100px;margin:-100px 0 0}#content{background:linear-gradient(180deg,#484848 10%,#feae02);margin-top:-15px}.ph-btslanding-hero .ph-h1,.ph-btslanding-hero .ph-h2{color:#fff!important}.ph-anchorage a,.ph-mustard{color:#ffdb6d;text-decoration:underline}.ph-roundborder{border:3px solid #ffde67;border-radius:8px}.ph-btslanding-classactivities,.ph-btslanding-giveaway,.ph-btslanding-librarypacksgrade{background-color:#feae02;padding:60px 30px;margin:30px 0 0;color:#fff}.ph-btslanding-ebook,.ph-btslanding-librarypacksclass,.ph-btslanding-special{background-color:#fe3835;padding:0 50px 20px;margin:30px 0 0;color:#fff}.ph-btslanding-special figure{display:flex;min-height:235px}.ph-btslanding-special .ph-desc-block{display:flex;flex-direction:column;min-height:210px}.ph-btslanding-special .ph-desc-block a{color:#fff;font-weight:700;justify-self:end;margin-top:auto;width:120px}.ph-btslanding-ebook{background-color:#003ca8}.ph-h1.ph-xl{font-size:3em!important;line-height:1.5em!important}.ph-prizelist ul li{font-size:.9em;margin-bottom:10px!important;line-height:1.25em}.ph-separator{margin-bottom:20px!important}.ph-gridblock{height:100%;position:relative;display:flex;flex-direction:column;justify-content:flex-start}.ph-button-blue{background:#003da8;color:#fff;padding:10px 15px!important}.ph-button-blue:hover{background:#fff;color:#000!important}.ph-button-outline{background:0 0!important;border:1px solid #fff!important;color:#fff!important}.ph-button-outline:hover{background:#454545!important;color:#fff!important}    
+<style type="text/css">
+    @import url("https://use.typekit.net/mza7zen.css");
+    /* @import url("../css/ph-bts-min.css"); */
+
+    $color_1:#E5E4C9;
+    $color_2:#6E381E;
+    $color_3:#879EB3;
+    $color_4:#553019;
+    
+    
+    html { scroll-behavior: smooth; }
+    :target:before { content: ""; display: block; height: 100px; margin: -100px 0 0 }
+    #content { background: linear-gradient(180deg, #6E381E 10%, #feae02); margin-top: -15px }
+    .theme_bgcolor_1 { background-color: $color_1 !important; }
+    .theme_bgcolor_2 { background-color: $color_2 !important; }
+    .theme_bgcolor_3 { background-color: $color_3 !important; }
+    .theme_bgcolor_4 { background-color: $color_4 !important; }
+    .theme_color_1 { color: $color_1 !important; }
+    .theme_color_2 { color: $color_2 !important; }
+    .theme_color_3 { color: $color_3 !important; }
+    .theme_color_4 { color: $color_4 !important; }
+    .ph-hallolanding .ph-h1 { font-family: prenton-condensed; font-weight: bold !important; font-size: 5rem !important; line-height: 5rem !important; margin-bottom: 15px !important; letter-spacing: -0.08rem !important; }
+    .ph-hallolanding .ph-h2 { font-family: prenton-condensed; font-weight: bold !important; font-size: 3rem !important; line-height: 3.25rem !important; letter-spacing: 0rem !important; }
+    .ph-hallolanding .ph-h3 { font-family: prenton-condensed; font-weight: bold !important; font-size: 2rem !important; line-height: 2.25rem !important; letter-spacing: 0rem !important; margin-bottom: 0.5rem !important; }
+    .ph-hallolanding .ph-h4 { font-family: prenton-condensed; font-weight: bold !important; font-size: 17px !important; letter-spacing: -0.02rem !important; }
+    .ph-hallolanding .ph-xl { font-size: calc(100% * 6) !important; }
+    .ph-anchorage a { text-decoration: underline }
+    .ph-roundborder { border: 3px solid #ffde67; border-radius: 8px }
+    .ph-hallolanding-classactivities,
+    .ph-hallolanding-giveaway,
+    .ph-hallolanding-librarypacksgrade { background-color: #F68847; padding: 60px 30px; margin: 30px 0 0; color: #fff }
+    .ph-hallolanding-ebook,
+    .ph-hallolanding-librarypacksclass,
+    .ph-hallolanding-special { background-color: #6E381E; padding: 0 50px 20px; margin: 30px 0 0; color: #fff }
+    .ph-hallolanding-special figure { display: flex; min-height: 235px }
+    .ph-hallolanding-special .ph-desc-block { display: flex; flex-direction: column; min-height: 210px }
+    .ph-hallolanding-special .ph-desc-block a { color: #fff; font-weight: 700; justify-self: end; margin-top: auto; width: 120px }
+    .ph-hallolanding-ebook { background-color: #879EB3 }
+    .ph-prizelist ul li { font-size: .9em; margin-bottom: 10px !important; line-height: 1.25em }
+    .ph-separator { margin-bottom: 20px !important }
+    .ph-gridblock { height: 100%; position: relative; display: flex; flex-direction: column; justify-content: flex-start }
+    .ph-button-blue { background: #003da8; color: #fff; padding: 10px 15px !important }
+    .ph-button-blue:hover { background: #fff; color: #000 !important }
+    .ph-button-outline { background: 0 0 !important; border: 1px solid #fff !important; color: #fff !important }
+    .ph-button-outline:hover { background: #454545 !important; color: #fff !important }
+    
 </style>
-<div class="ph-btslanding">
-    <section class="ph-btslanding-hero">
+<div class="ph-hallolanding">
+    <section class="ph-hallolanding-hero h-pushLgTop ph-roundcorners-top ph-boxshad">
         <div class="row">
-            <div class="column lg-24 h-textCenter h-pushLgTop">
-                <img src="https://www.prestwickhouse.com/Image Library/img/landing/landing-header.png" alt="" style="text-align: center; margin-left: auto; margin-right: auto; margin-top: 0px;" class="ph-roundcorners ph-boxshad">
-            </div>
-        </div>
-        <div class="row">
-            <div class="column lg-24 centered-lg h-textCenter ph-white">
-                <div class="ph-separator" style="margin-bottom: 0px !important;">
-                    <div class="ph-line">
-                        <p class="ph-h1 ph-xl">Back to School 2022</p>
-                    </div>
+            <div class="column lg-24 centered-lg h-textCenter">
+                <div class="themebgcolor5 h-softSmEnds">
+                    <p class="ph-h2 themecolor1 ph-textshad ph-prentoncond">Welcome to a New Year of ELA Excellence!</p>
                 </div>
-                <p class="ph-h2">Let’s Succeed in the English Language Arts Classroom!</p>
-                <p class="ph-h3 ph-anchorage h-softLgEnds "><a href="#giveaway">Giveaway</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#sale">Sale</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#ebook">eBook</a></p>
             </div>
-        </div>
+            <div class="column lg-24 centered-lg h-textCenter">    
+                <p class="ph-h1 ph-xl themecolor6 ph-textshad h-softEnds ph-prentoncond">Back-to-School 2023</p>
+            </div>
+        </div> 
     </section>
     <span id="giveaway"></span>
-    <section class="ph-btslanding-giveaway ph-roundcorners ph-boxshad">
-        <div class="row">
-            <div class="column lg-11 offset-lg-1">
-                <img class="ph-roundcorners" src="https://www.prestwickhouse.com/Image Library/img/landing/prizehero.png" alt="">
-                <p class="ph-h1 h-pushTop">A Grand Prize Awaits!</p>
-                <p class="ph-h3 h-pushTop">One lucky teacher will win a giant bundle of brand-new supplies and a collection of high-interest paperbacks for the classroom library!</p>
-                <div class="row h-pushLgTop ph-prizelist">
-                    <div class="column lg-12">
-                        <ul class="">
-                            <li>10 Touchstone Titles</li>
-                            <li>5 Popular Paperbacks</li>
-                            <li>Prestwick House Mug</li>
-                            <li>#2 Pencils</li>
-                            <li>Command Strips</li>
-                            <li>Sticky Memo Pads</li>
-                            <li>Disinfecting Wipes</li>
-                            <li>Astrobrights Colored Paper</li>
-                            <li>Multicolor Dry Erase Markers</li>
-                        </ul>
-                    </div>
-                    <div class="column lg-12">
-                        <ul>
-                            <li>Index Cards</li>
-                            <li>Pink Erasers</li>
-                            <li>Ballpoint Pens</li>
-                            <li>White Board Erasers</li>
-                            <li>Desktop Paper Trays</li>
-                            <li>Lidded Storage Baskets</li>
-                            <li>Brite Liner Highlighters</li>
-                            <li>The Conversation Deck Classroom Activity</li>
-                        </ul>
-                    </div>
-                </div>
+    <section class="h-flushTop themebgcolor5 ph-roundcorners-bottom ph-boxshad">
+        <div class="row h-softLgEnds">
+            <div class="column lg-11 offset-lg-1 themecolor1 ph-textshad">
+                <!-- <img class="ph-roundcorners" src="https://www.prestwickhouse.com/Image Library/img/landing/prizehero.png" alt=""> -->
+                <p class="ph-h2 h-flushTop ph-prentoncond">You could win a classroom supply haul!</p>
+                <p class="ph-h3 h-pushTop themecolor6">One lucky teacher will win a bundle of brand-new school supplies and a collection of high-interest paperbacks for the classroom library!</p>
+                <p class="ph-h5 h-pushLgTop ph-italic">No purchase is necessary to enter or win. A purchase does not increase the chances of winning. Contest entry closes on September 10, 2023, at 11:59 p.m. EST. The winner will be contacted on September 11, 2023. <a class="themecolor1" style="text-decoration: underline" href="https://www.prestwickhouse.com/contests/terms">See full terms and conditions.</a></p>
             </div>
-            <div class="column lg-10 offset-lg-1">
-                <a class="e-widget no-button" href="https://gleam.io/G25Qg/back-to-school-2022-giveaway" rel="nofollow">Back to School 2022 Giveaway</a>
-                <script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script>
-                <p class="ph-h5 h-pushLgTop ph-italic">No purchase is necessary to enter or win. A purchase does not increase the chances of winning. Contest entry closes on September 8, 2022, at 11:59 p.m. EST. The winner will be announced on September 9, 2022.</p>
+            <div class="column lg-10 themecolor1 ph-textshad offset-lg-1">
+                <script src="https://www.cognitoforms.com/f/seamless.js" data-key="24Z_KqCxEUiPBuYmzMSCcA" data-form="65"></script>
             </div>
-
+        </div>
+        <div class="row row--flush">
+            <div class="column lg-6 no-gutters">
+                <div class="themebgcolor4 ph-roundcorners-bottom-left">&nbsp;</div>
+            </div>
+            <div class="column lg-6 no-gutters">
+                <div class="themebgcolor3">&nbsp;</div>
+            </div>
+            <div class="column lg-6 no-gutters">
+                <div class="themebgcolor2">&nbsp;</div>
+            </div>
+            <div class="column lg-6 no-gutters">
+                <div class="themebgcolor1 ph-roundcorners-bottom-right">&nbsp;</div>
+            </div>
         </div>
     </section>
     <span id="sale"></span>
-    <section class="ph-btslanding-special ph-roundcorners ph-boxshad h-pushXLgTop h-pushLgBottom">
+    <section class="ph-hallolanding-special themebgcolor5 themecolor1 h-pushLgTop h-softLgSides ph-roundcorners-top ph-boxshad ">
         <div class="row">
-            <div class="column lg-24 h-pushTop h-textCenter">
-                <div class="ph-separator h-pushLgBottom">
-                    <div class="ph-line">
-                        <p class="ph-h1">Take 50% Off Ready-to-Use<br>Literature Lesson Plans</p>
-                    </div>
-                </div>
+            <div class="column lg-24 h-pushLgTop h-textCenter">
+                <p class="ph-h1 ph-prentoncond themecolor1 ph-textshad">Take 50% Off Ready-to-Use<br>Literature Lesson Plans</p>
             </div>
             <div class="column lg-18 h-pushLgBottom h-textCenter centered-lg">
-                <p class="ph-h4">With <span class="ph-bolditalic">Literature Teaching Guides</span>, our bestselling collection of resources created for busy teachers like you, it’s easy to build the literature unit of your dreams.</p>
-                    
-                <p class="ph-h4">For a limited time, save 50% on all downloadable<br>Literature Teaching Guides with code:</p>
+                <p class="ph-h4 themecolor6">Let’s get your curriculum in order! With <span class="ph-bolditalic">Literature Teaching Guides</span>, our bestselling collection of lesson plans created for busy teachers like you, it’s easy to build the literature unit of your dreams without wasting precious time.</p>
                 
-                <p style="color: #feae02; font-size: 30px; font-weight: bold;">BTS22</p>
+                <p class="ph-h4 themecolor6">For a limited time, instantly <strong>save 50%</strong> on all downloadable <span class="ph-bolditalic">Literature Teaching Guides</span>—no code needed!</p>
 
-                <a href="https://www.prestwickhouse.com/literature/literature-guides" class="button ph-button h-pushTop ph-roundcorners" style="background: #003da8; color: #FFFFFF">Shop All Guides</a>
-                
+                <a href="https://www.prestwickhouse.com/literature/literature-guides" class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7">Shop All Guides</a>
             </div>
         </div>
         <div class="row">
-            <div class="column sm-12 lg-6">
-                <div class="h-pushLgEnds">
+                <div class="column sm-12 lg-6">
                     <figure class="h-flushBottom">
                         <a href="/literature/literature-guides/literature-teaching-units/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-ltu.png" alt="Literature Teaching Units" title="Literature Teaching Units"></a>
                     </figure>
                     <div class="ph-desc-block">
                         <p class="ph-h3">Literature Teaching Units</p>
                         <p>Eliminate hours of prep work with ready-to-use units built on a structured academic framework.</p>
-                        <a class="button ph-button-sm ph-button-blue" href="/literature/literature-guides/literature-teaching-units/index-responsive">Shop Now &#x25B8;</a>
+                        <a class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7" href="/literature/literature-guides/literature-teaching-units/index-responsive">Shop Now &#x25B8;</a>
                     </div>
                 </div>
-            </div>
-            <div class="column sm-12 lg-6">
-                <div class="h-pushLgEnds">
+                <div class="column sm-12 lg-6">
                     <figure class="h-flushBottom">
                         <a href="/literature/literature-guides/response-journals/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-lrj.png" alt="Response Journals" title="Response Journals"></a>
                     </figure>
                     <div class="ph-desc-block">
                         <p class="ph-h3">Response Journals</p>
                         <p>Help students draw personal connections to literature by reflecting on what they've read.</p>
-                        <a class="button ph-button-sm ph-button-blue" href="/literature/literature-guides/response-journals/index-responsive">Shop Now &#x25B8;</a>
+                        <a class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7" href="/literature/literature-guides/response-journals/index-responsive">Shop Now &#x25B8;</a>
                     </div>
                 </div>
-            </div>
-            <div class="column sm-12 lg-6">
-                <div class="h-pushLgEnds">
+                <div class="column sm-12 lg-6">
                     <figure class="h-flushBottom">
                         <a href="/literature/literature-guides/activity-packs/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-actpacks.png" alt="Activity Packs" title="Activity Packs"></a>
                     </figure>
                     <div class="ph-desc-block">
                         <p class="ph-h3">Activity Packs</p>
                         <p>Get students excited for reading with dozens of creative activities for more than 150 favorite titles.</p>
-                        <a class="button ph-button-sm ph-button-blue" href="/literature/literature-guides/activity-packs/index-responsive">Shop Now &#x25B8;</a>
+                        <a class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7" href="/literature/literature-guides/activity-packs/index-responsive">Shop Now &#x25B8;</a>
                     </div>
                 </div>
-            </div>
-            <div class="column sm-12 lg-6">
-                <div class="h-pushLgEnds">
+                <div class="column sm-12 lg-6">
                     <figure class="h-flushBottom">
                         <a href="/literature/literature-guides/complete-teachers-kits/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-ctk.png" alt="Complete Teacher's Kits" title="Complete Teacher's Kits"></a>
                     </figure>
                     <div class="ph-desc-block">
                         <p class="ph-h3">Complete Teacher's Kits</p>
                         <p>Get everything you need to teach a new book with three essential <span class="ph-italic">Literature Guides</span> in one package.</p>
-                        <a class="button ph-button-sm ph-button-blue" href="/literature/literature-guides/complete-teachers-kits/index-responsive">Shop Now &#x25B8;</a>
+                        <a class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7" href="/literature/literature-guides/complete-teachers-kits/index-responsive">Shop Now &#x25B8;</a>
                     </div>
                 </div>
-            </div>
-            <div class="column sm-12 lg-6">
-                <div class="h-pushLgEnds">
+
+                <div class="column sm-12 lg-6">
                     <figure class="h-flushBottom">
                         <a href="/literature/literature-guides/ap-literature-teaching-units/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-apltu.png" alt="AP Literature Teaching Units" title="AP Literature Teaching Units"></a>
                     </figure>
                     <div class="ph-desc-block">
                         <p class="ph-h3">AP Literature Teaching Units</p>
                         <p>Our #1 best-selling vocabulary program for 4th-12th grade.</p>
-                        <a class="button ph-button-sm ph-button-blue" href="/literature/literature-guides/ap-literature-teaching-units/index-responsive">Shop Now &#x25B8;</a>
+                        <a class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7" href="/literature/literature-guides/ap-literature-teaching-units/index-responsive">Shop Now &#x25B8;</a>
                     </div>
                 </div>
-            </div>
-            <div class="column sm-12 lg-6">
-                <div class="h-pushLgEnds">
+                <div class="column sm-12 lg-6">
                     <figure class="h-flushBottom">
                         <a href="/literature/literature-guides/multiple-critical-perspectives/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-mcp.png" alt="Multiple Critical Perspectives" title="Multiple Critical Perspectives"></a>
                     </figure>
                     <div class="ph-desc-block">
                         <p class="ph-h3">Multiple Critical Perspectives</p>
                         <p>Introduce your students to literary theories with activities that make learning both fun and intellectually rewarding.</p>
-                        <a class="button ph-button-sm ph-button-blue" href="/literature/literature-guides/multiple-critical-perspectives/index-responsive">Shop Now &#x25B8;</a>
+                        <a class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7" href="/literature/literature-guides/multiple-critical-perspectives/index-responsive">Shop Now &#x25B8;</a>
                     </div>
                 </div>
-            </div>
-            <div class="column sm-12 lg-6">
-                <div class="h-pushLgEnds">
+                <div class="column sm-12 lg-6">
                     <figure class="h-flushBottom">
                         <a href="/literature/literature-guides/levels-of-understanding/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-lou.png" alt="Levels of Understanding" title="Levels of Understanding"></a>
                     </figure>
                     <div class="ph-desc-block">
                         <p class="ph-h3">Levels of Understanding</p>
                         <p>Use Bloom's Taxonomy to lead your students from lower-order to higher-order thinking skills.</p>
-                        <a class="button ph-button-sm ph-button-blue" href="/literature/literature-guides/levels-of-understanding/index-responsive">Shop Now &#x25B8;</a>
+                        <a class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7" href="/literature/literature-guides/levels-of-understanding/index-responsive">Shop Now &#x25B8;</a>
                     </div>
                 </div>
-            </div>
-            <div class="column sm-12 lg-6">
-                <div class="h-pushLgEnds">
+                <div class="column sm-12 lg-6">
                     <figure class="h-flushBottom">
                         <a href="/literature/literature-guides/instant-short-story-packs/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-issp.png" alt="Instant Short Story Packs" title="Instant Short Story Packs"></a>
                     </figure>
                     <div class="ph-desc-block">
                         <p class="ph-h3">Instant Short Story Packs</p>
                         <p>Help students learn how to analyze literature with downloadable activities for more than 25 popular short stories.</p>
-                        <a class="button ph-button-sm ph-button-blue" href="/literature/literature-guides/instant-short-story-packs/index-responsive">Shop Now &#x25B8;</a>
+                        <a class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7" href="/literature/literature-guides/instant-short-story-packs/index-responsive">Shop Now &#x25B8;</a>
                     </div>
                 </div>
             </div>
-            <div class="column"><p class="ph-h5 h-pushLgTop ph-italic h-textCenter">This coupon code is valid on purchases made before September 18, 2022, at 11:59 p.m. EST. Code applies to downloadable Literature Teaching Guides PDF files only.</p></div>
+            <div class="row">
+                <div class="column">
+                    <p class="ph-h5 h-pushLgTop"><span class="ph-italic">Prices as marked. Sale prices are valid from August 14, 2023, at 12:01 a.m. EST through September 12, 2023, at 11:59 p.m. EST. This sale applies only to downloadable versions of</span> Literature Teaching Guides.</p>
+                    <p class="ph-h5 h-pushLgTop ph-italic">*Advanced Placement, AP, and the Advanced Placement Program are registered trademarks of the College Board, which was not involved in the production of—and does not endorse—these products.</p>
+                </div>
+            </div>
+    </section>
+    <section class="">
+        <div class="row row--flush">
+            <div class="column lg-6 no-gutters">
+                <div class="themebgcolor4 ph-roundcorners-bottom-left">&nbsp;</div>
+            </div>
+            <div class="column lg-6 no-gutters">
+                <div class="themebgcolor3">&nbsp;</div>
+            </div>
+            <div class="column lg-6 no-gutters">
+                <div class="themebgcolor2">&nbsp;</div>
+            </div>
+            <div class="column lg-6 no-gutters">
+                <div class="themebgcolor1 ph-roundcorners-bottom-right">&nbsp;</div>
+            </div>
         </div>
     </section>
-    
     <span id="ebook"></span>
-    <section class="ph-btslanding-ebook ph-roundcorners ph-boxshad h-pushXLgTop h-pushLgBottom">
+        <section class="ph-hallolanding-special themebgcolor5 themecolor1 h-pushLgTop h-softLgSides h-softXLgBottom ph-roundcorners-top ph-boxshad ">
         <div class="row">
-            <div class="column lg-24 h-pushTop h-textCenter">
-                <div class="ph-separator h-pushLgBottom">
-                    <div class="ph-line">
-                        <p class="ph-h1">Teaching in 2022: Trending<br>Topics for ELA Educators</p>
-                    </div>
-                </div>
+            <div class="column lg-24 h-pushLgTop h-textCenter">
+                <p class="ph-h1 ph-prentoncond themecolor1 ph-textshad">Create the Coolest<br>Classroom Library in Your School</p>
             </div>
             <div class="column lg-18 h-pushLgBottom h-textCenter centered-lg">
-                <p class="ph-h4">From inclusivity in literature to technology in the classroom, there’s no shortage of hot topics in English language arts education. Having a hard time keeping up with the conversation? We’ve got you covered.</p>
-                    
-                <p class="ph-h4">In this free eBook, you’ll learn all about blended learning, discover what to do about challenged books, see how you can improve your students’ media literacy, and more!</p>
-                
-    
-                <a href="https://www.prestwickhouse.com/more-resources/free-library/ebooks/trending-topics-for-ela-educators-free-ebook" class="button ph-button h-pushTop ph-roundcorners" style="background: #fd3735; color: #FFFFFF">Download the Free eBook</a>
-                
+                <p class="ph-h4 themecolor6">Stock your classroom shelves with bundled book sets for elementary, middle, and high school! Classroom Library Packs make it easy to curate a collection of high-interest paperbacks that will have students clamoring to read more.</p>
+            </div>
+        </div>
+        <div class="row centered-lg">
+            <div class="column lg-8 h-textCenter">
+                <a href="https://www.prestwickhouse.com/literature/classroom-library-packs/classroom-library-packs-grade-4" class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7">Grade 4</a>
+            </div>
+            <div class="column lg-8 h-textCenter">
+                <a href="https://www.prestwickhouse.com/literature/classroom-library-packs/classroom-library-packs-grade-5" class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7">Grade 5</a>
+            </div>
+            <div class="column lg-8 h-textCenter">
+                <a href="https://www.prestwickhouse.com/literature/classroom-library-packs/classroom-library-packs-grade-6" class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7">Grade 6</a>
+            </div>
+            <div class="column lg-8 h-textCenter">
+                <a href="https://www.prestwickhouse.com/literature/classroom-library-packs/classroom-library-packs-grade-7" class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7">Grade 7</a>
+            </div>
+            <div class="column lg-8 h-textCenter">
+                <a href="https://www.prestwickhouse.com/literature/classroom-library-packs/classroom-library-packs-grade-8" class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7">Grade 8</a>
+            </div>
+            <div class="column lg-8 h-textCenter">
+                <a href="https://www.prestwickhouse.com/literature/classroom-library-packs/classroom-library-packs-grade-9" class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7">Grade 9</a>
+            </div>
+            <div class="column lg-8 h-textCenter">
+                <a href="https://www.prestwickhouse.com/literature/classroom-library-packs/classroom-library-packs-grade-10" class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7">Grade 10</a>
+            </div>
+            <div class="column lg-8 h-textCenter">
+                <a href="https://www.prestwickhouse.com/literature/classroom-library-packs/classroom-library-packs-grade-11" class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7">Grade 11</a>
+            </div>
+            <div class="column lg-8 h-textCenter">
+                <a href="https://www.prestwickhouse.com/literature/classroom-library-packs/classroom-library-packs-grade-12" class="button ph-button h-pushTop h-softEnds h-softLgSides ph-roundcorners themebgcolor1 themecolor7">Grade 12</a>
             </div>
         </div>
     </section>
-    
+    <section class="">
+        <div class="row row--flush">
+            <div class="column lg-6 no-gutters">
+                <div class="themebgcolor4 ph-roundcorners-bottom-left">&nbsp;</div>
+            </div>
+            <div class="column lg-6 no-gutters">
+                <div class="themebgcolor3">&nbsp;</div>
+            </div>
+            <div class="column lg-6 no-gutters">
+                <div class="themebgcolor2">&nbsp;</div>
+            </div>
+            <div class="column lg-6 no-gutters">
+                <div class="themebgcolor1 ph-roundcorners-bottom-right">&nbsp;</div>
+            </div>
+        </div>
+    </section>
     
     <section class="ph-backtotop">
         <div class="row">
