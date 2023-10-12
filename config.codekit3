@@ -513,6 +513,14 @@
       "oAP" : "\/contests\/2023-july-poster-giveaway.html",
       "oF" : 0
     },
+    "\/contests\/2023-read-more-boooooks-halloween-giveaway.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2023-read-more-boooooks-halloween-giveaway.html",
+      "oF" : 0
+    },
     "\/contests\/2023-read-more-boooooks-halloween-giveaway.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -730,7 +738,7 @@
       "oF" : 0
     },
     "\/css\/mackinac.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -742,7 +750,7 @@
       "pg" : 0
     },
     "\/css\/main-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -754,7 +762,7 @@
       "pg" : 0
     },
     "\/css\/main.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -766,7 +774,7 @@
       "pg" : 0
     },
     "\/css\/ph-btclanding-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -793,7 +801,7 @@
       "sct" : 0
     },
     "\/css\/ph-bts-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -835,7 +843,7 @@
       "sct" : 0
     },
     "\/css\/ph-cowinter-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -862,7 +870,7 @@
       "sct" : 0
     },
     "\/css\/ph-eotp-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -889,7 +897,7 @@
       "sct" : 0
     },
     "\/css\/ph-global-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -915,8 +923,23 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/css\/ph-hallow.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 1,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/css\/ph-hallow-min.css",
+      "oF" : 0,
+      "oS" : 2,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/css\/ph-nbm-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -19732,7 +19755,7 @@
       "oF" : 0
     },
     "\/old\/2020-homestretch-giveaway-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -19744,7 +19767,7 @@
       "pg" : 0
     },
     "\/old\/2020-homestretch-giveaway.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -19772,7 +19795,7 @@
       "oF" : 0
     },
     "\/old\/2020-rtl-landing-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -19784,7 +19807,7 @@
       "pg" : 0
     },
     "\/old\/2020-rtl-landing.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -19796,7 +19819,7 @@
       "pg" : 0
     },
     "\/old\/2021-disclit-maga-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -19808,7 +19831,7 @@
       "pg" : 0
     },
     "\/old\/2021-disclit-maga.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -19860,7 +19883,7 @@
       "oF" : 0
     },
     "\/old\/backtoclass-phold-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -19911,7 +19934,7 @@
       "oF" : 0
     },
     "\/old\/gatsby-new-years-party-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -19923,7 +19946,7 @@
       "pg" : 0
     },
     "\/old\/gatsby-new-years-party.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -20020,7 +20043,7 @@
       "oF" : 0
     },
     "\/old\/post-darkmode-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -20032,7 +20055,7 @@
       "pg" : 0
     },
     "\/old\/post-darkmode.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -20044,7 +20067,7 @@
       "pg" : 0
     },
     "\/old\/post-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -20056,7 +20079,7 @@
       "pg" : 0
     },
     "\/old\/post.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -20084,7 +20107,7 @@
       "oF" : 0
     },
     "\/old\/special-sales-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -20096,7 +20119,7 @@
       "pg" : 0
     },
     "\/old\/special-sales.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -20124,7 +20147,7 @@
       "oF" : 0
     },
     "\/old\/tam2021-landing-min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -20136,7 +20159,7 @@
       "pg" : 0
     },
     "\/old\/tam2021-landing.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 1,
@@ -21843,7 +21866,7 @@
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
-    "allowInjectionReloads" : 1,
+    "allowInjectionReloads" : 0,
     "alwaysUseExternalServer" : 0,
     "animateCSSInjections" : 1,
     "autoBuildNewItems" : 1,
@@ -23127,7 +23150,7 @@
       "combineImports" : 0,
       "cssoStyle" : 1,
       "purgeCSSStyle" : 0,
-      "shouldRunAutoprefixer" : 0,
+      "shouldRunAutoprefixer" : 1,
       "shouldRunBless" : 0,
       "sourceMapStyle" : 0
     },
