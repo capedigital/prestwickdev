@@ -12,6 +12,14 @@ $color_8:#ff9600;
 /* DESKTOPS */
 @media only screen and (min-width: 1024px){
     .ph-hallowlanding-hero { min-height: 710px !important; }
+    img.ph-giveaway-hero { margin-top: -350px !important; }
+    .ph-h1 { font-weight: 400 !important; font-size: 5rem !important; line-height: 5rem !important; margin-bottom: 15px !important; letter-spacing: -0.08rem !important; }
+    .ph-h2 { font-weight: 400 !important; font-size: 3rem !important; line-height: 3.25rem !important; letter-spacing: 0rem !important; }
+    .ph-h3 { font-weight: 400 !important; font-size: 1.8rem !important; line-height: 2.25rem !important; letter-spacing: -.05rem !important; margin-bottom: 0.5rem !important; }
+    .ph-h4 { font-weight: 400 !important; font-size: 17px !important; letter-spacing: -0.02rem !important; }
+    .ph-xl { font-weight: 400 !important; font-size: calc(100% * 6) !important; }
+    .ph-hallowlanding-spider { background-image: url('https://www.prestwickhouse.com/Image Library/img/landing/contests/spayder.png'); background-position: center -100px !important; background-size: contain; background-repeat: no-repeat;}
+    .ph-trickscontent { margin-top: 250px !important;}
 }
 
 
@@ -52,7 +60,7 @@ html .cog-form__container, :root:root:root:root:root .cog-form__container { bord
     .themebgcolor7 { background-color: $color_7 !important; }
     .themebgcolor8 { background-color: $color_8 !important; }
 
-    .ph-h1 { font-weight: 400 !important; font-size: 5rem !important; line-height: 5rem !important; margin-bottom: 15px !important; letter-spacing: -0.08rem !important; }
+    .ph-h1 { font-weight: 400 !important; font-size: 4rem !important; line-height: 4rem !important; margin-bottom: 15px !important; letter-spacing: -0.08rem !important; }
     .ph-h2 { font-weight: 400 !important; font-size: 3rem !important; line-height: 3.25rem !important; letter-spacing: 0rem !important; }
     .ph-h3 { font-weight: 400 !important; font-size: 1.8rem !important; line-height: 2.25rem !important; letter-spacing: -.05rem !important; margin-bottom: 0.5rem !important; }
     .ph-h4 { font-weight: 400 !important; font-size: 17px !important; letter-spacing: -0.02rem !important; }
@@ -78,3 +86,6 @@ html .cog-form__container, :root:root:root:root:root .cog-form__container { bord
 .ph-hallowlanding-special figure { display: flex; min-height: 245px !important; }
 .ph-hallowlanding-special .ph-desc-block { display: flex; flex-direction: column; min-height: 290px;  }
 .ph-hallowlanding-special .ph-desc-block a { color: #fff; font-weight: 700; justify-self: end; margin-top: auto; width: 165px }
+
+.ph-hallowlanding-spider { background-image: url('https://www.prestwickhouse.com/Image Library/img/landing/contests/spayder.png'); background-position: center top; background-size: contain; background-repeat: no-repeat;}
+.ph-trickscontent { display: flex; flex-direction: column; align-items: center; justify-content: center; margin-top: 85px;}

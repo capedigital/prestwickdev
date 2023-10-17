@@ -17,6 +17,14 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
+    "\/.nova\/Configuration.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/.nova\/Configuration-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
+    },
     "\/blog\/detail.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -513,6 +521,22 @@
       "oAP" : "\/contests\/2023-july-poster-giveaway.html",
       "oF" : 0
     },
+    "\/contests\/2023-read-more-boooooks-halloween-giveaway-thank-you.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2023-read-more-boooooks-halloween-giveaway-thank-you.html",
+      "oF" : 0
+    },
+    "\/contests\/2023-read-more-boooooks-halloween-giveaway-thank-you.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2023-read-more-boooooks-halloween-giveaway-thank-you.html",
+      "oF" : 0
+    },
     "\/contests\/2023-read-more-boooooks-halloween-giveaway.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -922,6 +946,18 @@
       "oS" : 2,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/css\/ph-hallow-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 1,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/css\/ph-hallow-min-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/css\/ph-hallow.scss" : {
       "aP" : 1,
@@ -16908,38 +16944,6 @@
       "oAP" : "\/literature\/keylit\/trial-request.html",
       "oF" : 0
     },
-    "\/literature\/literature-guides\/activity-packs\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/activity-packs\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/activity-packs\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/activity-packs\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/activity-packs\/sample-download\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/activity-packs\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/activity-packs\/sample-download\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/activity-packs\/sample-download\/index.html",
-      "oF" : 0
-    },
     "\/literature\/literature-guides\/complete-teachers-kits\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -21208,6 +21212,38 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/reading\/tree.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/activity-packs\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/activity-packs\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/activity-packs\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/activity-packs\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/activity-packs\/sample-download\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/activity-packs\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/activity-packs\/sample-download\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/activity-packs\/sample-download\/index.html",
       "oF" : 0
     },
     "\/teaching-guides\/ap-literature-teaching-units\/index.html" : {
