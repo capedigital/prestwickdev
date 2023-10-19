@@ -16896,54 +16896,6 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/literature\/keylit\/faq.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/keylit\/faq.html",
-      "oF" : 0
-    },
-    "\/literature\/keylit\/faq.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/keylit\/faq.html",
-      "oF" : 0
-    },
-    "\/literature\/keylit\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/keylit\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/keylit\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/keylit\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/keylit\/trial-request.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/keylit\/trial-request.html",
-      "oF" : 0
-    },
-    "\/literature\/keylit\/trial-request.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/keylit\/trial-request.html",
-      "oF" : 0
-    },
     "\/literature\/tree.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -20028,6 +19980,54 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/old\/tam2021.html",
+      "oF" : 0
+    },
+    "\/online\/keylit\/faq.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/online\/keylit\/faq.html",
+      "oF" : 0
+    },
+    "\/online\/keylit\/faq.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/online\/keylit\/faq.html",
+      "oF" : 0
+    },
+    "\/online\/keylit\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/online\/keylit\/index.html",
+      "oF" : 0
+    },
+    "\/online\/keylit\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/online\/keylit\/index.html",
+      "oF" : 0
+    },
+    "\/online\/keylit\/trial-request.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/online\/keylit\/trial-request.html",
+      "oF" : 0
+    },
+    "\/online\/keylit\/trial-request.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/online\/keylit\/trial-request.html",
       "oF" : 0
     },
     "\/other\/404.html" : {
