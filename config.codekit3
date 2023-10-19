@@ -17008,38 +17008,6 @@
       "oAP" : "\/literature\/literature-guides\/levels-of-understanding\/sample-download\/index.html",
       "oF" : 0
     },
-    "\/literature\/literature-guides\/response-journals\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/response-journals\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/response-journals\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/response-journals\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/response-journals\/sample-download\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/response-journals\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/response-journals\/sample-download\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/response-journals\/sample-download\/index.html",
-      "oF" : 0
-    },
     "\/literature\/tree.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -21324,6 +21292,38 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/teaching-guides\/multiple-critical-perspectives\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/response-journals\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/response-journals\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/response-journals\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/response-journals\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/response-journals\/sample-download\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/response-journals\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/response-journals\/sample-download\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/response-journals\/sample-download\/index.html",
       "oF" : 0
     },
     "\/vocabulary\/growing-your-vocabulary\/index.html" : {
