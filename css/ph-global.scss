@@ -5,10 +5,10 @@
 @font-face {
 font-family: "fontello";
     src: url("/fonts/fontello.woff2");
-    src: local("fontello"), 
-    url("/fonts/fontello.woff") format("woff"), 
-    url("/fonts/fontello.woff2")     format("woff2"), 
-    url("/fonts/fontello.svg")     format("svg"); 
+    src: local("fontello"),
+    url("/fonts/fontello.woff") format("woff"),
+    url("/fonts/fontello.woff2")     format("woff2"),
+    url("/fonts/fontello.svg")     format("svg");
 font-weight: normal; font-style: normal; }
 
 html { scroll-behavior: smooth; }
@@ -19,10 +19,10 @@ div.loading img { display: none; }
 div.logoMain a img { width: 100%; height: 100%;}
 div.mobileDrawerToggle.drawerToggle { height: 45px; }
 .headerMain-mainZone03 { height: 75px; }
-.homepage div#content.clearfix { min-height: 1298px;} 
+.homepage div#content.clearfix { min-height: 1298px;}
 
 .callout.blog-feed { min-height: 345px; margin-bottom: 0px!important; display: flex; }
- 
+
 /*PRODUCT IMAGE SIZE FIX */
 #ctl01_imgDefaultProductImage { height: 50%; width: 50% !important; display: flex; margin: 0 auto; }
 
@@ -125,7 +125,7 @@ span.cartItem-price, .cartItem-price div, .cartItem-price b, .cartItem-price str
 .ph-scrollmargin-50 { scroll-margin-top: 50px; }
 .ph-scrollmargin-75 { scroll-margin-top: 60px; }
 .ph-scrollmargin-100 { scroll-margin-top: 100px; }
- 
+
 /*CUSTOM BUTTON AND FONT STYLES*/
 .button { font-weight: bold !important; }
 
@@ -163,7 +163,7 @@ span.cartItem-price, .cartItem-price div, .cartItem-price b, .cartItem-price str
   &-blur { filter: blur(4px); }
   &-disabled { cursor: not-allowed; pointer-events: none; text-decoration: none; }
   &-bodycopy { font: normal normal 400 16px/1.5 "open sans", sans-serif; }
-  
+
   &-rainbowtext-1 { font-feature-settings: 'ss11' on, 'ss01' on, 'cv10' on, 'calt' off, 'liga' off;
     background: linear-gradient(360deg, rgba(255, 255, 255, 0.8) -7.95%, rgba(255, 255, 255, 0.608) 8.42%, rgba(255, 255, 255, 0.288) 36.7%, rgba(255, 255, 255, 0.08) 56.8%, rgba(255, 255, 255, 0) 66.48%), linear-gradient(81.31deg, #8636F8 2.26%, #F020B3 34.84%, #F8475E 67.42%, #FF9421 100%);
     -webkit-background-clip: text;
@@ -171,7 +171,7 @@ span.cartItem-price, .cartItem-price div, .cartItem-price b, .cartItem-price str
     background-clip: text;
     text-fill-color: transparent;
   }
-  
+
   &-rainbowtext-2 { font-feature-settings: 'ss11' on, 'ss01' on, 'cv10' on, 'calt' off, 'liga' off;
     background: linear-gradient(360deg, rgba(255, 255, 255, 0.32) -7.95%, rgba(255, 255, 255, 0.2432) 10.85%, rgba(255, 255, 255, 0.1152) 43.32%, rgba(255, 255, 255, 0.032) 66.39%, rgba(255, 255, 255, 0) 77.5%), linear-gradient(90deg, #FFB800 0%, #F8367C 100%);
     -webkit-background-clip: text;
@@ -276,14 +276,14 @@ a[aria-disabled="true"] { display: inline-block;  /* For IE11/ MS Edge bug */ po
   ul li { margin-bottom: .5rem }
   h2 { font-size: 28px; line-height: 34px; font-weight: 400!important; color: #464646; text-align: left !important; letter-spacing: -.02em!important; }
   h3 { font-family: 'open sans'; font-weight: 700; font-size: 22px; line-height: 30px; color: #464646; text-shadow: none; margin: 10px 0px 10px 0px; letter-spacing: -.03em;}
-  
+
   .ph-card { background-image: none !important; background-color: #ecedf2; border: 1px solid #e6e6e6; box-shadow: none; }
   .ph-libpacks-card {
     p { font-size: 1.1rem; }
     .ph-caption { padding: none; margin: none; }
     .ph-saleprice { font-weight: bold; color: #1c950a;}
   }
-  
+
   .ph-button { color: #FFFFFF; text-align: center; background: #e5a829; border-color: transparent; padding: 15px 20px; font-weight: bold;
       &.fourth-sixth { background: #55472B !important; border-color: #E5E5E5; }
       &.seventh-eighth { background: #DEA244 !important; border-color: #E5E5E5; }
@@ -328,11 +328,11 @@ a[aria-disabled="true"] { display: inline-block;  /* For IE11/ MS Edge bug */ po
     .ph-accordion-section.ph-expanded .ph-accordion-label::after { content: ""; display: none }
     .ph-accordion-section.ph-expanded .ph-accordion-label::before { content: ""; background-image: url(https://www.prestwickhouse.com/Image\ Library/img/svg/minus-round-icon.svg); background-size: 30px 30px; background-repeat: no-repeat }
   }
-/* A bit of customization here for the keylit FAQ accordions -also up top in the media query for desktops */ 
+/* A bit of customization here for the keylit FAQ accordions -also up top in the media query for desktops */
   .ph-keylit-faq .ph-accordion {
     .ph-accordion-label { font-size: 20px !important; cursor: pointer; }
-    .ph-accordion-content { max-height: 0; transition:max-height 0.5s cubic-bezier(0,1,0,1); } 
-    .ph-accordion-content p:last-child { margin-bottom: 0px; }   
+    .ph-accordion-content { max-height: 0; transition:max-height 0.5s cubic-bezier(0,1,0,1); }
+    .ph-accordion-content p:last-child { margin-bottom: 0px; }
   }
 
 
@@ -359,14 +359,14 @@ a[aria-disabled="true"] { display: inline-block;  /* For IE11/ MS Edge bug */ po
 
 .ph-secthead-one,
 .ph-secthead-two,
-.ph-secthead-three, 
+.ph-secthead-three,
 .ph-secthead-four,
 .ph-secthead-five,
 .ph-secthead-six { border-radius: 5px; padding: 15px !important; }
 
 .ph-secthead-one p.ph-h1,
 .ph-secthead-two p.ph-h1,
-.ph-secthead-three p.ph-h1, 
+.ph-secthead-three p.ph-h1,
 .ph-secthead-four p.ph-h1,
 .ph-secthead-five p.ph-h1,
 .ph-secthead-six p.ph-h1 { padding-bottom: 0px !important; margin-bottom: 0px !important; color: #FFFFFF;}
@@ -428,11 +428,11 @@ a[aria-disabled="true"] { display: inline-block;  /* For IE11/ MS Edge bug */ po
   .ph-iconblock figure i { display: flex; justify-content: center; align-content: center; font-size: 40px; color: #FFFFFF; }
 }
 
-.ph-remotelearning { 
+.ph-remotelearning {
     .ph-iconcols:nth-of-type(4) figure{ background-color: #6DBFB0; }
     .ph-iconcols:nth-of-type(6) figure{ background-color: #48A493; }
     .ph-iconcols:nth-of-type(8) figure{ background-color: #34786B; }
-    .ph-iconcols:nth-of-type(10) figure{ background-color: #214B43; } 
+    .ph-iconcols:nth-of-type(10) figure{ background-color: #214B43; }
 }
 
 /*ANCHORS OFFSET*/
@@ -902,7 +902,7 @@ body.special-sales div#content { background-color: #EFEFEF; }
 #dateHid {
    display:none;
 }
- 
+
 //HIDE NORTON AND CHAT IN QUOTE EMAIL MODAL
 .email-quote iframe#launcher {display: none !important;}
 .email-quote #_GUARANTEE_SealSpan {display: none !important;}
@@ -910,7 +910,17 @@ body.special-sales div#content { background-color: #EFEFEF; }
 // COGNITO POPUP CUSTOMIZATIONS
 #sample-popup.popup { max-width: 375px !important; min-height: 550px; padding-top: 20px; background: #FFFFFF !important; border-radius: 7px !important; }
 
-//MAIN MENU CUSTOMIZATIONS 
+//MAIN MENU CUSTOMIZATIONS
+.navMain>ul>li:hover>span,
+.navMain>ul>li:hover>a {
+  background: rgba(25, 25, 25, .9) !important;
+  background-color: rgba(25, 25, 25, .9) !important;
+}
+
+.navMain>ul>li:hover>a:after {
+  display: none;
+}
+
 .navMain>ul>li>ul {
   background: rgba(25, 25, 25, .9) !important;
   background-color: rgba(25, 25, 25, .9) !important;
@@ -918,7 +928,7 @@ body.special-sales div#content { background-color: #EFEFEF; }
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
   box-shadow: 0 8px 12px 0 rgba(0, 0, 0, .2);
-  min-width: 208px !important; 
+  min-width: 208px !important;
 }
 
 .navMain>ul>li>ul a {
