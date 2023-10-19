@@ -16976,38 +16976,6 @@
       "oAP" : "\/literature\/literature-guides\/instant-short-story-packs\/sample-download\/index.html",
       "oF" : 0
     },
-    "\/literature\/literature-guides\/levels-of-understanding\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/levels-of-understanding\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/levels-of-understanding\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/levels-of-understanding\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/levels-of-understanding\/sample-download\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/levels-of-understanding\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/levels-of-understanding\/sample-download\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/levels-of-understanding\/sample-download\/index.html",
-      "oF" : 0
-    },
     "\/literature\/tree.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -21230,6 +21198,38 @@
       "oAP" : "\/teaching-guides\/index.html",
       "oF" : 0
     },
+    "\/teaching-guides\/levels-of-understanding\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/levels-of-understanding\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/levels-of-understanding\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/levels-of-understanding\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/levels-of-understanding\/sample-download\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/levels-of-understanding\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/levels-of-understanding\/sample-download\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/levels-of-understanding\/sample-download\/index.html",
+      "oF" : 0
+    },
     "\/teaching-guides\/literature-teaching-units\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -21262,36 +21262,36 @@
       "oAP" : "\/teaching-guides\/literature-teaching-units\/sample-download\/index.html",
       "oF" : 0
     },
-    "\/teaching-guides\/multiple-critical-perspectives\/index.html" : {
+    "\/teaching-guides\/multiple-critical-perspectives-guides\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/teaching-guides\/multiple-critical-perspectives\/index.html",
+      "oAP" : "\/teaching-guides\/multiple-critical-perspectives-guides\/index.html",
       "oF" : 0
     },
-    "\/teaching-guides\/multiple-critical-perspectives\/index.kit" : {
+    "\/teaching-guides\/multiple-critical-perspectives-guides\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/teaching-guides\/multiple-critical-perspectives\/index.html",
+      "oAP" : "\/teaching-guides\/multiple-critical-perspectives-guides\/index.html",
       "oF" : 0
     },
-    "\/teaching-guides\/multiple-critical-perspectives\/sample-download\/index.html" : {
+    "\/teaching-guides\/multiple-critical-perspectives-guides\/sample-download\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/teaching-guides\/multiple-critical-perspectives\/sample-download\/index.html",
+      "oAP" : "\/teaching-guides\/multiple-critical-perspectives-guides\/sample-download\/index.html",
       "oF" : 0
     },
-    "\/teaching-guides\/multiple-critical-perspectives\/sample-download\/index.kit" : {
+    "\/teaching-guides\/multiple-critical-perspectives-guides\/sample-download\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/teaching-guides\/multiple-critical-perspectives\/sample-download\/index.html",
+      "oAP" : "\/teaching-guides\/multiple-critical-perspectives-guides\/sample-download\/index.html",
       "oF" : 0
     },
     "\/teaching-guides\/response-journals\/index.html" : {
