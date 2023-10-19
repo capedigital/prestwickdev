@@ -917,23 +917,40 @@ body.special-sales div#content { background-color: #EFEFEF; }
 navMain>ul>li>a {
   padding: 10px 15px;
 }
-.navMain>ul>li:hover>span,
-.navMain>ul>li:hover>a {
-  color: #0e7a52;
-  background: rgba(25, 25, 25, .9) !important;
-  background-color: rgba(25, 25, 25, .9) !important;
+.navMain>ul>li:hover {
+  background: rgba(25, 25, 25, .95) !important;
+  background-color: rgba(25, 25, 25, .95) !important;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
 }
+.navMain>ul>li:hover>span,
+.navMain>ul>li:hover>a {
+  color: #0e7a52;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  background-image: linear-gradient(0deg, #0e7a52 37%, #75ff00 55%, #0f3d06 100%);
+
+}
+.navMain>ul>li.hasChildren>a:after {
+ margin-right: 10px;
+}
 .navMain>ul>li:hover.hasChildren>a:after {
   //display: none;
-  content: " " !important;
+ display: inline-block;
+ width: 0;
+ height: 0;
+ margin-left: 3.75px;
+ content: '\e823';
+ font-family: "fontello";
+ margin-right: 10px;
 }
 
 
 .navMain>ul>li>ul {
-  background: rgba(25, 25, 25, .9) !important;
-  background-color: rgba(25, 25, 25, .9) !important;
+  background: rgba(25, 25, 25, .95) !important;
+  background-color: rgba(25, 25, 25, .95) !important;
   padding: 0px !important;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
@@ -957,6 +974,7 @@ navMain>ul>li>a {
   text-decoration: none !important;
   background: #444444 !important;
   border-right: 5px solid #008E5E;
+
 }
 
 .navMain ul>li>ul>li {
