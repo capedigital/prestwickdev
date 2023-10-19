@@ -16944,38 +16944,6 @@
       "oAP" : "\/literature\/keylit\/trial-request.html",
       "oF" : 0
     },
-    "\/literature\/literature-guides\/complete-teachers-kits\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/complete-teachers-kits\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/complete-teachers-kits\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/complete-teachers-kits\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/complete-teachers-kits\/sample-download\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/complete-teachers-kits\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/complete-teachers-kits\/sample-download\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/complete-teachers-kits\/sample-download\/index.html",
-      "oF" : 0
-    },
     "\/literature\/literature-guides\/instant-short-story-packs\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -17038,38 +17006,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/literature\/literature-guides\/levels-of-understanding\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/multiple-critical-perspectives\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/multiple-critical-perspectives\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/multiple-critical-perspectives\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/multiple-critical-perspectives\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/multiple-critical-perspectives\/sample-download\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/multiple-critical-perspectives\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/multiple-critical-perspectives\/sample-download\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/multiple-critical-perspectives\/sample-download\/index.html",
       "oF" : 0
     },
     "\/literature\/literature-guides\/response-journals\/index.html" : {
@@ -21278,6 +21214,38 @@
       "oAP" : "\/teaching-guides\/ap-literature-teaching-units\/sample-download\/index.html",
       "oF" : 0
     },
+    "\/teaching-guides\/complete-teachers-kits\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/complete-teachers-kits\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/complete-teachers-kits\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/complete-teachers-kits\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/complete-teachers-kits\/sample-download\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/complete-teachers-kits\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/complete-teachers-kits\/sample-download\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/complete-teachers-kits\/sample-download\/index.html",
+      "oF" : 0
+    },
     "\/teaching-guides\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -21324,6 +21292,38 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/teaching-guides\/literature-teaching-units\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/multiple-critical-perspectives\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/multiple-critical-perspectives\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/multiple-critical-perspectives\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/multiple-critical-perspectives\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/multiple-critical-perspectives\/sample-download\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/multiple-critical-perspectives\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/multiple-critical-perspectives\/sample-download\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/multiple-critical-perspectives\/sample-download\/index.html",
       "oF" : 0
     },
     "\/vocabulary\/growing-your-vocabulary\/index.html" : {
