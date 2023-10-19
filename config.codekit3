@@ -16944,38 +16944,6 @@
       "oAP" : "\/literature\/keylit\/trial-request.html",
       "oF" : 0
     },
-    "\/literature\/literature-guides\/instant-short-story-packs\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/instant-short-story-packs\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/instant-short-story-packs\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/instant-short-story-packs\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/instant-short-story-packs\/sample-download\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/instant-short-story-packs\/sample-download\/index.html",
-      "oF" : 0
-    },
-    "\/literature\/literature-guides\/instant-short-story-packs\/sample-download\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/literature\/literature-guides\/instant-short-story-packs\/sample-download\/index.html",
-      "oF" : 0
-    },
     "\/literature\/tree.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -21196,6 +21164,38 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/teaching-guides\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/instant-short-story-packs\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/instant-short-story-packs\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/instant-short-story-packs\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/instant-short-story-packs\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/instant-short-story-packs\/sample-download\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/instant-short-story-packs\/sample-download\/index.html",
+      "oF" : 0
+    },
+    "\/teaching-guides\/instant-short-story-packs\/sample-download\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/teaching-guides\/instant-short-story-packs\/sample-download\/index.html",
       "oF" : 0
     },
     "\/teaching-guides\/levels-of-understanding\/index.html" : {
