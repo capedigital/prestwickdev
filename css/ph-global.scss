@@ -925,11 +925,11 @@ navMain>ul>li>a {
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
 }
-
-.navMain>ul>li:hover>a:after {
+.navMain>ul>li:hover.hasChildren>a:after {
   //display: none;
-  content: " ";
+  content: " " !important;
 }
+
 
 .navMain>ul>li>ul {
   background: rgba(25, 25, 25, .9) !important;
