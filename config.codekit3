@@ -1058,6 +1058,2494 @@
       "oAP" : "\/footer.html",
       "oF" : 0
     },
+    "\/free-library\/crossword-puzzles\/1984-free-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/1984-free-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/1984-free-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/1984-free-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-christmas-carol-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-christmas-carol-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-christmas-carol-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-christmas-carol-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-dolls-house-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-dolls-house-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-dolls-house-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-dolls-house-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-long-way-gone-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-long-way-gone-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-long-way-gone-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-long-way-gone-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-midsummer-nights-dream-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-midsummer-nights-dream-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-midsummer-nights-dream-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-midsummer-nights-dream-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-raisin-in-the-sun-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-raisin-in-the-sun-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-raisin-in-the-sun-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-raisin-in-the-sun-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-separate-peace-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-separate-peace-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-separate-peace-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-separate-peace-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-tale-of-two-cities-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-tale-of-two-cities-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/a-tale-of-two-cities-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/a-tale-of-two-cities-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/absolutely-true-diary-of-a-part-time-indian-crossword.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/absolutely-true-diary-of-a-part-time-indian-crossword.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/absolutely-true-diary-of-a-part-time-indian-crossword.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/absolutely-true-diary-of-a-part-time-indian-crossword.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/adventures-of-huckleberry-finn-crossword.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/adventures-of-huckleberry-finn-crossword.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/adventures-of-huckleberry-finn-crossword.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/adventures-of-huckleberry-finn-crossword.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/animal-farm-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/animal-farm-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/animal-farm-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/animal-farm-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/antigone-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/antigone-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/antigone-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/antigone-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/beowulf-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/beowulf-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/beowulf-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/beowulf-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/brave-new-world-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/brave-new-world-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/brave-new-world-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/brave-new-world-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/death-of-a-salesman-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/death-of-a-salesman-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/death-of-a-salesman-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/death-of-a-salesman-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/divergent-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/divergent-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/divergent-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/divergent-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/dr-jekyll-mr-hyde-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/dr-jekyll-mr-hyde-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/dr-jekyll-mr-hyde-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/dr-jekyll-mr-hyde-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/edith-hamiltons-mythology-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/edith-hamiltons-mythology-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/edith-hamiltons-mythology-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/edith-hamiltons-mythology-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/fahrenheit-451-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/fahrenheit-451-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/fahrenheit-451-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/fahrenheit-451-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/frankenstein-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/frankenstein-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/frankenstein-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/frankenstein-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/freak-the-mighty-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/freak-the-mighty-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/freak-the-mighty-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/freak-the-mighty-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/great-expectations-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/great-expectations-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/great-expectations-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/great-expectations-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/hamlet-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/hamlet-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/hamlet-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/hamlet-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/heart-of-darkness-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/heart-of-darkness-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/heart-of-darkness-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/heart-of-darkness-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/i-am-malala-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/i-am-malala-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/i-am-malala-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/i-am-malala-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/in-cold-blood-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/in-cold-blood-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/in-cold-blood-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/in-cold-blood-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/into-the-wild-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/into-the-wild-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/into-the-wild-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/into-the-wild-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/invisible-man-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/invisible-man-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/invisible-man-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/invisible-man-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/julius-caesar-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/julius-caesar-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/julius-caesar-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/julius-caesar-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/life-of-pi-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/life-of-pi-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/life-of-pi-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/life-of-pi-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/lord-of-the-flies-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/lord-of-the-flies-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/lord-of-the-flies-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/lord-of-the-flies-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/macbeth-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/macbeth-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/macbeth-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/macbeth-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/me-before-you-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/me-before-you-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/me-before-you-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/me-before-you-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/narrative-of-the-life-of-frederick-douglass-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/narrative-of-the-life-of-frederick-douglass-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/narrative-of-the-life-of-frederick-douglass-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/narrative-of-the-life-of-frederick-douglass-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/night-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/night-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/night-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/night-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/oedipus-rex-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/oedipus-rex-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/oedipus-rex-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/oedipus-rex-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/of-mice-and-men-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/of-mice-and-men-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/of-mice-and-men-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/of-mice-and-men-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/othello-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/othello-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/othello-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/othello-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/our-town-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/our-town-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/our-town-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/our-town-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/pygmalion-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/pygmalion-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/pygmalion-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/pygmalion-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/romeo-and-juliet-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/romeo-and-juliet-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/romeo-and-juliet-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/romeo-and-juliet-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/speak-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/speak-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/speak-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/speak-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-adventures-of-tom-sawyer-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-adventures-of-tom-sawyer-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-adventures-of-tom-sawyer-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-adventures-of-tom-sawyer-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-alchemist-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-alchemist-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-alchemist-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-alchemist-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-awakening-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-awakening-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-awakening-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-awakening-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-best-of-poe-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-best-of-poe-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-best-of-poe-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-best-of-poe-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-book-thief-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-book-thief-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-book-thief-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-book-thief-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-catcher-in-the-rye-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-catcher-in-the-rye-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-catcher-in-the-rye-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-catcher-in-the-rye-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-crucible-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-crucible-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-crucible-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-crucible-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-giver-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-giver-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-giver-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-giver-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-glass-castle-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-glass-castle-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-glass-castle-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-glass-castle-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-great-gatsby-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-great-gatsby-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-great-gatsby-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-great-gatsby-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-hate-u-give-free-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-hate-u-give-free-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-hate-u-give-free-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-hate-u-give-free-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-help-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-help-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-help-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-help-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-house-on-mango-street-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-house-on-mango-street-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-house-on-mango-street-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-house-on-mango-street-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-importance-of-being-earnest-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-importance-of-being-earnest-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-importance-of-being-earnest-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-importance-of-being-earnest-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-joy-luck-club-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-joy-luck-club-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-joy-luck-club-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-joy-luck-club-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-kite-runner-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-kite-runner-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-kite-runner-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-kite-runner-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-metamorphosis-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-metamorphosis-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-metamorphosis-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-metamorphosis-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-odyssey-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-odyssey-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-odyssey-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-odyssey-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-orphan-train-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-orphan-train-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-orphan-train-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-orphan-train-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-outsiders-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-outsiders-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-outsiders-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-outsiders-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-scarlet-letter-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-scarlet-letter-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-scarlet-letter-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-scarlet-letter-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-things-they-carried-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-things-they-carried-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/the-things-they-carried-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/the-things-they-carried-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/their-eyes-were-watching-god-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/their-eyes-were-watching-god-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/their-eyes-were-watching-god-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/their-eyes-were-watching-god-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/things-fall-apart-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/things-fall-apart-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/things-fall-apart-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/things-fall-apart-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/to-kill-a-mockingbird-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/to-kill-a-mockingbird-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/to-kill-a-mockingbird-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/to-kill-a-mockingbird-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/tuesdays-with-morrie-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/tuesdays-with-morrie-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/tuesdays-with-morrie-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/tuesdays-with-morrie-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/twelve-angry-men-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/twelve-angry-men-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/twelve-angry-men-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/twelve-angry-men-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/wonderstruck-crossword-puzzle.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/wonderstruck-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/crossword-puzzles\/wonderstruck-crossword-puzzle.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/crossword-puzzles\/wonderstruck-crossword-puzzle.html",
+      "oF" : 0
+    },
+    "\/free-library\/ebooks\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/ebooks\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/ebooks\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/ebooks\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/ebooks\/teaching-literature-guidebook-ebook.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/ebooks\/teaching-literature-guidebook-ebook.html",
+      "oF" : 0
+    },
+    "\/free-library\/ebooks\/teaching-literature-guidebook-ebook.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/ebooks\/teaching-literature-guidebook-ebook.html",
+      "oF" : 0
+    },
+    "\/free-library\/fl-menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/fl-menu.html",
+      "oF" : 0
+    },
+    "\/free-library\/how-to-teach-guides\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/how-to-teach-guides\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/how-to-teach-guides\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/how-to-teach-guides\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/how-to-teach-guides\/the-great-gatsby-how-to-teach.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/how-to-teach-guides\/the-great-gatsby-how-to-teach.html",
+      "oF" : 0
+    },
+    "\/free-library\/how-to-teach-guides\/the-great-gatsby-how-to-teach.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/how-to-teach-guides\/the-great-gatsby-how-to-teach.html",
+      "oF" : 0
+    },
+    "\/free-library\/index-optin.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/index-optin.html",
+      "oF" : 0
+    },
+    "\/free-library\/index-optin.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/index-optin.html",
+      "oF" : 0
+    },
+    "\/free-library\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/lesson-plans\/free-english-language-arts-diagnostic-assessment.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/lesson-plans\/free-english-language-arts-diagnostic-assessment.html",
+      "oF" : 0
+    },
+    "\/free-library\/lesson-plans\/free-english-language-arts-diagnostic-assessment.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/lesson-plans\/free-english-language-arts-diagnostic-assessment.html",
+      "oF" : 0
+    },
+    "\/free-library\/lesson-plans\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/lesson-plans\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/lesson-plans\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/lesson-plans\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/lesson-plans\/of-mice-and-men-free-character-map.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/lesson-plans\/of-mice-and-men-free-character-map.html",
+      "oF" : 0
+    },
+    "\/free-library\/lesson-plans\/of-mice-and-men-free-character-map.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/lesson-plans\/of-mice-and-men-free-character-map.html",
+      "oF" : 0
+    },
+    "\/free-library\/lesson-plans\/the-poetry-of-bob-dylan-lesson-plan.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/lesson-plans\/the-poetry-of-bob-dylan-lesson-plan.html",
+      "oF" : 0
+    },
+    "\/free-library\/lesson-plans\/the-poetry-of-bob-dylan-lesson-plan.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/lesson-plans\/the-poetry-of-bob-dylan-lesson-plan.html",
+      "oF" : 0
+    },
+    "\/free-library\/other-resources\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/other-resources\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/other-resources\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/other-resources\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/other-resources\/vocabulary-power-plus-online-overview-webinar.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/other-resources\/vocabulary-power-plus-online-overview-webinar.html",
+      "oF" : 0
+    },
+    "\/free-library\/other-resources\/vocabulary-power-plus-online-overview-webinar.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/other-resources\/vocabulary-power-plus-online-overview-webinar.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/31-days-of-classic-literary-horror-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/31-days-of-classic-literary-horror-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/31-days-of-classic-literary-horror-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/31-days-of-classic-literary-horror-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/african-american-timeline-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/african-american-timeline-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/african-american-timeline-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/african-american-timeline-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/annabel-lee-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/annabel-lee-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/annabel-lee-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/annabel-lee-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/artist-poem-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/artist-poem-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/artist-poem-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/artist-poem-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-albert-camus-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-albert-camus-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-albert-camus-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-albert-camus-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-alice-walker-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-alice-walker-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-alice-walker-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-alice-walker-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-bronte-sisters-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-bronte-sisters-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-bronte-sisters-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-bronte-sisters-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-edgar-allan-poe-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-edgar-allan-poe-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-edgar-allan-poe-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-edgar-allan-poe-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-elie-wiesel-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-elie-wiesel-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-elie-wiesel-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-elie-wiesel-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-ernest-hemingway-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-ernest-hemingway-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-ernest-hemingway-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-ernest-hemingway-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-frederick-douglass-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-frederick-douglass-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-frederick-douglass-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-frederick-douglass-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-harper-lee-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-harper-lee-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-harper-lee-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-harper-lee-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-hg-wells-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-hg-wells-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-hg-wells-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-hg-wells-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-john-steinbeck-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-john-steinbeck-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-john-steinbeck-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-john-steinbeck-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-mary-shelley-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-mary-shelley-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-mary-shelley-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-mary-shelley-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-octavia-butler-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-octavia-butler-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-octavia-butler-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-octavia-butler-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-ralph-ellison-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-ralph-ellison-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-ralph-ellison-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-ralph-ellison-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-ralph-waldo-emerson-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-ralph-waldo-emerson-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-ralph-waldo-emerson-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-ralph-waldo-emerson-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-thoreau-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-thoreau-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-thoreau-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-thoreau-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-toni-morrison-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-toni-morrison-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-toni-morrison-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-toni-morrison-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-web-du-bois-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-web-du-bois-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-web-du-bois-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-web-du-bois-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-willa-cather-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-willa-cather-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-willa-cather-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-willa-cather-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-william-golding-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-william-golding-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-william-golding-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-william-golding-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-zora-neale-hurston-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-zora-neale-hurston-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/authorspeak-zora-neale-hurston-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/authorspeak-zora-neale-hurston-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/because-i-could-not-stop-death-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/because-i-could-not-stop-death-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/because-i-could-not-stop-death-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/because-i-could-not-stop-death-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/cask-of-amontillado-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/cask-of-amontillado-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/cask-of-amontillado-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/cask-of-amontillado-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/christmas-carol-ghosts-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/christmas-carol-ghosts-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/christmas-carol-ghosts-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/christmas-carol-ghosts-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/close-encounters-with-vocabulary-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/close-encounters-with-vocabulary-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/close-encounters-with-vocabulary-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/close-encounters-with-vocabulary-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/common-prefixes-and-suffixes-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/common-prefixes-and-suffixes-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/common-prefixes-and-suffixes-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/common-prefixes-and-suffixes-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/dark-side-dracula-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/dark-side-dracula-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/dark-side-dracula-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/dark-side-dracula-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/dark-side-jekyll-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/dark-side-jekyll-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/dark-side-jekyll-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/dark-side-jekyll-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/dark-side-raven-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/dark-side-raven-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/dark-side-raven-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/dark-side-raven-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/discovering-poetry-walt-whitman-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/discovering-poetry-walt-whitman-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/discovering-poetry-walt-whitman-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/discovering-poetry-walt-whitman-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/dover-beach-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/dover-beach-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/dover-beach-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/dover-beach-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-charlotte-bronte-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-charlotte-bronte-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-charlotte-bronte-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-charlotte-bronte-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-frederick-douglass-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-frederick-douglass-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-frederick-douglass-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-frederick-douglass-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-from-literature-ernest-hemingway-free-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-from-literature-ernest-hemingway-free-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-from-literature-ernest-hemingway-free-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-from-literature-ernest-hemingway-free-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-from-literature-mary-shelley-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-from-literature-mary-shelley-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-from-literature-mary-shelley-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-from-literature-mary-shelley-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-gatsby-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-gatsby-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-gatsby-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-gatsby-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-hg-wells-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-hg-wells-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-hg-wells-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-hg-wells-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-plague-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-plague-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-plague-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-plague-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-sojourner-truth-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-sojourner-truth-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-sojourner-truth-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-sojourner-truth-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-wilde-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-wilde-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/echoes-wilde-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/echoes-wilde-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/fearless-women-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/fearless-women-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/fearless-women-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/fearless-women-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/feminist-theory-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/feminist-theory-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/feminist-theory-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/feminist-theory-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/ffl-metamorphosis-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/ffl-metamorphosis-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/ffl-metamorphosis-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/ffl-metamorphosis-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/fire-ice-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/fire-ice-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/fire-ice-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/fire-ice-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/fog-sandburg-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/fog-sandburg-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/fog-sandburg-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/fog-sandburg-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/gatsby-promo-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/gatsby-promo-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/gatsby-promo-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/gatsby-promo-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/honoring-edgar-allen-poe-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/honoring-edgar-allen-poe-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/honoring-edgar-allen-poe-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/honoring-edgar-allen-poe-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/in-the-desert-crane-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/in-the-desert-crane-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/in-the-desert-crane-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/in-the-desert-crane-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/index.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/lamb-poem-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/lamb-poem-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/lamb-poem-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/lamb-poem-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/language-politicians-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/language-politicians-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/language-politicians-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/language-politicians-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/laws-justice-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/laws-justice-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/laws-justice-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/laws-justice-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/mcp-gatsby-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/mcp-gatsby-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/mcp-gatsby-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/mcp-gatsby-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/mcp-lord-of-flies-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/mcp-lord-of-flies-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/mcp-lord-of-flies-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/mcp-lord-of-flies-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/oread-hd-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/oread-hd-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/oread-hd-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/oread-hd-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/poster-template.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/poster-template.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/poster-template.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/poster-template.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/power-trip-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/power-trip-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/power-trip-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/power-trip-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/raven-poe-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/raven-poe-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/raven-poe-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/raven-poe-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/road-not-taken-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/road-not-taken-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/road-not-taken-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/road-not-taken-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/shakespeare-sonnet-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/shakespeare-sonnet-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/shakespeare-sonnet-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/shakespeare-sonnet-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/shakespeare-star-wars-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/shakespeare-star-wars-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/shakespeare-star-wars-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/shakespeare-star-wars-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/should-wide-world-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/should-wide-world-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/should-wide-world-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/should-wide-world-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/sound-off-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/sound-off-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/sound-off-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/sound-off-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/spring-offensive-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/spring-offensive-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/spring-offensive-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/spring-offensive-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/tam-2020-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/tam-2020-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/tam-2020-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/tam-2020-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/tell-tale-heart-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/tell-tale-heart-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/tell-tale-heart-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/tell-tale-heart-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/top-10-greek-roots-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/top-10-greek-roots-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/top-10-greek-roots-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/top-10-greek-roots-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/top-10-latin-roots-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/top-10-latin-roots-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/top-10-latin-roots-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/top-10-latin-roots-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/tyger-poem-poster.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/tyger-poem-poster.html",
+      "oF" : 0
+    },
+    "\/free-library\/posters\/tyger-poem-poster.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/posters\/tyger-poem-poster.html",
+      "oF" : 0
+    },
     "\/grammar-writing\/3-simple-truths\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -16910,2494 +19398,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/literature\/tree.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/1984-free-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/1984-free-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/1984-free-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/1984-free-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-christmas-carol-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-christmas-carol-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-christmas-carol-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-christmas-carol-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-dolls-house-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-dolls-house-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-dolls-house-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-dolls-house-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-long-way-gone-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-long-way-gone-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-long-way-gone-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-long-way-gone-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-midsummer-nights-dream-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-midsummer-nights-dream-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-midsummer-nights-dream-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-midsummer-nights-dream-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-raisin-in-the-sun-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-raisin-in-the-sun-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-raisin-in-the-sun-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-raisin-in-the-sun-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-separate-peace-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-separate-peace-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-separate-peace-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-separate-peace-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-tale-of-two-cities-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-tale-of-two-cities-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/a-tale-of-two-cities-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/a-tale-of-two-cities-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/absolutely-true-diary-of-a-part-time-indian-crossword.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/absolutely-true-diary-of-a-part-time-indian-crossword.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/absolutely-true-diary-of-a-part-time-indian-crossword.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/absolutely-true-diary-of-a-part-time-indian-crossword.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/adventures-of-huckleberry-finn-crossword.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/adventures-of-huckleberry-finn-crossword.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/adventures-of-huckleberry-finn-crossword.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/adventures-of-huckleberry-finn-crossword.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/animal-farm-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/animal-farm-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/animal-farm-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/animal-farm-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/antigone-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/antigone-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/antigone-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/antigone-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/beowulf-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/beowulf-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/beowulf-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/beowulf-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/brave-new-world-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/brave-new-world-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/brave-new-world-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/brave-new-world-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/death-of-a-salesman-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/death-of-a-salesman-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/death-of-a-salesman-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/death-of-a-salesman-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/divergent-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/divergent-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/divergent-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/divergent-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/dr-jekyll-mr-hyde-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/dr-jekyll-mr-hyde-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/dr-jekyll-mr-hyde-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/dr-jekyll-mr-hyde-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/edith-hamiltons-mythology-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/edith-hamiltons-mythology-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/edith-hamiltons-mythology-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/edith-hamiltons-mythology-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/fahrenheit-451-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/fahrenheit-451-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/fahrenheit-451-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/fahrenheit-451-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/frankenstein-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/frankenstein-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/frankenstein-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/frankenstein-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/freak-the-mighty-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/freak-the-mighty-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/freak-the-mighty-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/freak-the-mighty-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/great-expectations-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/great-expectations-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/great-expectations-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/great-expectations-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/hamlet-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/hamlet-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/hamlet-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/hamlet-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/heart-of-darkness-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/heart-of-darkness-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/heart-of-darkness-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/heart-of-darkness-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/i-am-malala-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/i-am-malala-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/i-am-malala-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/i-am-malala-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/in-cold-blood-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/in-cold-blood-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/in-cold-blood-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/in-cold-blood-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/into-the-wild-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/into-the-wild-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/into-the-wild-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/into-the-wild-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/invisible-man-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/invisible-man-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/invisible-man-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/invisible-man-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/julius-caesar-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/julius-caesar-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/julius-caesar-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/julius-caesar-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/life-of-pi-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/life-of-pi-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/life-of-pi-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/life-of-pi-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/lord-of-the-flies-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/lord-of-the-flies-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/lord-of-the-flies-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/lord-of-the-flies-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/macbeth-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/macbeth-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/macbeth-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/macbeth-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/me-before-you-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/me-before-you-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/me-before-you-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/me-before-you-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/narrative-of-the-life-of-frederick-douglass-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/narrative-of-the-life-of-frederick-douglass-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/narrative-of-the-life-of-frederick-douglass-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/narrative-of-the-life-of-frederick-douglass-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/night-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/night-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/night-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/night-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/oedipus-rex-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/oedipus-rex-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/oedipus-rex-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/oedipus-rex-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/of-mice-and-men-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/of-mice-and-men-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/of-mice-and-men-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/of-mice-and-men-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/othello-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/othello-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/othello-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/othello-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/our-town-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/our-town-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/our-town-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/our-town-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/pygmalion-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/pygmalion-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/pygmalion-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/pygmalion-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/romeo-and-juliet-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/romeo-and-juliet-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/romeo-and-juliet-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/romeo-and-juliet-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/speak-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/speak-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/speak-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/speak-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-adventures-of-tom-sawyer-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-adventures-of-tom-sawyer-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-adventures-of-tom-sawyer-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-adventures-of-tom-sawyer-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-alchemist-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-alchemist-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-alchemist-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-alchemist-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-awakening-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-awakening-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-awakening-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-awakening-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-best-of-poe-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-best-of-poe-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-best-of-poe-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-best-of-poe-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-book-thief-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-book-thief-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-book-thief-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-book-thief-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-catcher-in-the-rye-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-catcher-in-the-rye-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-catcher-in-the-rye-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-catcher-in-the-rye-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-crucible-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-crucible-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-crucible-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-crucible-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-giver-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-giver-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-giver-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-giver-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-glass-castle-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-glass-castle-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-glass-castle-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-glass-castle-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-great-gatsby-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-great-gatsby-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-great-gatsby-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-great-gatsby-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-hate-u-give-free-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-hate-u-give-free-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-hate-u-give-free-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-hate-u-give-free-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-help-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-help-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-help-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-help-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-house-on-mango-street-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-house-on-mango-street-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-house-on-mango-street-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-house-on-mango-street-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-importance-of-being-earnest-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-importance-of-being-earnest-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-importance-of-being-earnest-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-importance-of-being-earnest-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-joy-luck-club-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-joy-luck-club-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-joy-luck-club-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-joy-luck-club-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-kite-runner-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-kite-runner-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-kite-runner-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-kite-runner-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-metamorphosis-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-metamorphosis-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-metamorphosis-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-metamorphosis-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-odyssey-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-odyssey-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-odyssey-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-odyssey-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-orphan-train-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-orphan-train-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-orphan-train-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-orphan-train-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-outsiders-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-outsiders-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-outsiders-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-outsiders-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-scarlet-letter-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-scarlet-letter-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-scarlet-letter-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-scarlet-letter-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-things-they-carried-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-things-they-carried-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/the-things-they-carried-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/the-things-they-carried-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/their-eyes-were-watching-god-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/their-eyes-were-watching-god-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/their-eyes-were-watching-god-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/their-eyes-were-watching-god-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/things-fall-apart-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/things-fall-apart-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/things-fall-apart-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/things-fall-apart-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/to-kill-a-mockingbird-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/to-kill-a-mockingbird-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/to-kill-a-mockingbird-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/to-kill-a-mockingbird-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/tuesdays-with-morrie-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/tuesdays-with-morrie-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/tuesdays-with-morrie-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/tuesdays-with-morrie-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/twelve-angry-men-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/twelve-angry-men-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/twelve-angry-men-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/twelve-angry-men-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/wonderstruck-crossword-puzzle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/wonderstruck-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/crossword-puzzles\/wonderstruck-crossword-puzzle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/crossword-puzzles\/wonderstruck-crossword-puzzle.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/ebooks\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/ebooks\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/ebooks\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/ebooks\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/ebooks\/teaching-literature-guidebook-ebook.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/ebooks\/teaching-literature-guidebook-ebook.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/ebooks\/teaching-literature-guidebook-ebook.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/ebooks\/teaching-literature-guidebook-ebook.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/fl-menu.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/fl-menu.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/how-to-teach-guides\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/how-to-teach-guides\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/how-to-teach-guides\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/how-to-teach-guides\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/how-to-teach-guides\/the-great-gatsby-how-to-teach.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/how-to-teach-guides\/the-great-gatsby-how-to-teach.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/how-to-teach-guides\/the-great-gatsby-how-to-teach.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/how-to-teach-guides\/the-great-gatsby-how-to-teach.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/index-optin.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/index-optin.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/index-optin.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/index-optin.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/lesson-plans\/free-english-language-arts-diagnostic-assessment.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/lesson-plans\/free-english-language-arts-diagnostic-assessment.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/lesson-plans\/free-english-language-arts-diagnostic-assessment.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/lesson-plans\/free-english-language-arts-diagnostic-assessment.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/lesson-plans\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/lesson-plans\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/lesson-plans\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/lesson-plans\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/lesson-plans\/of-mice-and-men-free-character-map.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/lesson-plans\/of-mice-and-men-free-character-map.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/lesson-plans\/of-mice-and-men-free-character-map.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/lesson-plans\/of-mice-and-men-free-character-map.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/lesson-plans\/the-poetry-of-bob-dylan-lesson-plan.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/lesson-plans\/the-poetry-of-bob-dylan-lesson-plan.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/lesson-plans\/the-poetry-of-bob-dylan-lesson-plan.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/lesson-plans\/the-poetry-of-bob-dylan-lesson-plan.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/other-resources\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/other-resources\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/other-resources\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/other-resources\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/other-resources\/vocabulary-power-plus-online-overview-webinar.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/other-resources\/vocabulary-power-plus-online-overview-webinar.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/other-resources\/vocabulary-power-plus-online-overview-webinar.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/other-resources\/vocabulary-power-plus-online-overview-webinar.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/31-days-of-classic-literary-horror-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/31-days-of-classic-literary-horror-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/31-days-of-classic-literary-horror-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/31-days-of-classic-literary-horror-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/african-american-timeline-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/african-american-timeline-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/african-american-timeline-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/african-american-timeline-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/annabel-lee-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/annabel-lee-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/annabel-lee-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/annabel-lee-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/artist-poem-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/artist-poem-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/artist-poem-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/artist-poem-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-albert-camus-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-albert-camus-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-albert-camus-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-albert-camus-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-alice-walker-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-alice-walker-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-alice-walker-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-alice-walker-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-bronte-sisters-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-bronte-sisters-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-bronte-sisters-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-bronte-sisters-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-edgar-allan-poe-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-edgar-allan-poe-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-edgar-allan-poe-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-edgar-allan-poe-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-elie-wiesel-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-elie-wiesel-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-elie-wiesel-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-elie-wiesel-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-ernest-hemingway-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-ernest-hemingway-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-ernest-hemingway-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-ernest-hemingway-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-frederick-douglass-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-frederick-douglass-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-frederick-douglass-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-frederick-douglass-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-harper-lee-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-harper-lee-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-harper-lee-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-harper-lee-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-hg-wells-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-hg-wells-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-hg-wells-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-hg-wells-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-john-steinbeck-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-john-steinbeck-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-john-steinbeck-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-john-steinbeck-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-mary-shelley-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-mary-shelley-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-mary-shelley-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-mary-shelley-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-octavia-butler-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-octavia-butler-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-octavia-butler-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-octavia-butler-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-ralph-ellison-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-ralph-ellison-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-ralph-ellison-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-ralph-ellison-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-ralph-waldo-emerson-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-ralph-waldo-emerson-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-ralph-waldo-emerson-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-ralph-waldo-emerson-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-thoreau-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-thoreau-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-thoreau-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-thoreau-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-toni-morrison-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-toni-morrison-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-toni-morrison-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-toni-morrison-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-web-du-bois-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-web-du-bois-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-web-du-bois-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-web-du-bois-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-willa-cather-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-willa-cather-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-willa-cather-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-willa-cather-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-william-golding-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-william-golding-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-william-golding-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-william-golding-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-zora-neale-hurston-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-zora-neale-hurston-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/authorspeak-zora-neale-hurston-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/authorspeak-zora-neale-hurston-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/because-i-could-not-stop-death-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/because-i-could-not-stop-death-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/because-i-could-not-stop-death-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/because-i-could-not-stop-death-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/cask-of-amontillado-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/cask-of-amontillado-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/cask-of-amontillado-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/cask-of-amontillado-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/christmas-carol-ghosts-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/christmas-carol-ghosts-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/christmas-carol-ghosts-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/christmas-carol-ghosts-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/close-encounters-with-vocabulary-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/close-encounters-with-vocabulary-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/close-encounters-with-vocabulary-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/close-encounters-with-vocabulary-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/common-prefixes-and-suffixes-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/common-prefixes-and-suffixes-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/common-prefixes-and-suffixes-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/common-prefixes-and-suffixes-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/dark-side-dracula-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/dark-side-dracula-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/dark-side-dracula-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/dark-side-dracula-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/dark-side-jekyll-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/dark-side-jekyll-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/dark-side-jekyll-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/dark-side-jekyll-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/dark-side-raven-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/dark-side-raven-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/dark-side-raven-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/dark-side-raven-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/discovering-poetry-walt-whitman-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/discovering-poetry-walt-whitman-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/discovering-poetry-walt-whitman-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/discovering-poetry-walt-whitman-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/dover-beach-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/dover-beach-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/dover-beach-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/dover-beach-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-charlotte-bronte-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-charlotte-bronte-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-charlotte-bronte-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-charlotte-bronte-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-frederick-douglass-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-frederick-douglass-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-frederick-douglass-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-frederick-douglass-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-from-literature-ernest-hemingway-free-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-from-literature-ernest-hemingway-free-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-from-literature-ernest-hemingway-free-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-from-literature-ernest-hemingway-free-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-from-literature-mary-shelley-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-from-literature-mary-shelley-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-from-literature-mary-shelley-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-from-literature-mary-shelley-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-gatsby-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-gatsby-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-gatsby-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-gatsby-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-hg-wells-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-hg-wells-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-hg-wells-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-hg-wells-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-plague-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-plague-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-plague-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-plague-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-sojourner-truth-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-sojourner-truth-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-sojourner-truth-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-sojourner-truth-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-wilde-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-wilde-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/echoes-wilde-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/echoes-wilde-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/fearless-women-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/fearless-women-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/fearless-women-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/fearless-women-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/feminist-theory-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/feminist-theory-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/feminist-theory-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/feminist-theory-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/ffl-metamorphosis-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/ffl-metamorphosis-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/ffl-metamorphosis-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/ffl-metamorphosis-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/fire-ice-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/fire-ice-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/fire-ice-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/fire-ice-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/fog-sandburg-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/fog-sandburg-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/fog-sandburg-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/fog-sandburg-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/gatsby-promo-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/gatsby-promo-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/gatsby-promo-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/gatsby-promo-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/honoring-edgar-allen-poe-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/honoring-edgar-allen-poe-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/honoring-edgar-allen-poe-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/honoring-edgar-allen-poe-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/in-the-desert-crane-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/in-the-desert-crane-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/in-the-desert-crane-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/in-the-desert-crane-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/index.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/lamb-poem-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/lamb-poem-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/lamb-poem-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/lamb-poem-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/language-politicians-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/language-politicians-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/language-politicians-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/language-politicians-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/laws-justice-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/laws-justice-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/laws-justice-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/laws-justice-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/mcp-gatsby-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/mcp-gatsby-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/mcp-gatsby-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/mcp-gatsby-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/mcp-lord-of-flies-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/mcp-lord-of-flies-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/mcp-lord-of-flies-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/mcp-lord-of-flies-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/oread-hd-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/oread-hd-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/oread-hd-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/oread-hd-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/poster-template.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/poster-template.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/poster-template.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/poster-template.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/power-trip-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/power-trip-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/power-trip-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/power-trip-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/raven-poe-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/raven-poe-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/raven-poe-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/raven-poe-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/road-not-taken-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/road-not-taken-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/road-not-taken-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/road-not-taken-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/shakespeare-sonnet-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/shakespeare-sonnet-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/shakespeare-sonnet-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/shakespeare-sonnet-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/shakespeare-star-wars-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/shakespeare-star-wars-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/shakespeare-star-wars-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/shakespeare-star-wars-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/should-wide-world-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/should-wide-world-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/should-wide-world-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/should-wide-world-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/sound-off-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/sound-off-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/sound-off-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/sound-off-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/spring-offensive-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/spring-offensive-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/spring-offensive-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/spring-offensive-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/tam-2020-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/tam-2020-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/tam-2020-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/tam-2020-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/tell-tale-heart-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/tell-tale-heart-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/tell-tale-heart-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/tell-tale-heart-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/top-10-greek-roots-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/top-10-greek-roots-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/top-10-greek-roots-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/top-10-greek-roots-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/top-10-latin-roots-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/top-10-latin-roots-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/top-10-latin-roots-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/top-10-latin-roots-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/tyger-poem-poster.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/tyger-poem-poster.html",
-      "oF" : 0
-    },
-    "\/more-resources\/free-library\/posters\/tyger-poem-poster.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/more-resources\/free-library\/posters\/tyger-poem-poster.html",
       "oF" : 0
     },
     "\/more-resources\/index.html" : {
