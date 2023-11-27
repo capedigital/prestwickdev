@@ -265,22 +265,6 @@
       "oAP" : "\/books\/classroom-library-packs\/index.html",
       "oF" : 0
     },
-    "\/books\/classroom-library-packs\/themed-classroom-library-packs\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/classroom-library-packs\/themed-classroom-library-packs\/index.html",
-      "oF" : 0
-    },
-    "\/books\/classroom-library-packs\/themed-classroom-library-packs\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/books\/classroom-library-packs\/themed-classroom-library-packs\/index.html",
-      "oF" : 0
-    },
     "\/books\/diverse-books\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -487,6 +471,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/books\/side-by-sides\/sample-request\/index.html",
+      "oF" : 0
+    },
+    "\/books\/themed-classroom-library-packs\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/themed-classroom-library-packs\/index.html",
+      "oF" : 0
+    },
+    "\/books\/themed-classroom-library-packs\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/themed-classroom-library-packs\/index.html",
       "oF" : 0
     },
     "\/classroom-posters.kit" : {
