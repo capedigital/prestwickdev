@@ -38,7 +38,7 @@ var lazyLoadInstance = new LazyLoad({
       //goto that anchor by setting the body scroll top to anchor top
       $("html, body").animate({ scrollTop: "0" }, 500);
   });
-  
+
   $(".ph-bttbutt-horiz").on(function() {
       //Do stuff when clicked
       event.preventDefault();
@@ -50,7 +50,7 @@ var lazyLoadInstance = new LazyLoad({
 
   //add lang attribute to html tags
   $('html').attr("lang", "en");
-  
+
   // set width and height on norton badge
   $('img#buysafeseal_1_img').width('53').height('100');
 
@@ -169,7 +169,7 @@ f=false,d=document,vwoCodeEl=d.querySelector('#vwoCode'),code={use_existing_jque
       //console.log("The variable named keywords has value:  " + keywords);
       let keywordsFwd = encodeURIComponent(keywords);
       let searchUrl = "https://www.prestwickhouse.com/search?searchText=" + keywordsFwd;
-      
+
           if ( keywordsFwd !== ''){
               window.location.href = searchUrl;
               window.open(searchUrl,"_top");
@@ -180,19 +180,36 @@ f=false,d=document,vwoCodeEl=d.querySelector('#vwoCode'),code={use_existing_jque
 $(document).ready(function () {
     //utility function for removing header from free library pages
     if (
-        (window.location.href.indexOf("free-library/posters") > -1) || 
-        (window.location.href.indexOf("free-library/crossword-puzzles") > -1) || 
+        (window.location.href.indexOf("free-library/posters") > -1) ||
+        (window.location.href.indexOf("free-library/crossword-puzzles") > -1) ||
         (window.location.href.indexOf("free-library/lesson-plans") > -1) ||
         (window.location.href.indexOf("free-library/ebooks") > -1) ||
         (window.location.href.indexOf("free-library/how-to-teach-guides") > -1) ||
-        (window.location.href.indexOf("free-library/other-resources") > -1)  
+        (window.location.href.indexOf("free-library/other-resources") > -1)
        ) {
       //console.log("your url contains the name free-library");
       //$('section.ph-header-angle').addClass('ph-nonvisible');
       $('section.ph-header-angle').remove();
     }
-    
-    
+
+    //utility function for removing chat from pages
+    if (
+        (window.location.href.indexOf("christmas-carol-ghost-quiz") > -1)
+       ) {
+      //console.log("your url contains the name free-library");
+      //$('section.ph-header-angle').addClass('ph-nonvisible');
+      //$('section.ph-header-angle').remove();
+      //$zopim.livechat.window.hide();
+      window.zESettings = {
+        webWidget: {
+          chat: {
+            suppress: true
+          }
+        }
+      };
+    }
+
+
 });
 
 //SPLIDE PLUGIN FOR SCROLLING BLOCKS ---------------------------------------------

@@ -761,6 +761,22 @@
       "oAP" : "\/contests\/teacher-appreciation-month.html",
       "oF" : 0
     },
+    "\/contests\/winter-reading-retreat-holiday-giveaway.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/winter-reading-retreat-holiday-giveaway.html",
+      "oF" : 0
+    },
+    "\/contests\/winter-reading-retreat-holiday-giveaway.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/winter-reading-retreat-holiday-giveaway.html",
+      "oF" : 0
+    },
     "\/css\/mackinac.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -19293,7 +19309,7 @@
       "oA" : 0,
       "oAP" : "\/js\/frontEnd-min-min.js",
       "oF" : 0,
-      "sC" : 3,
+      "sC" : 0,
       "tS" : 0
     },
     "\/js\/frontEnd.js" : {
@@ -19304,7 +19320,7 @@
       "oA" : 0,
       "oAP" : "\/js\/frontEnd-min.js",
       "oF" : 0,
-      "sC" : 3,
+      "sC" : 0,
       "tS" : 0
     },
     "\/js\/ph-custom-min.js" : {
@@ -19315,7 +19331,7 @@
       "oA" : 0,
       "oAP" : "\/js\/ph-custom-min-min.js",
       "oF" : 0,
-      "sC" : 3,
+      "sC" : 0,
       "tS" : 0
     },
     "\/js\/ph-custom.js" : {
@@ -19326,7 +19342,7 @@
       "oA" : 0,
       "oAP" : "\/js\/ph-custom-min.js",
       "oF" : 0,
-      "sC" : 3,
+      "sC" : 0,
       "tS" : 0
     },
     "\/js\/popper.min-min.js" : {
@@ -19337,7 +19353,7 @@
       "oA" : 0,
       "oAP" : "\/js\/popper.min-min-min.js",
       "oF" : 0,
-      "sC" : 3,
+      "sC" : 0,
       "tS" : 0
     },
     "\/js\/popper.min.js" : {
@@ -19348,7 +19364,7 @@
       "oA" : 0,
       "oAP" : "\/js\/popper.min-min.js",
       "oF" : 0,
-      "sC" : 3,
+      "sC" : 0,
       "tS" : 0
     },
     "\/js\/timedDisplay-min.js" : {
@@ -19359,7 +19375,7 @@
       "oA" : 0,
       "oAP" : "\/js\/timedDisplay-min-min.js",
       "oF" : 0,
-      "sC" : 3,
+      "sC" : 0,
       "tS" : 0
     },
     "\/js\/timedDisplay.js" : {
@@ -19370,7 +19386,7 @@
       "oA" : 0,
       "oAP" : "\/js\/timedDisplay-min.js",
       "oF" : 0,
-      "sC" : 3,
+      "sC" : 0,
       "tS" : 0
     },
     "\/js\/vwo-async.js" : {
@@ -19381,7 +19397,7 @@
       "oA" : 0,
       "oAP" : "\/js\/vwo-async-min.js",
       "oF" : 0,
-      "sC" : 3,
+      "sC" : 0,
       "tS" : 0
     },
     "\/literature\/tree.html" : {
@@ -22202,7 +22218,7 @@
       "NODE_ENV:::production"
     ],
     "esLintConfigFileHandlingType" : 0,
-    "esLintECMAVersion" : 7,
+    "esLintECMAVersion" : 0,
     "esLintEnvironmentsMask" : 1,
     "esLintRules" : {
       "accessor-pairs" : {
@@ -23238,7 +23254,7 @@
       "bundleFormat" : 0,
       "minifierStyle" : 1,
       "sourceMapStyle" : 0,
-      "syntaxCheckerStyle" : 3,
+      "syntaxCheckerStyle" : 0,
       "transpilerStyle" : 0
     },
     "languageDefaultsJSON" : {
