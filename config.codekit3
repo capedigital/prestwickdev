@@ -569,6 +569,14 @@
       "oAP" : "\/contests\/2023-spring-into-stories-literature-giveaway.html",
       "oF" : 0
     },
+    "\/contests\/2024-a-clean-slate.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2024-a-clean-slate.html",
+      "oF" : 0
+    },
     "\/contests\/back-to-school-2022.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -775,6 +783,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/contests\/winter-reading-retreat-holiday-giveaway.html",
+      "oF" : 0
+    },
+    "\/contests\/winter-reading-thank-you.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/winter-reading-thank-you.html",
       "oF" : 0
     },
     "\/contests\/winter-reading-thank-you.kit" : {
