@@ -7,7 +7,7 @@
       "uuidString" : "47E4DE92-8D76-4BB1-A7BD-4AA9A8C25451"
     }
   ],
-  "creatorBuild" : "34518",
+  "creatorBuild" : "34564",
   "files" : {
     "\/.gitattributes" : {
       "cB" : 0,
@@ -279,6 +279,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/books\/diverse-books\/index.html",
+      "oF" : 0
+    },
+    "\/books\/index copy.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/index copy.html",
+      "oF" : 0
+    },
+    "\/books\/index copy.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/books\/index copy.html",
       "oF" : 0
     },
     "\/books\/index.html" : {
@@ -567,6 +583,30 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/contests\/2023-spring-into-stories-literature-giveaway.html",
+      "oF" : 0
+    },
+    "\/contests\/2024-a-clean-slate-thank-you.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2024-a-clean-slate-thank-you.html",
+      "oF" : 0
+    },
+    "\/contests\/2024-a-clean-slate-thank-you.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2024-a-clean-slate-thank-you.html",
+      "oF" : 0
+    },
+    "\/contests\/2024-a-clean-slate.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2024-a-clean-slate.html",
       "oF" : 0
     },
     "\/contests\/2024-a-clean-slate.kit" : {
@@ -22764,9 +22804,6 @@
       "no-new-native-nonconstructor" : {
         "active" : 0
       },
-      "no-new-object" : {
-        "active" : 0
-      },
       "no-new-symbol" : {
         "active" : 1
       },
@@ -22778,6 +22815,9 @@
       },
       "no-obj-calls" : {
         "active" : 1
+      },
+      "no-object-constructor" : {
+        "active" : 0
       },
       "no-octal" : {
         "active" : 1

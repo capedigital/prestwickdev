@@ -797,6 +797,26 @@ figure.ph-gethover img { vertical-align: unset; }
   .grey { background-color: #eee; font-size: 20px; }
  }
 }
+/* Blog Price Blocks */
+.post-content {
+  ul.ph-pricetable-first { background-color: #feefdc !important; }
+  ul.ph-pricetable-first li:nth-of-type(1) { color: #fda645; font-weight: bold !important;; padding-top: 2rem !important; }
+  ul.ph-pricetable-second { background-color: #fee6d9 !important; }
+  ul.ph-pricetable-second li:nth-of-type(1) { color: #f06739; font-weight: bold !important;; padding-top: 2rem !important; }
+  ul.ph-pricetable-third { background-color: #fde1e0 !important; }
+  ul.ph-pricetable-third li:nth-of-type(1) { color: #f01a72; font-weight: bold !important;; padding-top: 2rem !important; }
+
+  .ph-pricetable ul { list-style-type: none !important; margin: 0 !important; padding: 10px !important; -webkit-transition: 0.3s; transition: 0.3s;
+  li:nth-of-type(1) { font-size: 3rem !important;}
+  li:nth-of-type(2) { font-size: 2rem !important; color: #24638f; font-weight: bold !important; letter-spacing: -.06rem !important; padding-top: 0rem !important;}
+  li:nth-of-type(3) { padding: 0px !important;}
+  li:nth-of-type(3) hr { width: 50%; margin: 0 auto; }
+  li:nth-of-type(4) { font-size: 1.25rem !important; color: #000000; font-weight: bold !important; letter-spacing: -.04rem !important; }
+  .ph-pricetable:hover { box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2) }
+  li { padding: 20px !important; margin: revert; text-align: center; margin-bottom: 0px !important; }
+  .grey { background-color: #eee; font-size: 20px; }
+ }
+}
 
 /*SPECIAL SALES LANDING PAGE*/
 
