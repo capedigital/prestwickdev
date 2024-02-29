@@ -825,6 +825,14 @@
       "oAP" : "\/contests\/we-love-books-giveaway.html",
       "oF" : 0
     },
+    "\/contests\/what-a-wonderful-word.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/what-a-wonderful-word.html",
+      "oF" : 0
+    },
     "\/contests\/what-a-wonderful-word.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -2368,6 +2376,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/free-library\/how-to-teach-guides\/the-great-gatsby-how-to-teach.html",
+      "oF" : 0
+    },
+    "\/free-library\/index-agile.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/index-agile.html",
+      "oF" : 0
+    },
+    "\/free-library\/index-agile.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/free-library\/index-agile.html",
       "oF" : 0
     },
     "\/free-library\/index-optin.html" : {
