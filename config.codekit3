@@ -19512,6 +19512,22 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/literature\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/literature\/index.html",
+      "oF" : 0
+    },
+    "\/literature\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/literature\/index.html",
+      "oF" : 0
+    },
     "\/literature\/tree.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -21964,6 +21980,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/vocabulary\/vocabulary-power-plus-online\/trial-request.html",
+      "oF" : 0
+    },
+    "\/vocabulary\/vocabulary-power-plus\/index-old.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/vocabulary\/vocabulary-power-plus\/index-old.html",
       "oF" : 0
     },
     "\/vocabulary\/vocabulary-power-plus\/index.html" : {
