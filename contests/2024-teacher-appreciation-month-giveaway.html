@@ -6,7 +6,7 @@
     <title>Prestwick Dev | Prestwick House</title>
     <meta name="description" content="Prestwick House offers literary paperback novels &amp; books at discounts up to 35%. With over 1,300 title we have what you need for your English classroom." />
     <link media="ALL" rel="stylesheet" type="text/css" href="https://www.prestwickhouse.com/Style%20Library/css/main.css" />
-    <link media="ALL" rel="stylesheet" type="text/css" href="/css/ph-global-min.css" />
+    <link media="ALL" rel="stylesheet" type="text/css" href="https://localhost:5757/css/ph-global-min.css" />
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
     <script type="text/javascript" src="/js/popper.min.js"></script>
@@ -199,39 +199,299 @@
                     <div id="ctl01_fwGenericContent1">
                         <div id="ctl01_fwGenericContent1_ctl00">
 
-<p>
-    <style>
-        <!--
-        .clearfix h1 {
-            display: none;
-        }
-        -->
-    </style>
-</p>
-<div class="ph-digicat ph-invert">
-    <section>
-        <div class="row h-pushLgBottom">
-            <div class="column lg-16 h-pushLgTop"><!-- CONTENT HERE -->
-                <ol class="breadcrumb" style="margin-bottom: 5px;">
-                    <li class="breadcrumb-item"><a href="/">Home</a></li>
-                    <li class="breadcrumb-item"><a href="https://www.prestwickhouse.com/more-resources">More Resources</a></li>
-                    <li class="breadcrumb-item active">Digital Catalogue</li>
-                </ol>
-                <p class="ph-h1">Prestwick House 2024 Catalogue</p>
-                <!-- END CONTENT -->
-            </div>
-            <div class="column lg-8"><!-- CONTENT HERE -->
-                <p class="ph-h4">Prefer a printed copy?</p>
-                <p>If you'd like a physical catalogue click this button and we'll send one to you for free!</p>
-                <div><a class="button ph-button ph-button-fullwidth ph-button-outline" href="https://www.prestwickhouse.com/more-resources/catalogue-request" style="margin-top: 10px;">Request a Catalog</a></div>
-                <!-- END CONTENT -->
+<style type="text/css">
+    html { scroll-behavior: smooth }
+    :target:before { content: ""; display: block; height: 100px; margin: -100px 0 0 }
+    #content {
+        background-image:
+        /* top, transparent grad */
+        linear-gradient(
+          rgba(28, 80, 99, 0.60),
+          rgba(28, 80, 99, 1)
+        ),
+        /* your image */
+        url("https://www.prestwickhouse.com/Image%20Library/img/landing/contests/2024_TAM_landingbg.jpg");
+        background-size:     contain;
+        background-repeat:   no-repeat;
+        background-position: top center;
+        margin-top: -15px }
+     /* #content {  background: linear-gradient(180deg, #976c4d .25%, #08506b); margin-top: -15px  } */
+    .ph-tam-hero .ph-h1, .ph-tam-hero .ph-h2, .ph-tam-hero .ph-h3 { color: #ffffff !important }
+    .ph-tam .button { background-color: #1bbbf4; color: #ffffff; }
+    .ph-anchorage a, .ph-mustard { color: #84E3B8; text-decoration: underline }
+    .ph-roundborder { border: 3px solid #ffde67; border-radius: 8px }
+    .ph-tam-classactivities, .ph-tam-giveaway, .ph-tam-librarypacksgrade, .ph-tam-sale, .ph-tam-freelibrary { padding: 60px 30px; margin: 30px 0 0; color: #fff }
+    .ph-tam-giveaway {background-color: rgb(211, 183, 161);}
+    .ph-tam-freelibrary { background-color: rgb(20, 134, 174);}
+    .ph-tam-sale { padding: 0 50px 20px; margin: 30px 0 0; color: #fff }
+    .ph-tam-special figure { display: flex; min-height: 235px }
+    .ph-tam-special .ph-desc-block { display: flex; flex-direction: column; min-height: 125px; align-items: center; }
+    .ph-tam-special .ph-desc-block a { color: #fff; font-weight: 700; justify-self: end; margin-top: auto; width: 120px; text-align: center; }
+
+    .ph-tam-sale { background-color: #6E381E; padding: 0 50px 20px; margin: 30px 0 0; color: #fff }
+    .ph-tam-sale figure { display: flex; min-height: 235px }
+    .ph-tam-sale .ph-desc-block { display: flex; flex-direction: column; min-height: 210px }
+    .ph-tam-sale .ph-desc-block a { color: #fff; font-weight: 700; justify-self: end; margin-top: auto; width: 200px }
+
+    .ph-tam-sale { background-color: rgb(110, 169, 159)}
+    .ph-h1.ph-xl { font-size: 3em !important; line-height: 1.5em !important }
+    .ph-prizelist ul li { font-size: 1em; margin-bottom: 8px !important; line-height: 1.5em }
+    .ph-separator { margin-bottom: 20px !important }
+    .ph-separator .ph-line:before, .ph-separator .ph-line:after { background: #bfbfbf; }
+    .ph-gridblock { height: 100%; position: relative; display: flex; flex-direction: column; justify-content: flex-start }
+    .ph-button-red { background: #ad1700; color: #fff; padding: 12px 35px !important; border-radius: 5px; }
+    .ph-button-red:hover { background: #fff; color: #000 !important }
+    .ph-button-outline { background: 0 0 !important; border: 1px solid #fff !important; color: #fff !important }
+    .ph-button-outline:hover { background: #454545 !important; color: #fff !important }
+    .cog-form__container, :root:root:root:root:root .cog-form__container { border-radius: 10px !important; }
+    .ph-libpacks-card { background: #454545; }
+    .ph-libpacks-card h3 { color: #FFFFFF; }
+</style>
+
+<div class="ph-tam" id="ph-tam">
+    <section class="ph-tam-hero">
+        <div class="row">
+            <div class="column lg-24 h-textCenter h-pushLgTop">
+                <!-- <a href="#giveaway"><img src="https://www.prestwickhouse.com/Image%20Library/img/landing/contests/What-a-Wonderful-Word-Landing-Hero.jpg" alt="" style="text-align: center; margin-left: auto; margin-right: auto; margin-top: 0px;" class="ph-roundcorners ph-boxshad"></a> -->
+                <a href="#giveaway">
+                    <img src="https://www.prestwickhouse.com/Image Library/img/landing/contests/2024_TAM_landing_hero.jpg" alt="" style="text-align: center; margin-left: auto; margin-right: auto; margin-top: 0px;" class="ph-roundcorners ph-boxshad">
+                </a>
             </div>
         </div>
         <div class="row">
-                        <iframe src="https://player.flipsnack.com?hash=RkNBQUVDQTdDNkYrZG5pYmZzaWhwOA==" width="100%" height="800" seamless="seamless" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-read; clipboard-write"></iframe></div>
+            <div class="column lg-24 centered-lg h-textCenter ph-white">
+                <div class="ph-separator" style="margin-bottom: 0px !important;">
+                    <div class="ph-line">
+                        <p class="ph-h1 ph-xl">Read & Relax</p>
+                        <p class="ph-h3">2024 Teacher Appreciation Month Giveaway</p>
+                    </div>
+                </div>
+                <!-- <p class="ph-h2">Cheers to a year filled with new opportunities!</p> -->
+                <p class="ph-h3 ph-anchorage h-softEnds "><a href="#giveaway">Sweepstakes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#sale">Sale</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#freelibrary">Free Library</a></p>
+            </div>
+        </div>
+    </section>
+    <span id="giveaway"></span>
+    <section class="ph-tam-giveaway ph-roundcorners ph-boxshad" style="padding: 30px;">
+        <div class="row row--flush">
+            <div class="column lg-12 h-softLgRight">
+
+                <script src="https://www.cognitoforms.com/f/seamless.js" data-key="24Z_KqCxEUiPBuYmzMSCcA" data-form="77"></script>
+            </div>
+            <div class="column lg-12">
+                <p class="ph-h1">Enter to Win!</p>
+                <p class="ph-h3 h-pushSmTop">One lucky teacher will win a care package filled with five new popular paperbacks, a Dunkin’ gift card, fun reading accessories, and other prizes to get ready for summer break!</p>
+
+                <div class="column lg-22">
+                    <p class="ph-h5 h-pushTop ph-italic">No purchase is necessary to enter or win. A purchase does not increase the chances of winning. Contest entry closes on June 2, 2024, at 11:59 p.m. EST. The winner will be contacted by email on June 3, 2024.</p>
+                </div>
+
+               <!--  <p class="ph-h1">Congratulations!</p>
+                 <p class="ph-h3 h-pushTop">Our giveaway winner is Shannon H. from Weatherford, TX!</p>
+
+               <p class="ph-h3"> Stay tuned for more great giveaways from Prestwick House!</p> -->
+            </div>
+
+        </div>
+    </section>
+    <span id="special"></span>
+
+    <!-- <section class="ph-tam-special ph-roundcorners ph-boxshad h-pushXLgTop h-pushLgBottom">
+        <div class="row">
+            <div class="column lg-24 h-pushXLgTop h-textCenter">
+                <a href="https://www.prestwickhouse.com/more-resources/free-library/other-resources/printable-bookish-holiday-gift-tags">
+                    <img src="https://www.prestwickhouse.com/Image%20Library/img/landing/contests/Contest-Page-Hero.png" />
+                </a>
+                <div class="ph-separator h-pushLgBottom">
+                    <div class="ph-line">
+                        <p class="ph-h1">Free Printable Holiday Gift Tags</p>
+                    </div>
+                </div>
+            </div>
+            <div class="column lg-18 h-pushLgBottom h-textCenter centered-lg">
+                <p class="ph-h4">Perfect for the book lovers in your life, these free bookish gift tags will add a festive and fun touch to any present.</p>
+                <a href="https://www.prestwickhouse.com/more-resources/free-library/other-resources/printable-bookish-holiday-gift-tags" class="button ph-button ph-button-red h-pushTop">Download Free Tags</a>
+            </div>
+        </div>
+    </section> -->
+
+    <!-- <span id="freelibrary"></span>
+    <section class="ph-tam-valcards ph-roundcorners ph-boxshad h-pushLgTop h-pushLgBottom">
+        <div class="row">
+            <div class="column lg-24 h-textCenter">
+                <div class="ph-separator">
+                    <div class="ph-line">
+                        <p class="ph-h1">Send a Literary Valentine’s Day Card</p>
+                    </div>
+                </div>
+            </div>
+            <div class="column lg-10 offset-lg-2">
+                <a href="https://www.prestwickhouse.com/more-resources/free-library/other-resources/free-literary-valentines-day-cards"><img src="https://www.prestwickhouse.com/Image Library/img/landing/contests/2024-vday-cards-thumb.png" width="650"/></a>
+            </div>
+            <div class="column lg-10 h-pushLgTop">
+                <p class="ph-h4">Share your passion for the written word with over 35 free printable Valentine’s Day cards featuring hilarious literary puns!</p>
+                <a href="https://www.prestwickhouse.com/more-resources/free-library/other-resources/free-literary-valentines-day-cards" class="button ph-button ph-button-red h-pushTop">Download Your Cards</a>
+            </div>
+        </div>
+    </section> -->
+
+
+    <span id="sale"></span>
+    <section class="ph-tam-sale ph-roundcorners ph-boxshad h-pushLgBottom">
+        <div class="row">
+            <div class="column lg-24 h-pushXLgTop h-textCenter">
+                <div class="ph-separator h-flushTop">
+                    <div class="ph-line">
+                        <p class="ph-h1">Take 50% Off Ready-to-Use<br>Literature Lesson Plans</p>
+                    </div>
+                </div>
+            </div>
+            <div class="column lg-18 h-pushLgBottom h-textCenter centered-lg">
+
+
+                <p class="ph-h4">Take a break and let us handle the literature lesson planning! All month long, save 50% on all downloadable <span class="ph-bolditalic">Literature Teaching Guides</span>—no code needed.</p>
+
+                <a href="https://www.prestwickhouse.com/literature/literature-guides" class="button ph-button ph-button-red h-pushTop">Shop All Guides</a>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="column sm-12 lg-6">
+                <div class="h-pushLgEnds">
+                    <figure class="h-flushBottom">
+                        <a href="/literature/literature-guides/literature-teaching-units/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-ltu.png" alt="Literature Teaching Units" title="Literature Teaching Units"></a>
+                    </figure>
+                    <div class="ph-desc-block">
+                        <p class="ph-h3">Literature Teaching Units</p>
+                        <p>Eliminate hours of prep work with ready-to-use units built on a structured academic framework.</p>
+                        <a class="button ph-button ph-button-red" href="/literature/literature-guides/literature-teaching-units/index-responsive">Shop Now &#x25B8;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="column sm-12 lg-6">
+                <div class="h-pushLgEnds">
+                    <figure class="h-flushBottom">
+                        <a href="/literature/literature-guides/response-journals/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-lrj.png" alt="Response Journals" title="Response Journals"></a>
+                    </figure>
+                    <div class="ph-desc-block">
+                        <p class="ph-h3">Response Journals</p>
+                        <p>Help students draw personal connections to literature by reflecting on what they've read.</p>
+                        <a class="button ph-button ph-button-red" href="/literature/literature-guides/response-journals/index-responsive">Shop Now &#x25B8;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="column sm-12 lg-6">
+                <div class="h-pushLgEnds">
+                    <figure class="h-flushBottom">
+                        <a href="/literature/literature-guides/activity-packs/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-actpacks.png" alt="Activity Packs" title="Activity Packs"></a>
+                    </figure>
+                    <div class="ph-desc-block">
+                        <p class="ph-h3">Activity Packs</p>
+                        <p>Get students excited for reading with dozens of creative activities for more than 150 favorite titles.</p>
+                        <a class="button ph-button ph-button-red" href="/literature/literature-guides/activity-packs/index-responsive">Shop Now &#x25B8;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="column sm-12 lg-6">
+                <div class="h-pushLgEnds">
+                    <figure class="h-flushBottom">
+                        <a href="/literature/literature-guides/complete-teachers-kits/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-ctk.png" alt="Complete Teacher's Kits" title="Complete Teacher's Kits"></a>
+                    </figure>
+                    <div class="ph-desc-block">
+                        <p class="ph-h3">Complete Teacher's Kits</p>
+                        <p>Get everything you need to teach a new book with three essential <span class="ph-italic">Literature Guides</span> in one package.</p>
+                        <a class="button ph-button ph-button-red" href="/literature/literature-guides/complete-teachers-kits/index-responsive">Shop Now &#x25B8;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="column sm-12 lg-6">
+                <div class="h-pushLgEnds">
+                    <figure class="h-flushBottom">
+                        <a href="/literature/literature-guides/ap-literature-teaching-units/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-apltu.png" alt="AP Literature Teaching Units" title="AP Literature Teaching Units"></a>
+                    </figure>
+                    <div class="ph-desc-block">
+                        <p class="ph-h3">AP Literature Teaching Units</p>
+                        <p>Our #1 best-selling vocabulary program for 4th-12th grade.</p>
+                        <a class="button ph-button ph-button-red" href="/literature/literature-guides/ap-literature-teaching-units/index-responsive">Shop Now &#x25B8;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="column sm-12 lg-6">
+                <div class="h-pushLgEnds">
+                    <figure class="h-flushBottom">
+                        <a href="/literature/literature-guides/multiple-critical-perspectives/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-mcp.png" alt="Multiple Critical Perspectives" title="Multiple Critical Perspectives"></a>
+                    </figure>
+                    <div class="ph-desc-block">
+                        <p class="ph-h3">Multiple Critical Perspectives</p>
+                        <p>Introduce your students to literary theories with activities that make learning both fun and intellectually rewarding.</p>
+                        <a class="button ph-button ph-button-red" href="/literature/literature-guides/multiple-critical-perspectives/index-responsive">Shop Now &#x25B8;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="column sm-12 lg-6">
+                <div class="h-pushLgEnds">
+                    <figure class="h-flushBottom">
+                        <a href="/literature/literature-guides/levels-of-understanding/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-lou.png" alt="Levels of Understanding" title="Levels of Understanding"></a>
+                    </figure>
+                    <div class="ph-desc-block">
+                        <p class="ph-h3">Levels of Understanding</p>
+                        <p>Use Bloom's Taxonomy to lead your students from lower-order to higher-order thinking skills.</p>
+                        <a class="button ph-button ph-button-red" href="/literature/literature-guides/levels-of-understanding/index-responsive">Shop Now &#x25B8;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="column sm-12 lg-6">
+                <div class="h-pushLgEnds">
+                    <figure class="h-flushBottom">
+                        <a href="/literature/literature-guides/instant-short-story-packs/index-responsive"><img src="/Image Library/img/landing/ph-landinghero-issp.png" alt="Instant Short Story Packs" title="Instant Short Story Packs"></a>
+                    </figure>
+                    <div class="ph-desc-block">
+                        <p class="ph-h3">Instant Short Story Packs</p>
+                        <p>Help students learn how to analyze literature with downloadable activities for more than 25 popular short stories.</p>
+                        <a class="button ph-button ph-button-red" href="/literature/literature-guides/instant-short-story-packs/index-responsive">Shop Now &#x25B8;</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="row">
+                <div class="column lg-24 h-textCenter centered-lg h-pushLgEnds">
+                    <a href="https://www.prestwickhouse.com/sales" class="button ph-button ph-button-red h-pushTop">Shop All Sales</a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column lg-24">
+                    <p>Prices as marked. Sale prices are valid from May 1, 2024, at 12:01 a.m. EST through June 1, 2024, at 11:59 p.m. EST. This sale applies only to downloadable versions of Literature Teaching Guides.</p>
+                </div>
+            </div>
+    </section>
+
+<span id="freelibrary"></span>
+    <section class="ph-tam-freelibrary ph-roundcorners ph-boxshad h-pushLgTop h-pushSmBottom">
+        <div class="row">
+            <div class="column lg-24 h-pushTop h-textCenter">
+                <a href="https://www.prestwickhouse.com/more-resources/free-library">
+                    <img src="https://www.prestwickhouse.com/Image%20Library/img/landing/contests/wonderfulword-landing-freelibrary.png" />
+                </a>
+                <div class="ph-separator h-pushLgBottom">
+                    <div class="ph-line">
+                        <p class="ph-h1">The English Teacher’s Free Library Is Open!</p>
+                    </div>
+                </div>
+            </div>
+            <div class="column lg-18 h-pushLgBottom h-textCenter centered-lg">
+                <p class="ph-h4">From posters and puzzles to eBooks and lesson plans, complimentary ELA teaching resources are ready to download on demand! They’re our gifts to you, all year long.</p>
+                <a href="https://www.prestwickhouse.com/more-resources/free-library" class="button ph-button ph-button-red h-pushTop">Browse the Free Library</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="ph-backtotop">
+        <div class="row">
+            <div class="column h-textCenter "><a href="#backToTop"><img class="ph-bttbutt" alt="Back to Top" width="75" height="75" /></a></div>
         </div>
     </section>
 </div>
+
                 </div>
             </div>
         </div>

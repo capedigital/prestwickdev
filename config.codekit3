@@ -617,6 +617,54 @@
       "oAP" : "\/contests\/2024-a-clean-slate.html",
       "oF" : 0
     },
+    "\/contests\/2024-spring-into-reading-giveaway.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2024-spring-into-reading-giveaway.html",
+      "oF" : 0
+    },
+    "\/contests\/2024-spring-into-reading-giveaway.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2024-spring-into-reading-giveaway.html",
+      "oF" : 0
+    },
+    "\/contests\/2024-teacher-appreciation-month-giveaway.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2024-teacher-appreciation-month-giveaway.html",
+      "oF" : 0
+    },
+    "\/contests\/2024-teacher-appreciation-month-giveaway.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2024-teacher-appreciation-month-giveaway.html",
+      "oF" : 0
+    },
+    "\/contests\/2024-teacher-appreciation-month-thank-you.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2024-teacher-appreciation-month-thank-you.html",
+      "oF" : 0
+    },
+    "\/contests\/2024-teacher-appreciation-month-thank-you.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2024-teacher-appreciation-month-thank-you.html",
+      "oF" : 0
+    },
     "\/contests\/back-to-school-2022.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -18729,6 +18777,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/Image Library\/img\/landing\/ph-landinghero-vpp copy.png" : {
+      "ft" : 32768,
+      "iS" : 161598,
+      "oA" : 0,
+      "oAP" : "\/Image Library\/img\/landing\/ph-landinghero-vpp copy.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/Image Library\/img\/landing\/ph-landinghero-vpp.png" : {
       "ft" : 32768,
       "iS" : 161598,
@@ -18740,6 +18801,17 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
+      "rq" : 75
+    },
+    "\/Image Library\/img\/landing\/ph-landinghero-vpp.webp" : {
+      "ft" : 8388608,
+      "iS" : 67968,
+      "oA" : 0,
+      "oAP" : "\/Image Library\/img\/landing\/ph-landinghero-vpp.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/Image Library\/img\/landing\/ph-landinghero-vppo-sample.png" : {
@@ -18766,6 +18838,17 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
+      "rq" : 75
+    },
+    "\/Image Library\/img\/landing\/ph-landinghero-vppsor.webp" : {
+      "ft" : 8388608,
+      "iS" : 84430,
+      "oA" : 0,
+      "oAP" : "\/Image Library\/img\/landing\/ph-landinghero-vppsor.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/Image Library\/img\/landing\/ph-landinghero-waplusresearch-sample.jpg" : {
@@ -19184,6 +19267,30 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/Image Library\/img\/landing\/vppsor-banner-icon.png" : {
+      "ft" : 32768,
+      "iS" : 206379,
+      "oA" : 0,
+      "oAP" : "\/Image Library\/img\/landing\/vppsor-banner-icon.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/Image Library\/img\/landing\/vppsor-banner-icon.webp" : {
+      "ft" : 8388608,
+      "iS" : 30506,
+      "oA" : 0,
+      "oAP" : "\/Image Library\/img\/landing\/vppsor-banner-icon.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/Image Library\/img\/logo.png" : {
       "ft" : 32768,
       "iS" : 5567,
@@ -19526,6 +19633,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/literature\/index.html",
+      "oF" : 0
+    },
+    "\/literature\/old-literature.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/literature\/old-literature.html",
+      "oF" : 0
+    },
+    "\/literature\/old-literature.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/literature\/old-literature.html",
       "oF" : 0
     },
     "\/literature\/tree.html" : {
@@ -21982,6 +22105,14 @@
       "oAP" : "\/vocabulary\/vocabulary-power-plus-online\/trial-request.html",
       "oF" : 0
     },
+    "\/vocabulary\/vocabulary-power-plus\/index-old.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/vocabulary\/vocabulary-power-plus\/index-old.html",
+      "oF" : 0
+    },
     "\/vocabulary\/vocabulary-power-plus\/index-old.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -22006,17 +22137,41 @@
       "oAP" : "\/vocabulary\/vocabulary-power-plus\/index.html",
       "oF" : 0
     },
-    "\/vocabulary\/vocabulary-power-plus\/sample-download\/index.html" : {
+    "\/vocabulary\/vocabulary-power-plus\/sample-download\/index-original.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/vocabulary\/vocabulary-power-plus\/sample-download\/index.html",
+      "oAP" : "\/vocabulary\/vocabulary-power-plus\/sample-download\/index-original.html",
       "oF" : 0
     },
-    "\/vocabulary\/vocabulary-power-plus\/sample-download\/index.kit" : {
+    "\/vocabulary\/vocabulary-power-plus\/sample-download\/index-original.kit" : {
       "cB" : 0,
       "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/vocabulary\/vocabulary-power-plus\/sample-download\/index-original.html",
+      "oF" : 0
+    },
+    "\/vocabulary\/vocabulary-power-plus\/sample-download\/index-science-of-reading.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/vocabulary\/vocabulary-power-plus\/sample-download\/index-science-of-reading.html",
+      "oF" : 0
+    },
+    "\/vocabulary\/vocabulary-power-plus\/sample-download\/index-science-of-reading.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/vocabulary\/vocabulary-power-plus\/sample-download\/index-science-of-reading.html",
+      "oF" : 0
+    },
+    "\/vocabulary\/vocabulary-power-plus\/sample-download\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/vocabulary\/vocabulary-power-plus\/sample-download\/index.html",
