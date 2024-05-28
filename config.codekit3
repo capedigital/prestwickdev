@@ -760,12 +760,12 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-4\/classroom-library-packs-grade-4.html" : {
+    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-4\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-4\/classroom-library-packs-grade-4.html",
+      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-4\/index.html",
       "oF" : 0
     },
     "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-4\/index.kit" : {
@@ -776,14 +776,6 @@
       "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-4\/index.html",
       "oF" : 0
     },
-    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-5\/classroom-library-packs-grade-5.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-5\/classroom-library-packs-grade-5.html",
-      "oF" : 0
-    },
     "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-5\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -792,12 +784,12 @@
       "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-5\/index.html",
       "oF" : 0
     },
-    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-6\/classroom-library-packs-grade-6.html" : {
+    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-6\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-6\/classroom-library-packs-grade-6.html",
+      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-6\/index.html",
       "oF" : 0
     },
     "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-6\/index.kit" : {
@@ -808,12 +800,12 @@
       "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-6\/index.html",
       "oF" : 0
     },
-    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-7\/classroom-library-packs-grade-7.html" : {
+    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-7\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-7\/classroom-library-packs-grade-7.html",
+      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-7\/index.html",
       "oF" : 0
     },
     "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-7\/index.kit" : {
@@ -824,7 +816,7 @@
       "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-7\/index.html",
       "oF" : 0
     },
-    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-8\/classroom-library-packs-grade-8.html" : {
+    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-8\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
@@ -840,12 +832,12 @@
       "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-8\/classroom-library-packs-grade-8.html",
       "oF" : 0
     },
-    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-9\/classroom-library-packs-grade-9.html" : {
+    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-9\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-9\/classroom-library-packs-grade-9.html",
+      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-9\/index.html",
       "oF" : 0
     },
     "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-9\/index.kit" : {
@@ -856,12 +848,12 @@
       "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-9\/index.html",
       "oF" : 0
     },
-    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-10\/classroom-library-packs-grade-10.html" : {
+    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-10\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-10\/classroom-library-packs-grade-10.html",
+      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-10\/index.html",
       "oF" : 0
     },
     "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-10\/index.kit" : {
@@ -872,12 +864,12 @@
       "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-10\/index.html",
       "oF" : 0
     },
-    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-11\/classroom-library-packs-grade-11.html" : {
+    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-11\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-11\/classroom-library-packs-grade-11.html",
+      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-11\/index.html",
       "oF" : 0
     },
     "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-11\/index.kit" : {
@@ -888,12 +880,12 @@
       "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-11\/index.html",
       "oF" : 0
     },
-    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-12\/classroom-library-packs-grade-12.html" : {
+    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-12\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-12\/classroom-library-packs-grade-12.html",
+      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-12\/index.html",
       "oF" : 0
     },
     "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-12\/index.kit" : {
