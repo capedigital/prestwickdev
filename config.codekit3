@@ -824,6 +824,14 @@
       "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-7\/index.html",
       "oF" : 0
     },
+    "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-8\/classroom-library-packs-grade-8.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-8\/classroom-library-packs-grade-8.html",
+      "oF" : 0
+    },
     "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-8\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -21481,36 +21489,36 @@
       "oAP" : "\/teaching-guides\/ap-literature-teaching-units\/sample-download\/index.html",
       "oF" : 0
     },
-    "\/teaching-guides\/complete-teacher-s-kits\/index.html" : {
+    "\/teaching-guides\/complete-teachers-kits\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/teaching-guides\/complete-teacher-s-kits\/index.html",
+      "oAP" : "\/teaching-guides\/complete-teachers-kits\/index.html",
       "oF" : 0
     },
-    "\/teaching-guides\/complete-teacher-s-kits\/index.kit" : {
+    "\/teaching-guides\/complete-teachers-kits\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/teaching-guides\/complete-teacher-s-kits\/index.html",
+      "oAP" : "\/teaching-guides\/complete-teachers-kits\/index.html",
       "oF" : 0
     },
-    "\/teaching-guides\/complete-teacher-s-kits\/sample-download\/index.html" : {
+    "\/teaching-guides\/complete-teachers-kits\/sample-download\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/teaching-guides\/complete-teacher-s-kits\/sample-download\/index.html",
+      "oAP" : "\/teaching-guides\/complete-teachers-kits\/sample-download\/index.html",
       "oF" : 0
     },
-    "\/teaching-guides\/complete-teacher-s-kits\/sample-download\/index.kit" : {
+    "\/teaching-guides\/complete-teachers-kits\/sample-download\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/teaching-guides\/complete-teacher-s-kits\/sample-download\/index.html",
+      "oAP" : "\/teaching-guides\/complete-teachers-kits\/sample-download\/index.html",
       "oF" : 0
     },
     "\/teaching-guides\/index.html" : {
