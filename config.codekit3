@@ -20593,6 +20593,22 @@
       "oAP" : "\/other\/index.html",
       "oF" : 0
     },
+    "\/other\/izak9.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/other\/izak9.html",
+      "oF" : 0
+    },
+    "\/other\/izak9.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/other\/izak9.html",
+      "oF" : 0
+    },
     "\/other\/keylit-landing\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
