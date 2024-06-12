@@ -20273,6 +20273,22 @@
       "oAP" : "\/old\/tam2021.html",
       "oF" : 0
     },
+    "\/online\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/online\/index.html",
+      "oF" : 0
+    },
+    "\/online\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/online\/index.html",
+      "oF" : 0
+    },
     "\/online\/keylit\/faq.html" : {
       "cB" : 0,
       "ft" : 8192,
