@@ -17754,6 +17754,17 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/Image Library\/img\/landing\/ph-landinghero-amlit.webp" : {
+      "ft" : 8388608,
+      "iS" : 68604,
+      "oA" : 0,
+      "oAP" : "\/Image Library\/img\/landing\/ph-landinghero-amlit.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/Image Library\/img\/landing\/ph-landinghero-aplangcomp-sample.png" : {
       "ft" : 32768,
       "iS" : 94725,
