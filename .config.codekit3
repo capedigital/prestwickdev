@@ -329,6 +329,22 @@
       "oAP" : "\/contests\/back-to-school-2023.html",
       "oF" : 0
     },
+    "\/contests\/back-to-school-2024.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/back-to-school-2024.html",
+      "oF" : 0
+    },
+    "\/contests\/back-to-school-2024.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/back-to-school-2024.html",
+      "oF" : 0
+    },
     "\/contests\/chill-out-winter-break-giveaway.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -791,6 +807,14 @@
       "oS" : 2,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/discount-books\/american-literature\/index-newlinks.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/discount-books\/american-literature\/index-newlinks.html",
+      "oF" : 0
     },
     "\/discount-books\/american-literature\/index.html" : {
       "cB" : 0,

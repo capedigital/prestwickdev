@@ -1,8 +1,8 @@
 $color_1:#E5E4C9;
-$color_2:#6E381E;
-$color_3:#879EB3;
-$color_4:#553019;
-$color_5:#F68847;
+$color_2:rgb(18, 59, 49);
+$color_3:rgb(151, 230, 253);
+$color_4:rgb(250, 252, 151);
+$color_5:#09362f;
 $color_6:#FFFFFF;
 $color_7:#000000;
 
@@ -20,7 +20,7 @@ html .cog-form__container, :root:root:root:root:root .cog-form__container { bord
 .ph-roundcorners-bottom-right { border-bottom-right-radius: 8px; }
 .ph-roundcorners-bottom-left { border-bottom-left-radius: 8px; }
 
-.ph-btslanding-hero { border-top: 15px solid $color_5; background-image: url('https://www.prestwickhouse.com/Image%20Library/img/landing/contests/2023-bts-landing-hero.png'); background-size: cover; background-repeat: no-repeat; background-position: center 30px; min-height: 685px; }
+//.ph-btslanding-hero { border-top: 15px solid $color_5; background-image: url('https://www.prestwickhouse.com/Image Library/img/landing/2024_Back_to_School_Giveaway_LP_hero.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center 30px; min-height: 685px; }
 
 .ph-btslanding {
     .themecolor1 { color: $color_1 !important; }
