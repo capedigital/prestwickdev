@@ -832,6 +832,30 @@
       "oAP" : "\/discount-books\/american-literature\/index.html",
       "oF" : 0
     },
+    "\/discount-books\/british-literature\/index-newlinks.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/discount-books\/british-literature\/index-newlinks.html",
+      "oF" : 0
+    },
+    "\/discount-books\/british-literature\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/discount-books\/british-literature\/index.html",
+      "oF" : 0
+    },
+    "\/discount-books\/british-literature\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/discount-books\/british-literature\/index.html",
+      "oF" : 0
+    },
     "\/discount-books\/classroom-library-packs\/classroom-library-packs-grade-4\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
