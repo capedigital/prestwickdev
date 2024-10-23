@@ -7,7 +7,7 @@
       "uuidString" : "47E4DE92-8D76-4BB1-A7BD-4AA9A8C25451"
     }
   ],
-  "creatorBuild" : "34576",
+  "creatorBuild" : "34592",
   "files" : {
     "\/.gitattributes" : {
       "cB" : 0,
@@ -199,6 +199,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/contests\/2024-a-clean-slate.html",
+      "oF" : 0
+    },
+    "\/contests\/2024-halloween-ela-giveaway.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2024-halloween-ela-giveaway.html",
+      "oF" : 0
+    },
+    "\/contests\/2024-halloween-ela-giveaway.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/contests\/2024-halloween-ela-giveaway.html",
       "oF" : 0
     },
     "\/contests\/2024-plenty-of-posters-giveaway.html" : {
@@ -1054,6 +1070,30 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/discount-books\/diverse-books\/index.html",
+      "oF" : 0
+    },
+    "\/discount-books\/graphic-novels\/index-newlinks.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/discount-books\/graphic-novels\/index-newlinks.html",
+      "oF" : 0
+    },
+    "\/discount-books\/graphic-novels\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/discount-books\/graphic-novels\/index.html",
+      "oF" : 0
+    },
+    "\/discount-books\/graphic-novels\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/discount-books\/graphic-novels\/index.html",
       "oF" : 0
     },
     "\/discount-books\/index copy.html" : {
@@ -22868,10 +22908,6 @@
         "active" : 0,
         "optionString" : "{'before': true, 'after': true, 'overrides': {}}"
       },
-      "line-comment-position" : {
-        "active" : 0,
-        "optionString" : "{'position': 'above'}"
-      },
       "linebreak-style" : {
         "active" : 0,
         "optionString" : "'unix'"
@@ -22923,10 +22959,6 @@
       "max-statements-per-line" : {
         "active" : 0,
         "optionString" : "{'max': 1}"
-      },
-      "multiline-comment-style" : {
-        "active" : 0,
-        "optionString" : "'starred-block'"
       },
       "multiline-ternary" : {
         "active" : 0,
@@ -23069,7 +23101,8 @@
         "active" : 0
       },
       "no-extra-boolean-cast" : {
-        "active" : 1
+        "active" : 1,
+        "optionString" : "{'enforceForInnerExpressions': false}"
       },
       "no-extra-label" : {
         "active" : 0
@@ -23154,7 +23187,8 @@
         "optionString" : "{'ignore': [], 'ignoreArrayIndexes': true, 'ignoreDefaultValues': false, 'ignoreClassFieldInitialValues': false, 'enforceConst': false, 'detectObjects': false}"
       },
       "no-misleading-character-class" : {
-        "active" : 1
+        "active" : 1,
+        "optionString" : "{'allowEscape': false}"
       },
       "no-mixed-operators" : {
         "active" : 0,
@@ -23522,7 +23556,8 @@
         "active" : 0
       },
       "require-unicode-regexp" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : "{'requireFlag': 'u'}"
       },
       "require-yield" : {
         "active" : 1
@@ -23952,6 +23987,7 @@
     "tsImportHelpers" : 0,
     "tsIsolatedModules" : 0,
     "tsJSXFactory" : "React.createElement",
+    "tsJSXFragmentFactory" : "Fragment",
     "tsNoEmitHelpers" : 0,
     "tsNoFallthroughCasesInSwitch" : 0,
     "tsNoImplicitAny" : 0,
